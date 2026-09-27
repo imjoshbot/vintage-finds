@@ -2,10 +2,10 @@
   "updatedAt": "2026-09-27T18:51:54Z",
   "searches": [
     {
-      "slug": "tweed-sport-coats",
-      "title": "Men's Vintage Tweed Sport Coats",
-      "benchmark": "Visual benchmark: the J. Press Light Olive Barleycorn Harris Tweed Sport Coat — muted, sophisticated, earthy brown/olive/taupe coloring with a traditional Ivy/English-country feel.",
-      "criteria": "Classic Ivy League / English-country tweed sport coat or blazer. Priority brands: J. Press, Brooks Brothers, Dunn & Co., Austin Reed, DAKS, Magee, Burberry/Burberrys, Aquascutum, Polo Ralph Lauren, O'Connell's, Southwick, Norman Hilton, Chipp, Andover Shop, Paul Stuart, and quality unbranded Harris Tweed. Harris Tweed preferred, also Donegal/Shetland. Muted brown, brown-grey, taupe, peat, lovat, light olive, olive-brown, oatmeal-brown; fine herringbone or barleycorn preferred, subtle nailhead/check okay; avoid orange/rust and loud plaids. Soft/natural shoulder, Ivy sack (3-roll-2) or classic 2/3-button — sport coat, not an overcoat. Sizes: priority 36S/36R/38S/38R, also 40S or others if measurements could be tailored to fit (shoulders ~17–18in, pit-to-pit ~19–21in, back length ~28–29.5in; sleeves alterable). Good wearable vintage condition or better, no significant moth damage/holes/stains/structural damage. Price: prioritize under $300, ideally under $200; an exceptional piece can run higher. Search eBay, Etsy, Grailed, Poshmark, Depop, Mercari, vintage menswear dealers and general web. Strongly prefer jackets with brown leather (or leather-look) buttons over horn, corozo or plastic buttons -- leather buttons are a strong positive signal for quality English-country/Ivy tailoring here and should be called out explicitly in matchNote whenever visible in listing photos or description.",
+      "slug": "sport-coats-blazers",
+      "title": "Sport Coats & Blazers",
+      "benchmark": "Major priority. Visual benchmark: the J. Press Light Olive Barleycorn Harris Tweed Sport Coat — muted, sophisticated, earthy brown/olive/taupe, traditional Ivy/English-country feel.",
+      "criteria": "Major priority category. Harris Tweed, Donegal, Shetland and other high-quality English/Scottish wool. Prioritize herringbone, barleycorn, subtle nailhead, gun club and restrained checks. Colors: peat brown, brown-grey, taupe, lovat, olive-brown, tobacco, oatmeal, charcoal, moss, muted rust, and earthy color-blends that read as a sophisticated muted brown from a distance. Favor soft/natural shoulders, 3-roll-2 sack construction, traditional two/three-button jackets and classic proportions — a sport coat/blazer, not an overcoat. Strongly prefer jackets with brown leather (or leather-look) buttons over horn, corozo or plastic buttons — leather buttons are a strong positive signal here and should be called out explicitly in matchNote whenever visible in listing photos or description. Brands: J. Press, Brooks Brothers, Ralph Lauren / Polo Ralph Lauren / Purple Label, Dunn & Co., O'Connell's, The Andover Shop, Southwick, Norman Hilton, Chipp, Paul Stuart, quality Harris Tweed makers, Magee, DAKS, Austin Reed, Burberry/Burberrys, Aquascutum, and other excellent vintage British, Scottish, Irish or American tailoring. Avoid orange/rust-dominant tweeds and loud plaids. Condition: good wearable vintage or better — avoid significant moth damage, holes, permanent stains or structural damage. Price: prioritize under $300, ideally under $200; an exceptional piece can run higher.",
       "lastRun": "2026-09-27",
       "items": [
         {
@@ -249,6 +249,63 @@
           "status": "seen"
         }
       ]
+    },
+    {
+      "slug": "suits",
+      "title": "Suits",
+      "benchmark": "Timeless natural-shoulder suiting — Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
+      "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S–38S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30–33in waist, 30–32in inseam, higher rise. Condition: good wearable vintage or better.",
+      "lastRun": "",
+      "items": []
+    },
+    {
+      "slug": "knitwear",
+      "title": "Sweaters & Knitwear",
+      "benchmark": "A brushed Shetland crewneck in oatmeal or moss — soft, textured, unmistakably Ivy/country.",
+      "criteria": "Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, brushed Shetland, cashmere, Aran knits and traditional cardigans. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal and muted Fair Isle mixtures. Brands: Ralph Lauren / Polo Ralph Lauren, J. Press, O'Connell's, Jamieson's of Shetland, Harley of Scotland, William Lockie, Johnstons of Elgin, Inis Meáin, Howlin', Drake's, Brooks Brothers, Alan Paine, Pringle of Scotland, Ballantyne and excellent vintage Scottish knitwear. Sizing: Small or Medium.",
+      "lastRun": "",
+      "items": []
+    },
+    {
+      "slug": "shirts",
+      "title": "Shirts",
+      "benchmark": "A substantial-collar Oxford button-down in university stripe — built to sit right under a tweed jacket, not a slim modern dress shirt.",
+      "criteria": "Oxford cloth button-downs, university stripes, chambray, brushed cotton, tattersall and subtle country checks. Core colors/patterns: white, cream, pale blue, blue/white university stripe, pink Oxford, blue chambray and muted tattersall. Brands: Ralph Lauren, J. Press, Brooks Brothers, Mercer & Sons, O'Connell's, Drake's, Kamakura, Gitman Vintage, Turnbull & Asser, Budd, Emma Willis and good vintage American/English makers. Shirts should have substantial collars that work well underneath tweed jackets — avoid tiny modern collars and aggressively slim fits. Sizing: Small or Medium.",
+      "lastRun": "",
+      "items": []
+    },
+    {
+      "slug": "trousers",
+      "title": "Trousers",
+      "benchmark": "Grey flannel trousers with a proper rise and a straight leg — the natural partner to a tweed jacket.",
+      "criteria": "Grey flannels, cavalry twill, whipcord, cords, moleskin, chinos and higher-rise wool trousers. Colors: grey, charcoal, tan, khaki, stone, cream, olive, tobacco and brown. Favor a classic straight or gently tapered leg rather than skinny trousers; pleats welcome when the proportions are traditional. Sizing: 30–33in waist, 30–32in inseam.",
+      "lastRun": "",
+      "items": []
+    },
+    {
+      "slug": "shoes",
+      "title": "Loafers & Shoes",
+      "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
+      "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
+      "lastRun": "",
+      "items": []
+    },
+    {
+      "slug": "ties",
+      "title": "Ties",
+      "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
+      "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
+      "lastRun": "",
+      "items": []
+    },
+    {
+      "slug": "outerwear",
+      "title": "Outerwear",
+      "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
+      "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
+      "lastRun": "",
+      "items": []
     }
-  ]
+  ],
+  "styleGuide": "WARDROBE MISSION: help build a cohesive wardrobe in the English Ralph Lauren / Ivy League / country-house aesthetic across categories — sophisticated, masculine, textured, slightly lived-in, timeless, luxurious without being flashy. Think Ralph Lauren Purple Label and vintage Polo mixed with J. Press, old Brooks Brothers, Drake's, Savile Row, Harris Tweed, English country clothing and classic American Ivy.\n\nAVOID: generic 'old money' aesthetic, trendy Instagram/preppy clothing, skinny modern tailoring, conspicuous designer logos, flashy luxury, overly precious formalwear, costume-like British country clothing, and cheap modern approximations when authentic vintage or heritage pieces are available.\n\nSIZING (approx. 5'7\"): trousers 30–33in waist, 30–32in inseam; shirts Small or Medium; sweaters Small or Medium; sport coats/suits 36S–38S preferred; shoes/loafers US 9.5. For vintage tailoring, don't rely only on tagged size — include 36R, 38R, 40S or untagged jackets when measurements suggest they could work with reasonable tailoring. Jacket ideal range: ~17–18in shoulders, ~19–21in pit-to-pit, ~28–29.5in back length; sleeves and waist are easily altered. Prioritize correct shoulders and overall proportions over the tag.\n\nHOW TO SHOP: search eBay, Grailed, Etsy, Poshmark, Depop, Mercari, The RealReal, Vestiaire Collective, consignment shops, specialist vintage menswear dealers, independent vintage stores and heritage retailers. Don't just search brand names — combine fabric + color + garment + size + heritage terms so obscure, unbranded, poorly-titled or undervalued high-quality vintage pieces surface too. Prioritize vintage/secondhand where quality clearly exceeds price; don't reject something purely for tagged size when tailoring could make it work.\n\nQUALITY BAR & REPORTING: each morning, focus primarily on newly listed items and exceptional older listings not shown before. Report ONLY genuinely good finds — 5–15 per category is plenty; never pad with mediocre or loosely-related results just to hit a number. For each: brand, tagged size, actual measurements (if available), fabric, color/pattern, condition, price, seller/platform, direct link — plus a short note on why it fits the wardrobe and any sizing/tailoring caveats. The goal is not to accumulate clothes; the goal is a cohesive, high-quality wardrobe where almost everything works together."
 }
