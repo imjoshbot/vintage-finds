@@ -1,0 +1,110 @@
+{
+  "updatedAt": "2026-09-27T00:00:00Z",
+  "searches": [
+    {
+      "slug": "tweed-sport-coats",
+      "title": "Men's Vintage Tweed Sport Coats",
+      "benchmark": "Visual benchmark: the J. Press Light Olive Barleycorn Harris Tweed Sport Coat — muted, sophisticated, earthy brown/olive/taupe coloring with a traditional Ivy/English-country feel.",
+      "criteria": "Classic Ivy League / English-country tweed sport coat or blazer. Priority brands: J. Press, Brooks Brothers, Dunn & Co., Austin Reed, DAKS, Magee, Burberry/Burberrys, Aquascutum, Polo Ralph Lauren, O'Connell's, Southwick, Norman Hilton, Chipp, Andover Shop, Paul Stuart, and quality unbranded Harris Tweed. Harris Tweed preferred, also Donegal/Shetland. Muted brown, brown-grey, taupe, peat, lovat, light olive, olive-brown, oatmeal-brown; fine herringbone or barleycorn preferred, subtle nailhead/check okay; avoid orange/rust and loud plaids. Soft/natural shoulder, Ivy sack (3-roll-2) or classic 2/3-button — sport coat, not an overcoat. Sizes: priority 36S/36R/38S/38R, also 40S or others if measurements could be tailored to fit (shoulders ~17–18in, pit-to-pit ~19–21in, back length ~28–29.5in; sleeves alterable). Good wearable vintage condition or better, no significant moth damage/holes/stains/structural damage. Price: prioritize under $300, ideally under $200; an exceptional piece can run higher. Search eBay, Etsy, Grailed, Poshmark, Depop, Mercari, vintage menswear dealers and general web.",
+      "lastRun": "2026-09-27",
+      "items": [
+        {
+          "id": "ebay-157424533627",
+          "brand": "J. Press",
+          "size": "38R",
+          "measurements": "Not listed in search results — verify with seller",
+          "colorWeave": "Woven flecked (\"specked\") heavyweight Harris Tweed — flecking often reads as barleycorn/nailhead",
+          "condition": "Vintage — check listing photos for wear",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/157424533627",
+          "matchNote": "Bullseye brand (J. Press) and bullseye size (38R); \"specked\" flecked heavyweight tweed is very close to the barleycorn benchmark. Top pick to check first — but confirm US shipping since it's listed on the German eBay site.",
+          "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "ebay-168295275442",
+          "brand": "Harris Tweed (unbranded maker)",
+          "size": "38R",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Handwoven Scottish wool tweed, listed as \"Classic Academia\" styling",
+          "condition": "Vintage — check listing photos for wear",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/168295275442",
+          "matchNote": "Exact target size (38R) and genuine handwoven Harris Tweed. Confirm from photos that the tone reads earthy brown/olive rather than grey before bidding.",
+          "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "etsy-4349302699",
+          "brand": "Southwick",
+          "size": "39/40 Short",
+          "measurements": "Not listed — verify with seller; \"Short\" length is a good sign against the 28–29.5in back-length target",
+          "colorWeave": "Gray herringbone Shetland tweed, 3/2 roll sack",
+          "condition": "Vintage — check listing",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "Etsy",
+          "link": "https://www.etsy.com/listing/4349302699/vintage-southwick-gray-herringbone",
+          "matchNote": "Excellent silhouette match (3/2 sack, Short length near target size range) from a top-tier Ivy maker that supplied J. Press and the Andover Shop. Color is gray rather than the preferred brown/olive/taupe — worth a look if the gray leans warm/brown-grey in person.",
+          "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "etsy-1392297279",
+          "brand": "Southwick",
+          "size": "Not specified in search snippet — check listing",
+          "measurements": "Unknown — check listing",
+          "colorWeave": "Harris Tweed (Southwick label)",
+          "condition": "Vintage — check listing",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "Etsy",
+          "link": "https://www.etsy.com/listing/1392297279/vintage-harris-tweed-southwick-sport",
+          "matchNote": "Southwick + genuine Harris Tweed is a strong brand combination, but size and color aren't visible from the search result — check the listing directly before getting excited.",
+          "strongMatch": false,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "etsy-1724458072",
+          "brand": "J. Press",
+          "size": "44 Regular",
+          "measurements": "Tagged 44R — well outside the 36–40 target range",
+          "colorWeave": "Green herringbone Harris Tweed, 3/2 roll sack, made in USA",
+          "condition": "Vintage — check listing",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "Etsy",
+          "link": "https://www.etsy.com/listing/1724458072/vintage-j-press-green-herringbone-harris",
+          "matchNote": "Dead-on brand, weave and color (green herringbone Harris Tweed sack) — but 44R is too large to tailor down to a 36–38 fit. Honorable mention only, unless the actual chest measurement runs smaller than tagged.",
+          "strongMatch": false,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "ebay-206025862526",
+          "brand": "J. Press",
+          "size": "L (alpha — likely ~42–44)",
+          "measurements": "Unknown — check listing",
+          "colorWeave": "Gray herringbone Harris Tweed blazer",
+          "condition": "Vintage — check listing",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/206025862526",
+          "matchNote": "Right brand and weave family, but alpha size \"L\" likely runs larger than target and the color is gray rather than earthy brown/olive.",
+          "strongMatch": false,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        }
+      ]
+    }
+  ]
+}
