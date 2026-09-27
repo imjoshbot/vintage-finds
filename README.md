@@ -34,6 +34,7 @@ coats & blazers, suits, knitwear, shirts, trousers, shoes, ties, and outerwear.
           "priceVerified": false,
           "source": "eBay | Etsy | Grailed | ...",
           "link": "",
+          "img": "optional listing thumbnail URL — omit if the marketplace blocks fetching it (eBay/Etsy usually do; Poshmark and small Shopify dealer sites often work). The app falls back to an engraved-initial plate when missing or broken.",
           "matchNote": "why it matches (or doesn't) the criteria",
           "strongMatch": true,
           "foundAt": "YYYY-MM-DD",
