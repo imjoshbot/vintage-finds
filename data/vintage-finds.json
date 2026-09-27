@@ -41,54 +41,6 @@
           "status": "new"
         },
         {
-          "id": "poshmark-harristweed-josabank-5c16bf04e944ba2da749aaf5",
-          "brand": "Harris Tweed for Jos. A. Bank",
-          "size": "38R",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Tan/brown herringbone Harris Tweed",
-          "condition": "Not listed — check listing photos",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
-          "source": "Poshmark",
-          "link": "https://poshmark.com/listing/Harris-Tweed-Tan-Brown-Herringbone-Blazer-38R-5c16bf04e944ba2da749aaf5",
-          "matchNote": "Bullseye size (38R), bullseye color (tan/brown herringbone), genuine Harris Tweed, and explicitly described as \"3 Button Roll 2\" with a single vent — a real Ivy sack silhouette. Retailer is Jos. A. Bank rather than a priority maker, but every other signal is strong. Check photos for leather buttons.",
-          "strongMatch": true,
-          "foundAt": "2026-09-27",
-          "status": "new"
-        },
-        {
-          "id": "poshmark-stafford-69014c13dff1f1eb395dc02e",
-          "brand": "Stafford (Harris Tweed fabric)",
-          "size": "38",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Brown herringbone",
-          "condition": "Not listed — check listing photos",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
-          "source": "Poshmark",
-          "link": "https://poshmark.com/listing/Stafford-Harris-Tweed-Vintage-Blazer-Mens-38-Herringbone-Two-Button-Brown-69014c13dff1f1eb395dc02e",
-          "matchNote": "Bullseye size (38), bullseye color/weave (brown herringbone), genuine Harris Tweed, classic two-button cut. Stafford is not a priority brand but the fabric and color are exactly on-brief. Check photos for leather buttons.",
-          "strongMatch": true,
-          "foundAt": "2026-09-27",
-          "status": "new"
-        },
-        {
-          "id": "poshmark-harristweed-5fd799cd9c3378c4a0978472",
-          "brand": "Harris Tweed (unbranded maker)",
-          "size": "38R",
-          "measurements": "Pit-to-pit ~20.5in, sleeve ~24.5in, back length ~29in per listing — lands right in the brief's target ranges",
-          "colorWeave": "Herringbone Harris Tweed — exact color not specified in search snippet, check listing photos to confirm it's in the brown/olive/taupe family",
-          "condition": "\"Preowned, no stains, rips or holes\" per listing",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
-          "source": "Poshmark",
-          "link": "https://poshmark.com/listing/Harris-Tweed-Wool-Herringbone-Jacket-38R-5fd799cd9c3378c4a0978472",
-          "matchNote": "Bullseye size (38R) with measurements that map almost exactly onto the brief's target shoulders/pit-to-pit/length, genuine Harris Tweed, and clean condition. Color isn't confirmed as brown/olive from the snippet, so verify tone in photos before buying. Check for leather buttons too.",
-          "strongMatch": true,
-          "foundAt": "2026-09-27",
-          "status": "new"
-        },
-        {
           "id": "ebay-175632853621",
           "brand": "Magee",
           "size": "40R/41R",
@@ -134,7 +86,8 @@
           "matchNote": "Bullseye brand (Southwick), bullseye size (38R), and bullseye color (dark olive Harris Tweed) — made for Epaulet NY, described as mint/worn once. Price is well above the $200–300 target, but this is exactly the kind of exceptional piece the brief allows to run higher. Still showing as active in seller's listings on re-check.",
           "strongMatch": true,
           "foundAt": "2026-09-27",
-          "status": "seen"
+          "status": "seen",
+          "img": "https://di2ponv0v5otw.cloudfront.net/posts/2025/12/01/692e0d4b64f5a233ad45587a/l_692e0d4d243daea0f2749f5e.jpeg"
         },
         {
           "id": "ebay-154674391849",
