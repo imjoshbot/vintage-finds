@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T00:00:00Z",
+  "updatedAt": "2026-09-27T18:34:14Z",
   "searches": [
     {
       "slug": "tweed-sport-coats",
@@ -8,6 +8,102 @@
       "criteria": "Classic Ivy League / English-country tweed sport coat or blazer. Priority brands: J. Press, Brooks Brothers, Dunn & Co., Austin Reed, DAKS, Magee, Burberry/Burberrys, Aquascutum, Polo Ralph Lauren, O'Connell's, Southwick, Norman Hilton, Chipp, Andover Shop, Paul Stuart, and quality unbranded Harris Tweed. Harris Tweed preferred, also Donegal/Shetland. Muted brown, brown-grey, taupe, peat, lovat, light olive, olive-brown, oatmeal-brown; fine herringbone or barleycorn preferred, subtle nailhead/check okay; avoid orange/rust and loud plaids. Soft/natural shoulder, Ivy sack (3-roll-2) or classic 2/3-button — sport coat, not an overcoat. Sizes: priority 36S/36R/38S/38R, also 40S or others if measurements could be tailored to fit (shoulders ~17–18in, pit-to-pit ~19–21in, back length ~28–29.5in; sleeves alterable). Good wearable vintage condition or better, no significant moth damage/holes/stains/structural damage. Price: prioritize under $300, ideally under $200; an exceptional piece can run higher. Search eBay, Etsy, Grailed, Poshmark, Depop, Mercari, vintage menswear dealers and general web.",
       "lastRun": "2026-09-27",
       "items": [
+        {
+          "id": "poshmark-southwick-692e0d4b64f5a233ad45587a",
+          "brand": "Southwick",
+          "size": "38R",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Dark olive Harris Tweed",
+          "condition": "Mint — worn once, per listing",
+          "price": "$450 (listed down from $1,200)",
+          "priceVerified": true,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Mint-Epaulet-Southwick-Sport-Coat-Dark-Olive-Harris-Tweed-Blazer-38R-692e0d4b64f5a233ad45587a",
+          "matchNote": "Bullseye brand (Southwick), bullseye size (38R), and bullseye color (dark olive Harris Tweed) — made for Epaulet NY, described as mint/worn once. Price is well above the $200–300 target, but this is exactly the kind of exceptional piece the brief allows to run higher.",
+          "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "ebay-154674391849",
+          "brand": "Harris Tweed (unbranded maker)",
+          "size": "36R",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Brown solid/textured Harris Tweed",
+          "condition": "Pre-owned, described as great condition/no defects in listing",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/154674391849",
+          "matchNote": "Genuine Harris Tweed in solid brown and a bullseye size (36R), classic two-button cut. No named maker beyond Harris Tweed itself, but color and size are dead-on.",
+          "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "poshmark-harris-tweed-68d94db9b14a06b73799f08e",
+          "brand": "Harris Tweed (unbranded maker)",
+          "size": "36S",
+          "measurements": "Not listed — verify with seller; Short length is a plus against the 28–29.5in back-length target",
+          "colorWeave": "Brown herringbone Harris Tweed",
+          "condition": "Excellent — no visible imperfections per listing; union made in Canada",
+          "price": "$85 (or best offer)",
+          "priceVerified": true,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Vintage-Harris-Tweed-Brown-Herringbone-Blazer-Sport-Coat-36S-68d94db9b14a06b73799f08e",
+          "matchNote": "Bullseye size (36S) and color (brown herringbone), genuine Harris Tweed, well under budget at $85. No named maker beyond Harris Tweed, but otherwise an excellent match.",
+          "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "secondfirst-harris-tweed-brown-herringbone-38r",
+          "brand": "Harris Tweed (unbranded maker)",
+          "size": "38R (listing title says 38R; the product URL slug oddly reads \"36R\" — confirm actual tagged size with seller)",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Brown herringbone Harris Tweed",
+          "condition": "Described as perfect, near-new condition by the dealer",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "SecondFirst (vintage dealer)",
+          "link": "https://secondfirst.shop/products/harris-tweed-brown-herringbone-sport-coat-usa-36r-eu-46",
+          "matchNote": "Brown herringbone Harris Tweed from a vintage specialty dealer, near-new condition, right in the target size range — but double check the tagged size since the page title (38R) and URL slug (36R) disagree.",
+          "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "hendleys-polo-ralph-lauren-38r-barleycorn",
+          "brand": "Polo Ralph Lauren",
+          "size": "38R",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Beige barleycorn wool tweed",
+          "condition": "Vintage, dated to the early 1970s by the dealer via union label — check listing photos for wear",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "Hendleys Emporium (vintage dealer)",
+          "link": "https://hendleysemporium.com/products/polo-ralph-lauren-tweed-sports-coat-38-r-beige-barleyco",
+          "matchNote": "Priority brand (Polo Ralph Lauren), bullseye size (38R), and barleycorn weave in beige — reads close to the oatmeal-brown end of the target palette. One of the earliest RL tweed pieces per the dealer's union-label dating.",
+          "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "etsy-1796750075",
+          "brand": "Harris Tweed (unbranded maker)",
+          "size": "38R/38S (listed as both — confirm which with seller)",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Brown Harris Tweed wool",
+          "condition": "Vintage — check listing photos for wear",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "Etsy",
+          "link": "https://www.etsy.com/listing/1796750075/harris-tweed-sport-coat-38r-38s-wool",
+          "matchNote": "Bullseye size and brown coloring in genuine Harris Tweed. No named maker beyond Harris Tweed itself.",
+          "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
         {
           "id": "ebay-157424533627",
           "brand": "J. Press",
@@ -22,7 +118,7 @@
           "matchNote": "Bullseye brand (J. Press) and bullseye size (38R); \"specked\" flecked heavyweight tweed is very close to the barleycorn benchmark. Top pick to check first — but confirm US shipping since it's listed on the German eBay site.",
           "strongMatch": true,
           "foundAt": "2026-09-27",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-168295275442",
@@ -38,7 +134,7 @@
           "matchNote": "Exact target size (38R) and genuine handwoven Harris Tweed. Confirm from photos that the tone reads earthy brown/olive rather than grey before bidding.",
           "strongMatch": true,
           "foundAt": "2026-09-27",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-4349302699",
@@ -53,6 +149,54 @@
           "link": "https://www.etsy.com/listing/4349302699/vintage-southwick-gray-herringbone",
           "matchNote": "Excellent silhouette match (3/2 sack, Short length near target size range) from a top-tier Ivy maker that supplied J. Press and the Andover Shop. Color is gray rather than the preferred brown/olive/taupe — worth a look if the gray leans warm/brown-grey in person.",
           "strongMatch": true,
+          "foundAt": "2026-09-27",
+          "status": "seen"
+        },
+        {
+          "id": "ebay-318612217033",
+          "brand": "O'Connell's",
+          "size": "44 — well outside the 36–40 target range",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Olive/green herringbone Harris Tweed with windowpane",
+          "condition": "Pre-owned, described as excellent condition",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/318612217033",
+          "matchNote": "Priority brand (O'Connell's) and dead-on color/weave (olive herringbone Harris Tweed with windowpane) — but size 44 is too large to tailor down to the 36–38 target, same issue as the J. Press 44R piece below. Honorable mention only.",
+          "strongMatch": false,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "grailed-18161724",
+          "brand": "Not specified in listing title — check listing",
+          "size": "38S",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Harris Tweed — color/pattern not visible in search snippet, check listing photos",
+          "condition": "Listed as \"gently used\"",
+          "price": "$30 (marked down from $55) + $15 shipping",
+          "priceVerified": true,
+          "source": "Grailed",
+          "link": "https://www.grailed.com/listings/18161724-vintage-harris-tweed-jacket-38s",
+          "matchNote": "Bullseye size (38S) and genuine Harris Tweed at a very low price, but brand, color and weave aren't visible from the search result — check listing photos before buying to confirm it's in the muted brown/olive/taupe family rather than gray or a loud check.",
+          "strongMatch": false,
+          "foundAt": "2026-09-27",
+          "status": "new"
+        },
+        {
+          "id": "ebay-197599689766",
+          "brand": "Harris Tweed (unbranded maker)",
+          "size": "38R",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Brown Harris Tweed wool",
+          "condition": "Listed as \"Distressed\" — check photos carefully for moth damage/holes before buying",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/197599689766",
+          "matchNote": "Bullseye size (38R) and brown coloring in genuine Harris Tweed, 1960s vintage, union-made USA — but the listing itself flags \"Distressed\" condition, which conflicts with the brief's no-significant-damage requirement. Only worth pursuing if the distress turns out to be cosmetic/minor.",
+          "strongMatch": false,
           "foundAt": "2026-09-27",
           "status": "new"
         },
@@ -70,7 +214,7 @@
           "matchNote": "Southwick + genuine Harris Tweed is a strong brand combination, but size and color aren't visible from the search result — check the listing directly before getting excited.",
           "strongMatch": false,
           "foundAt": "2026-09-27",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-1724458072",
@@ -86,7 +230,7 @@
           "matchNote": "Dead-on brand, weave and color (green herringbone Harris Tweed sack) — but 44R is too large to tailor down to a 36–38 fit. Honorable mention only, unless the actual chest measurement runs smaller than tagged.",
           "strongMatch": false,
           "foundAt": "2026-09-27",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-206025862526",
@@ -102,7 +246,7 @@
           "matchNote": "Right brand and weave family, but alpha size \"L\" likely runs larger than target and the color is gray rather than earthy brown/olive.",
           "strongMatch": false,
           "foundAt": "2026-09-27",
-          "status": "new"
+          "status": "seen"
         }
       ]
     }
