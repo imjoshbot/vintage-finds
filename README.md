@@ -6,8 +6,9 @@ powering the "Vintage Hunt" section of the [Horowitz holiday gift guide](https:/
 `data/vintage-finds.json` is fetched at runtime by the gift guide's `/vintage` page
 (via `raw.githubusercontent.com`, no build step needed), and is refreshed daily by
 a scheduled cloud agent ("Vintage Hunt" routine). It currently runs a full
-English-Ralph-Lauren / Ivy / country wardrobe build-out across 8 categories: sport
-coats & blazers, suits, knitwear, shirts, trousers, shoes, ties, and outerwear.
+English-Ralph-Lauren / Ivy / country wardrobe build-out across 7 categories: sport
+coats & blazers, suits, knitwear (narrowed to vintage Ralph Lauren / RRL / Drake's /
+J. Press), trousers, shoes, ties, and outerwear.
 
 ## Schema
 
