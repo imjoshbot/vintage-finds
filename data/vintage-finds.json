@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:22:00Z",
+  "updatedAt": "2026-09-29T12:32:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -1117,7 +1117,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-09-28",
+      "lastRun": "2026-09-29",
       "items": [
         {
           "id": "ebay-barbour-ashby-38",
@@ -1133,7 +1133,7 @@
           "matchNote": "Barbour Ashby is a core waxed-jacket silhouette named in the category brief; brown lifetime wax layers well over tweed or a heavy sweater for country outerwear. Size 38 sits right in the target range. It's NWT rather than vintage-patina'd, but authentic Barbour construction and a named heritage brand.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-aquascutum-hiddenbutton-trench-38",
@@ -1149,7 +1149,7 @@
           "matchNote": "Classic London-made Aquascutum trench with the more understated hidden-button front (vs. a belted Burberry-style trench). Aquascutum is a named heritage brand and size 38 is in range.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-aquascutum-aqua5-olive-38",
@@ -1165,7 +1165,7 @@
           "matchNote": "Olive is one of the brief's priority colors, and a belted olive-drab Aquascutum with club-check lining is a distinctive alternative to the usual beige trench. Size 38 fits target range.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-jpress-balmacaan-gray-m",
@@ -1181,7 +1181,7 @@
           "matchNote": "J. Press is a named heritage Ivy brand, and the balmacaan is exactly the raglan-sleeve Ivy overcoat silhouette the brief calls for. Excellent value at this price. Confirm chest/shoulder against the sizing guide before buying.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-brooksbrothers-camelhair-polocoat",
@@ -1197,7 +1197,7 @@
           "matchNote": "Title explicitly confirms this is a camel hair polo coat from Brooks Brothers — the literal benchmark item described in this category's brief ('a camelhair polo coat... outerwear with real weight and history'). Size and price weren't visible in search results, so this needs verification before purchase, but it's worth a direct look given how precisely it matches the stated benchmark.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-grenfell-rainjacket-36",
@@ -1213,7 +1213,7 @@
           "matchNote": "Genuine vintage Grenfell mountain-label rain jacket in the brand's own cloth — squarely the 'field jacket / traditional raincoat' territory the brief calls for, and Grenfell is named explicitly. Tagged 36 is below preferred range so shoulder width matters most here.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-aquascutum-beige-trench-38s",
@@ -1229,7 +1229,7 @@
           "matchNote": "Traditional beige Aquascutum trench with a removable zip-out lining for three-season versatility; solidly in-range at 38S.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-burberrys-green-nova-40r",
@@ -1245,7 +1245,7 @@
           "matchNote": "Green reads more country than the ubiquitous tan Burberry trench. 40R runs one size over the jacket-shoulder target, but the brief explicitly allows outerwear to run larger to layer over a jacket — confirm shoulder measurement before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-jpress-balmacaan-blue-m",
@@ -1261,7 +1261,7 @@
           "matchNote": "Second J. Press balmacaan in navy/blue — same Ivy raglan-coat silhouette as the gray one above, useful if a second color is wanted. Size M, verify measurements before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-grenfell-navy-trench-m-begg",
@@ -1277,7 +1277,7 @@
           "matchNote": "Navy Grenfell trench with a Begg (Scottish heritage textile house) liner — good pedigree layering of two English/Scottish heritage names. Size M should suit the Small/Medium target; verify shoulders.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-grenfell-crossfell-beige-m",
@@ -1293,6 +1293,22 @@
           "matchNote": "Lower-tier Grenfell diffusion (Crossfell) but still the named heritage maker in a wearable beige, Medium size aligning well with the sizing guide. Lighter/simpler than the mountain-cloth pieces above — treat as a solid everyday option rather than a standout.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
+          "status": "seen"
+        },
+        {
+          "id": "poshmark-barbour-moorland-a820-olive-69794607c71ba19a0aa5ca1a",
+          "brand": "Barbour (Moorland A820)",
+          "size": "Not listed in snippet -- verify with seller",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Waxed cotton, dark olive",
+          "condition": "Vintage, condition not detailed in snippet",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Vintage-Barbour-Moorland-A820-Dark-Olive-Waxed-Jacket-69794607c71ba19a0aa5ca1a",
+          "matchNote": "A distinct Barbour waxed-jacket model (Moorland A820) from the Ashby already in the list, in the core dark olive colorway -- good field-jacket alternative, but size was not visible in the snippet so it must be confirmed before buying.",
+          "strongMatch": false,
+          "foundAt": "2026-09-29",
           "status": "new"
         }
       ]
