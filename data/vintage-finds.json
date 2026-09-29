@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-28T11:35:00Z",
+  "updatedAt": "2026-09-29T11:35:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
       "title": "Sport Coats & Blazers",
       "benchmark": "Major priority. Visual benchmark: the J. Press Light Olive Barleycorn Harris Tweed Sport Coat — muted, sophisticated, earthy brown/olive/taupe, traditional Ivy/English-country feel.",
       "criteria": "Major priority category. Harris Tweed, Donegal, Shetland and other high-quality English/Scottish wool. Prioritize herringbone, barleycorn, subtle nailhead, gun club and restrained checks. Colors: peat brown, brown-grey, taupe, lovat, olive-brown, tobacco, oatmeal, charcoal, moss, muted rust, and earthy color-blends that read as a sophisticated muted brown from a distance. Favor soft/natural shoulders, 3-roll-2 sack construction, traditional two/three-button jackets and classic proportions — a sport coat/blazer, not an overcoat. Strongly prefer jackets with brown leather (or leather-look) buttons over horn, corozo or plastic buttons — leather buttons are a strong positive signal here and should be called out explicitly in matchNote whenever visible in listing photos or description. Brands: J. Press, Brooks Brothers, Ralph Lauren / Polo Ralph Lauren / Purple Label, Dunn & Co., O'Connell's, The Andover Shop, Southwick, Norman Hilton, Chipp, Paul Stuart, quality Harris Tweed makers, Magee, DAKS, Austin Reed, Burberry/Burberrys, Aquascutum, and other excellent vintage British, Scottish, Irish or American tailoring. Avoid orange/rust-dominant tweeds and loud plaids. Condition: good wearable vintage or better — avoid significant moth damage, holes, permanent stains or structural damage. Price: prioritize under $300, ideally under $200; an exceptional piece can run higher.",
-      "lastRun": "2026-09-28",
+      "lastRun": "2026-09-29",
       "items": [
         {
           "id": "ebay-137745976467",
@@ -22,7 +22,7 @@
           "matchNote": "Bullseye brand (J. Press) and target size (38), beige color reads close to the oatmeal-brown end of the palette. Rolled lapel, hook vent, 3-button single-breasted — classic Ivy sack styling. Leather elbow patches called out in the listing (a good quality signal), but button material itself isn't confirmed — check photos for leather buttons specifically.",
           "strongMatch": true,
           "foundAt": "2026-09-27",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-117285898135",
@@ -38,7 +38,7 @@
           "matchNote": "Genuine Harris Tweed in a brown multi colorway and a bullseye size (38R). No named maker beyond Harris Tweed itself, but color and size are dead-on. Button material not visible in search snippet — check photos for leather buttons.",
           "strongMatch": true,
           "foundAt": "2026-09-27",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-175632853621",
@@ -54,7 +54,7 @@
           "matchNote": "Priority brand (Magee) in genuine Donegal — an explicitly accepted alternate fabric — with a muted gray-speckle tone the brief allows (brown-grey/taupe family). Size sits at the edge of the \"40S or others if tailorable\" allowance rather than bullseye 36–38. Check photos for leather buttons.",
           "strongMatch": true,
           "foundAt": "2026-09-27",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-124509917657",
@@ -70,7 +70,7 @@
           "matchNote": "Priority brand (Austin Reed) in the preferred brown palette, hand-tailored. 40L is a length variant near the brief's \"40S or others if tailorable\" allowance rather than bullseye 36–38. Suede (not leather) elbow patches noted — button material itself isn't confirmed, check photos for leather buttons.",
           "strongMatch": true,
           "foundAt": "2026-09-27",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-336213388322",
@@ -86,7 +86,7 @@
           "matchNote": "Brown Harris Tweed in the exact 38R size sweet spot — core benchmark color. No pattern/leather-button detail visible in snippet; verify shoulder/pit-to-pit measurements and button material from photos before buying.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-185737821452",
@@ -102,7 +102,7 @@
           "matchNote": "Leather buttons called out explicitly in the listing title — strong positive signal per the brief. Pendleton is solid American heritage wool, gray herringbone reads correctly muted, and 38R is dead-center sizing.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-115698105833",
@@ -118,7 +118,7 @@
           "matchNote": "Leather buttons explicitly in the listing title (again). Brown speckled herringbone in 38R is squarely on the benchmark color/pattern and size — one of the stronger finds this pass.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-195263486050",
@@ -134,7 +134,7 @@
           "matchNote": "Chipp is an explicitly favored Ivy heritage maker. Grey herringbone in a near-ideal 39R with a whimsical fox-head lining — classic old-school Ivy detail. Verify button material and shoulder measurements.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-195219383741",
@@ -150,7 +150,7 @@
           "matchNote": "Chipp (favored brand) in a restrained grey/olive gun club check — exactly the pattern the brief calls out as preferred. 39R is close enough for easy tailoring.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-southwick-692e0d4b64f5a233ad45587a",
@@ -231,7 +231,7 @@
           "matchNote": "Scottish Harris Tweed in grey, a solid neutral for the wardrobe, but size/price unverified — confirm size 38R and check for leather vs. horn buttons before pursuing.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-551068736",
@@ -247,7 +247,7 @@
           "matchNote": "Brown herringbone Harris Tweed — core benchmark color/pattern. Darted front (not sack) with 2-button closure and 3-button cuffs. Tagged 40 runs above the ideal 36-38 chest, but the Short length is promising for a 5'7\" build if shoulders measure ~17-18in; worth checking with seller before passing.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-4372770093",
@@ -263,6 +263,22 @@
           "matchNote": "Sack construction in dark brown herringbone — very on-brief for the Ivy silhouette, and a collegiate-shop label adds heritage character. The 40 Long tag is a stretch outside the ideal size range (Long especially, given the 5'7\" frame), so only pursue if seller-provided shoulder/back-length measurements clear the ~17-18in shoulder / ~28-29.5in back length targets.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
+          "status": "seen"
+        },
+        {
+          "id": "poshmark-harristweed-40l-leatherbuttons-66d0450b1b40a79065e97ae6",
+          "brand": "Harris Tweed (Savile Row labeled, maker not stated)",
+          "size": "40L (above the 36-38 ideal range — verify shoulder before buying)",
+          "measurements": "Not listed — verify with seller",
+          "colorWeave": "Herringbone Harris Tweed, Scotland",
+          "condition": "Vintage — check listing photos for wear",
+          "price": "Not confirmed via search — check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Harris-Tweed-Herringbone-Sport-Coat-Mens-40L-Scotland-Savile-Row-Leather-Buttons-66d0450b1b40a79065e97ae6",
+          "matchNote": "Leather buttons explicitly called out in the listing title -- a strong positive signal per the brief. Genuine Harris Tweed herringbone with a Savile Row label. 40L runs above the ideal 36-38 range, so only worth pursuing if shoulder measurements clear the ~17-18in target.",
+          "strongMatch": false,
+          "foundAt": "2026-09-29",
           "status": "new"
         }
       ]
