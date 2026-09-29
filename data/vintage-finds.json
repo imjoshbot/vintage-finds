@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T11:55:00Z",
+  "updatedAt": "2026-09-29T12:05:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -530,7 +530,7 @@
       "title": "Trousers",
       "benchmark": "Grey flannel trousers with a proper rise and a straight leg — the natural partner to a tweed jacket.",
       "criteria": "Grey flannels, cavalry twill, whipcord, cords, moleskin, chinos and higher-rise wool trousers. Colors: grey, charcoal, tan, khaki, stone, cream, olive, tobacco and brown. Favor a classic straight or gently tapered leg rather than skinny trousers; pleats welcome when the proportions are traditional. Sizing: 30–33in waist, 30–32in inseam.",
-      "lastRun": "2026-09-28",
+      "lastRun": "2026-09-29",
       "items": [
         {
           "id": "ebay-186842150920",
@@ -546,7 +546,7 @@
           "matchNote": "Wool whipcord in olive is squarely on-brief (whipcord explicitly named in category criteria); Filson heritage American workwear pairs well with the tweed/country aesthetic. 28in inseam is short of the 30-32 target — would need a longer-inseam alternative or cuffs let out.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "noihsaf-w64855",
@@ -562,7 +562,7 @@
           "matchNote": "Charcoal wool whipcord at exactly 32in waist — strong straight-leg country-trouser candidate, same idea as the grey flannel benchmark but in a hardier twill weave. Noihsaf is a reputable curated vintage/workwear reseller.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-128082739088",
@@ -578,7 +578,7 @@
           "matchNote": "Straight-leg brown corduroy at ideal 32x30 — good casual trouser to pair with tweed or shetland knits; straight (not skinny) leg per title, which matches the style guide's silhouette preference.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-117344423945",
@@ -594,7 +594,7 @@
           "matchNote": "Pleated beige cord in the Andrew (relaxed/classic) fit at true 32x32 — pleats are traditional-proportioned per RL's classic cut, fits the 'pleats welcome when proportions are traditional' note. Stone/cream colorway is on the approved palette.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-306439034533",
@@ -610,7 +610,7 @@
           "matchNote": "Pleated, cuffed grey wool trouser in the exact 32in waist range — the benchmark silhouette (proper rise pleated flannel) if the cordovan is a subtle windowpane/overcheck rather than solid cordovan color; verify fabric and rise before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "grailed-77880701",
@@ -626,7 +626,7 @@
           "matchNote": "Directly named 'pleated wool flannel trousers' from Ralph Lauren — exactly the benchmark item if size and color check out; size wasn't visible in search snippet so must be verified before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-376521809540",
@@ -642,7 +642,7 @@
           "matchNote": "Classic Ivy pleated/cuffed brown cord in Brooks Brothers' 346 line — exactly the tweed-jacket companion trouser. Tagged 34 waist is 1-2in over the 30-33 target range; only worth it if seller measurements show a true waist closer to 32-33 or there's enough seam allowance to take in.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-186399465055",
@@ -658,6 +658,38 @@
           "matchNote": "English-milled olive moleskin, a fabric explicitly called for in this category's brief and core to Drake's/English-country dressing. Size wasn't visible in the search snippet — must verify waist/inseam fall in the 30-33/30-32 range before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
+          "status": "seen"
+        },
+        {
+          "id": "poshmark-polo-preston-graycord-32x30-691904058d9977557200ae3c",
+          "brand": "Polo Ralph Lauren (Preston fit)",
+          "size": "32 waist x 30 inseam",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Gray corduroy, straight leg",
+          "condition": "Vintage, condition not detailed in snippet",
+          "price": "$40 + $6.49 shipping",
+          "priceVerified": true,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Vintage-Polo-Ralph-Lauren-Preston-Pants-Men-32x30-Gray-Corduroy-Straight-691904058d9977557200ae3c",
+          "matchNote": "True 32x30 in the Preston (classic straight) fit -- dead-on target waist/inseam, gray cord pairs cleanly with tweed and flannel jackets, and the price is confirmed and reasonable.",
+          "strongMatch": true,
+          "foundAt": "2026-09-29",
+          "status": "new"
+        },
+        {
+          "id": "poshmark-polo-moleskin-brown-3432-67d58d0b1df636fa6c77feae",
+          "brand": "Polo Ralph Lauren",
+          "size": "34 waist x 32 inseam (waist runs 1in over the 30-33 target)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Brown moleskin",
+          "condition": "Vintage, condition not detailed in snippet",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Polo-Ralph-Lauren-Vintage-moleskin-brown-pants-3432-67d58d0b1df636fa6c77feae",
+          "matchNote": "Brown moleskin is explicitly named in this category's fabric list and Polo Ralph Lauren is a priority brand; 34in waist is just over the ideal 30-33in range, worth a look if the seller confirms a smaller actual waist.",
+          "strongMatch": false,
+          "foundAt": "2026-09-29",
           "status": "new"
         }
       ]
