@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T11:45:00Z",
+  "updatedAt": "2026-09-29T11:55:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -441,7 +441,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle — soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus — ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-09-28",
+      "lastRun": "2026-09-29",
       "items": [
         {
           "id": "ebay-jpress-shaggydog-md",
@@ -457,7 +457,7 @@
           "matchNote": "J. Press Shaggy Dog is the archetypal Ivy brushed-Shetland crewneck named in the category benchmark; exact brand + Medium size match. Verify the 'rare color' is within the target oatmeal/moss/olive/tobacco palette before buying.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-polo-cricket-vest-sm",
@@ -473,7 +473,7 @@
           "matchNote": "Cricket sweaters are called out explicitly in the category brief; Polo Ralph Lauren cable-knit cricket vest in cream/white and exact tagged Small is a clean Ivy/country-club match, wearable layered over an OCBD.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebayde-rrl-fairisle-sm",
@@ -489,6 +489,38 @@
           "matchNote": "RRL is Ralph Lauren's own vintage-replica house line, explicitly on-brand for the wardrobe mission, and Fair Isle knitwear is named directly in the category brief. Exact tagged Small. Priced well above the category's usual range — only worth it if the pattern/condition are exceptional in person.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
+          "status": "seen"
+        },
+        {
+          "id": "poshmark-jpress-shaggydog-orange-66a98a1e943ddbc53369f730",
+          "brand": "J. Press",
+          "size": "Medium (seller notes it fits like a Small)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "100% Shetland wool, brushed Shaggy Dog texture, orange",
+          "condition": "Great condition, minor signs of wear per listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Shaggy-Dog-J-Press-Shetland-Wool-Sweater-Medium-Orange-Fits-Like-Small-66a98a1e943ddbc53369f730",
+          "matchNote": "Second J. Press Shaggy Dog this run -- seller explicitly notes it runs small, so a tagged Medium should land right in the S/M target. Orange is a bolder color than the oatmeal/tobacco palette but still within the brief's Shetland-crewneck spirit.",
+          "strongMatch": false,
+          "foundAt": "2026-09-29",
+          "status": "new"
+        },
+        {
+          "id": "poshmark-polo-fairisle-nordic-md-68007e79e948984115bd60f2",
+          "brand": "Polo Ralph Lauren",
+          "size": "Medium",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Fair Isle Nordic knit, blue/black/white",
+          "condition": "Vintage 1990s, condition not detailed in snippet",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Vintage-90s-Polo-Ralph-Lauren-Mens-Fair-Isle-Sweater-Blue-Black-Medium-Nordic-68007e79e948984115bd60f2",
+          "matchNote": "Genuine 90s Polo Ralph Lauren Fair Isle in a classic Nordic blue/black/white colorway and tagged Medium -- squarely on-brand and in the target size range for this narrowed category.",
+          "strongMatch": true,
+          "foundAt": "2026-09-29",
           "status": "new"
         }
       ]
