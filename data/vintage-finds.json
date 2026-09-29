@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:05:00Z",
+  "updatedAt": "2026-09-29T12:15:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -699,7 +699,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-09-28",
+      "lastRun": "2026-09-29",
       "items": [
         {
           "id": "ebay-285616582817",
@@ -715,7 +715,7 @@
           "matchNote": "Tassel loafer in shell cordovan, exact size 9.5 and made in New England — textbook Ivy/RL Purple Label staple; tobacco/cigar cordovan is a great alternative to Color 8 for everyday wear with tweed or odd trousers.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-127895642727",
@@ -731,7 +731,7 @@
           "matchNote": "French heritage tassel loafer, burgundy on the softer 173 last — dressier alternative to Alden, exact tagged size for the target foot. J.M. Weston runs true-ish to size but check width/last shape before buying.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-205982831163",
@@ -747,7 +747,7 @@
           "matchNote": "Custom Grade Church's wingtip derby in brown suede — exactly the 'country Derbies/brogues' brief, vintage English bench-made construction, correct US size. Strong tweed-and-flannel companion piece.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-117328088667",
@@ -763,7 +763,7 @@
           "matchNote": "Black wingtip brogue, correct US size, vintage Church's England-made — the more formal end of the brief, useful for suits/odd jackets where black is called for without going flashy.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-117232376059",
@@ -779,7 +779,7 @@
           "matchNote": "Horsebit loafer in bourbon suede — heritage American maker, correct size though E width (check foot fit), warm brown tone sits right in the chocolate/snuff suede family the brief calls for and is easy day-to-day wear under odd trousers.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-147527025853",
@@ -795,7 +795,7 @@
           "matchNote": "Burford country boot — exactly the 'understated boot' the brief wants, correct US size and Fit 5 (Tricker's standard width), rugged commando sole suits English country/estate wear over flannels or cords.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-117415261590",
@@ -811,7 +811,7 @@
           "matchNote": "Not a loafer per se — a rugged French derby/boot with a lug sole — but Paraboot is a named heritage brand in the brief and black suede country derby reads well with tweed/moleskin; more casual-country than dressy, so weigh against the rest of the wardrobe before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-128040809071",
@@ -827,7 +827,7 @@
           "matchNote": "Classic American penny loafer, correct tagged size, made-in-USA Allen Edmonds — solid everyday black loafer per the brief's 'easy enough for every day' line, though black is the least distinctive colorway on offer here versus the browns/cordovans above.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-387821003093",
@@ -843,6 +843,38 @@
           "matchNote": "Listing says 'cordovan leather' rather than 'shell cordovan' — likely cordovan-colored calf, not genuine Horween shell, so verify with the seller before treating as a shell-cordovan piece. B width is narrow; still a burgundy penny loafer in the right size and on-brand for Brooks Brothers/Ivy sourcing.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
+          "status": "seen"
+        },
+        {
+          "id": "poshmark-crockettjones-banbury-chestnut-95-69d40978f8ede7f454047722",
+          "brand": "Crockett & Jones",
+          "size": "9.5",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Chestnut calf leather, Hand Grade collection, raised apron",
+          "condition": "Excellent, a few minor signs of wear per listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Crockett-Jones-Banbury-Penny-Loafers-Chestnut-size-95-69d40978f8ede7f454047722",
+          "matchNote": "Named heritage English maker (Crockett & Jones), exact tagged 9.5, chestnut penny loafer -- Hand Grade construction is a strong quality signal and chestnut sits right in the target brown family.",
+          "strongMatch": true,
+          "foundAt": "2026-09-29",
+          "status": "new"
+        },
+        {
+          "id": "poshmark-crockettjones-lincoln-95e-6a28379504b36d4b13fbac81",
+          "brand": "Crockett & Jones",
+          "size": "US 9.5E (UK 8.5E)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Two-tone brown leather penny loafer",
+          "condition": "Pre-owned, some visible wear per listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Crockett-Jones-Lincoln-Leather-Penny-Loafers-Mens-Size-UK-85E-US-95E-6a28379504b36d4b13fbac81",
+          "matchNote": "Second Crockett & Jones this run -- Lincoln model in a two-tone brown, correct US size though E (wide) width, so check foot fit before buying.",
+          "strongMatch": false,
+          "foundAt": "2026-09-29",
           "status": "new"
         }
       ]
