@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T11:35:00Z",
+  "updatedAt": "2026-09-29T11:45:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -288,7 +288,7 @@
       "title": "Suits",
       "benchmark": "Timeless natural-shoulder suiting — Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
       "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S–38S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30–33in waist, 30–32in inseam, higher rise. Condition: good wearable vintage or better.",
-      "lastRun": "2026-09-28",
+      "lastRun": "2026-09-29",
       "items": [
         {
           "id": "ebay-jpress-38r-charcoal-pinstripe",
@@ -304,7 +304,7 @@
           "matchNote": "Core Ivy heritage brand, 3-button sack cut, charcoal pinstripe worsted — a textbook match for the benchmark. Jacket size 38R is in the ideal range; trouser inseam (27in) is shorter than the target 30-32in, so check if it's been hemmed and can be let out.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-jpress-38r-plaid-flannel",
@@ -320,7 +320,7 @@
           "matchNote": "Flannel plaid in 38R is a strong silhouette/size match for Ivy natural-shoulder tailoring. Confirm the plaid scale isn't too bold/costume-like before buying — 'plaid' in the title could mean anything from a subtle glen check to a loud tartan.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "grailed-bb-vintage-pow-check",
@@ -336,7 +336,7 @@
           "matchNote": "Prince of Wales check is explicitly named in the category brief; vintage Brooks Brothers 3-button cut is exactly the natural-shoulder silhouette wanted. Size and price unverified since Grailed couldn't be fetched — check both before pursuing.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "grailed-drakes-pow-check",
@@ -352,7 +352,7 @@
           "matchNote": "Drake's is a named heritage English brand in the style guide, and a 3-roll-2 Prince of Wales check suit is a direct hit on this category's pattern and softness criteria. Size unconfirmed — verify fit before buying.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-southwick-paulstuart-40r-windowpane",
@@ -368,7 +368,7 @@
           "matchNote": "Southwick and Paul Stuart are both named heritage tailoring houses; grey windowpane is a subtle, non-flashy pattern in the spirit of the brief. 40R is above the preferred 36S-38S — worth pursuing only if shoulder measures close to 17-18in, since waist/sleeve are easy alterations but shoulder width is not.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "oconnells-southwick-navy-chalkstripe",
@@ -384,7 +384,7 @@
           "matchNote": "Southwick is directly named in the brand list, and navy chalk stripe with natural-shoulder sack construction is exactly the benchmark silhouette. This is new stock from a heritage maker rather than vintage secondhand — include only if new-old-stock traditional tailoring is acceptable alongside vintage finds.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-hickeyfreeman-brown-flannel-pinstripe",
@@ -400,7 +400,7 @@
           "matchNote": "Brown flannel is specifically called out in the category brief and is a less common find; Hickey Freeman is a solid traditional American tailoring house. Size 39/40 runs slightly larger than the 36-38S target — check shoulder width before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "grailed-ringjacket-suit-184ah",
@@ -416,7 +416,7 @@
           "matchNote": "Ring Jacket is explicitly named in the brand list for excellent traditional tailoring; Japanese size code needs converting to confirm it lands near 36S-38S before pursuing given the price point.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-bb-goldenfleece-40r-pinstripe-bespoke",
@@ -432,7 +432,7 @@
           "matchNote": "Golden Fleece is the exact touchstone line named in the benchmark, and trouser waist (31in) sits right in range. Jacket is 40R, above the preferred 36S-38S, and inseam (28in) is short of the 30-32in target — only worth it if shoulder measurements are close to 17-18in.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         }
       ]
     },
