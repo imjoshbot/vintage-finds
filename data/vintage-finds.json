@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:15:00Z",
+  "updatedAt": "2026-09-29T12:22:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -884,7 +884,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
-      "lastRun": "2026-09-28",
+      "lastRun": "2026-09-29",
       "items": [
         {
           "id": "etsy-vintage60s-green-ancientmadder",
@@ -900,7 +900,7 @@
           "matchNote": "Nearly a literal match to the category benchmark: a green ancient-madder-style paisley tie, exactly the piece that quietly makes a tweed jacket work.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-drakes-grenadine-navy",
@@ -916,7 +916,7 @@
           "matchNote": "Drake's is a top-tier named brand for this category; navy grenadine is a core wardrobe workhorse tie for tweed and odd jackets.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-jpress-knit-mustard-brown",
@@ -932,7 +932,7 @@
           "matchNote": "Classic Ivy League knitted-silk square-end tie from J. Press in warm brown/gold/mustard tones — ideal texture and color for tweed and odd-jacket pairings.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-jpress-foulard-navy-redyellow",
@@ -948,7 +948,7 @@
           "matchNote": "Neat foulard on navy ground from a core Ivy heritage maker — versatile with tweed and flannel suits alike.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-brooksbrothers-burgundy-paisley-foulard",
@@ -964,7 +964,7 @@
           "matchNote": "Burgundy paisley foulard, Made-in-USA Brooks Brothers — squarely in the wine/burgundy core-color brief and an old-Brooks heritage piece.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-brooksbrothers-wool-knit-burgundy",
@@ -980,7 +980,7 @@
           "matchNote": "Wool knit tie in burgundy — the knit-wool category is explicitly called for in the brief, and burgundy is a core color; Italian-made Brooks Brothers.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-brooksbrothers-navy-burgundy-repp",
@@ -996,7 +996,7 @@
           "matchNote": "Textbook traditional repp stripe in navy/burgundy from old Brooks Brothers — exactly the 'traditional repp stripes' the brief calls for.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-polo-cashmere-repp-stripe",
@@ -1012,7 +1012,7 @@
           "matchNote": "Cashmere repp-stripe tie from Polo Ralph Lauren — unusual, luxurious fabric choice for a tie and squarely Ivy/preppy in construction; confirm colorway matches brief before buying.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-polo-wool-challis-red-foulard",
@@ -1028,7 +1028,7 @@
           "matchNote": "Wool challis foulard in red — the exact fabric the brief names, from a core brand; USA-made older-era Polo stock, not current cheap production.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-polo-green-wool-challis",
@@ -1044,7 +1044,7 @@
           "matchNote": "Green wool challis Polo tie — direct hit on both the wool-challis fabric call-out and the forest/bottle-green core color.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-turnbullasser-green-paisley",
@@ -1060,7 +1060,7 @@
           "matchNote": "Green paisley from Turnbull & Asser, a listed Savile-Row-adjacent heritage maker — green ground works well against brown/olive tweed as the brief specifies.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-marinella-brown-anniversary",
@@ -1076,7 +1076,7 @@
           "matchNote": "E. Marinella is explicitly named in the brief; chocolate-brown solid silk is a core color for tweed pairing and this is a commemorative anniversary edition.",
           "strongMatch": true,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-hollidaybrown-vintage-england",
@@ -1092,7 +1092,7 @@
           "matchNote": "Holliday & Brown is a specialist English grenadine/knit-tie maker named in the brief; described as rare/new-old-stock, but colorway wasn't visible in search results — confirm before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-grenadine-burgundy-garzafina",
@@ -1108,7 +1108,7 @@
           "matchNote": "Unbranded but genuine Garza Fina grenadine weave in burgundy/wine — exactly the fabric+color combo from the category benchmark, and a good example of an undervalued unbranded piece worth surfacing per the shopping brief.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
-          "status": "new"
+          "status": "seen"
         }
       ]
     },
