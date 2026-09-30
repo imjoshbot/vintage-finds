@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:32:00Z",
+  "updatedAt": "2026-09-30T11:45:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -1421,7 +1421,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-09-29",
+      "lastRun": "2026-09-30",
       "items": [
         {
           "id": "ebay-barbour-ashby-38",
@@ -1613,6 +1613,70 @@
           "matchNote": "A distinct Barbour waxed-jacket model (Moorland A820) from the Ashby already in the list, in the core dark olive colorway -- good field-jacket alternative, but size was not visible in the snippet so it must be confirmed before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-29",
+          "status": "seen"
+        },
+        {
+          "id": "poshmark-barbour-border-sage-38",
+          "brand": "Barbour",
+          "size": "Tagged S38 / 97cm (seller notes it fits more like a 40R)",
+          "measurements": "Shoulder to shoulder 19.2in (49cm), pit to pit 23.6in (60cm), sleeve from shoulder 22.4in (57cm), back length 35.4in (90cm)",
+          "colorWeave": "Sage green waxed cotton",
+          "condition": "8.5/10 per seller; wax smell noted, seller says item was disinfected",
+          "price": "$175 (reduced from $450)",
+          "priceVerified": true,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Mens-Barbour-Border-waxed-jacket-in-Sage-green-681e5758149377df66dc1721",
+          "matchNote": "Classic Barbour Border in the preferred sage/olive colorway, tagged 38 (runs a size large per seller, consistent with outerwear fitting over a jacket) -- strong brand/silhouette/color alignment with the waxed-jacket benchmark.",
+          "strongMatch": true,
+          "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "poshmark-barbour-bedale-black-38",
+          "brand": "Barbour",
+          "size": "38",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Black waxed cotton",
+          "condition": "Not detailed in listing -- verify",
+          "price": "$210",
+          "priceVerified": true,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Barbour-Mens-Bedale-Waxed-Cotton-Jacket-Black-Size-38-62f060ff4bf9ff563ef2f274",
+          "matchNote": "Barbour Bedale -- a shorter, more fitted waxed-jacket silhouette than the existing Ashby -- in the exact target size 38. Black isn't the preferred sage/olive Barbour tone, so kept short of strongMatch.",
+          "strongMatch": false,
+          "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "poshmark-ralphlauren-camelhair-overcoat-38s",
+          "brand": "Ralph Lauren (Lauren Ralph Lauren line)",
+          "size": "38 Short",
+          "measurements": "Sleeve 24in from shoulder edge; length 43in from back T-seam",
+          "colorWeave": "100% camel hair, camel",
+          "condition": "Not detailed in listing -- verify (deep markdown suggests pre-owned but well cared-for)",
+          "price": "$580 (marked down from $1,895)",
+          "priceVerified": true,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Ralph-Lauren-Mens-100-Camel-Hair-Overcoat-5837ada256b2d6dcb20160f0",
+          "matchNote": "Nails the category benchmark directly -- a genuine 100% camel hair overcoat from Ralph Lauren, in a precise 38 Short size match.",
+          "strongMatch": true,
+          "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "ebay-jccording-reversible-raglan-38m",
+          "brand": "JC Cording & Co. (Cordings)",
+          "size": "38 / M",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Glen plaid wool, reverses to black",
+          "condition": "Pre-owned",
+          "price": "$325.00 ($308.75 with eBay coupon) or Best Offer, plus $21.21 shipping",
+          "priceVerified": true,
+          "source": "eBay",
+          "link": "https://www.ebay.com/sch/i.html?_nkw=JC+Cording+reversible+raglan+coat+38",
+          "matchNote": "Cordings is an explicit target brand, and a reversible glen-plaid raglan coat in the exact 38/M size hits the 'raglan coats' criterion directly. NOTE: link is a search-results URL, not a direct listing -- a direct item URL didn't surface; click through to find the live listing (seller handle 'derosnopS').",
+          "strongMatch": false,
+          "foundAt": "2026-09-30",
           "status": "new"
         }
       ]
