@@ -843,7 +843,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-09-29",
+      "lastRun": "2026-09-30",
       "items": [
         {
           "id": "ebay-285616582817",
@@ -1019,6 +1019,38 @@
           "matchNote": "Second Crockett & Jones this run -- Lincoln model in a two-tone brown, correct US size though E (wide) width, so check foot fit before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-29",
+          "status": "seen"
+        },
+        {
+          "id": "ebay-197183731964",
+          "brand": "Edward Green",
+          "size": "UK 9 / EU 43",
+          "measurements": "Not listed -- verify with seller; Edward Green UK-to-US conversion commonly runs UK9 ≈ US9.5-10, confirm before buying",
+          "colorWeave": "Brown suede",
+          "condition": "Not stated in listing snippet -- verify with seller",
+          "price": "GBP 745 (~US $988.76)",
+          "priceVerified": true,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/197183731964",
+          "matchNote": "Edward Green Ventnor -- an unlined brown-suede penny loafer from one of the very top English makers, a tier above most of what's currently in the list. High price for secondhand, consistent with EG's market value; size needs verification.",
+          "strongMatch": false,
+          "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "ebay-358351529558",
+          "brand": "Grant Stone",
+          "size": "9E (seller notes Grant Stone runs a half-size large, so fits like 9.5E)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Tobacco brown calf leather, black tassels",
+          "condition": "Good -- seller describes as practically unworn (wrong size purchase), one slight scuff on the arch",
+          "price": "$275 or best offer",
+          "priceVerified": true,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/358351529558",
+          "matchNote": "Tobacco-brown calf tassel loafer, Ivy-appropriate silhouette from a well-regarded American maker already in the brand list. Nominal size is 9E rather than 9.5, but seller notes it wears true to 9.5E.",
+          "strongMatch": false,
+          "foundAt": "2026-09-30",
           "status": "new"
         }
       ]
