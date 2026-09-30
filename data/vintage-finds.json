@@ -489,7 +489,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle — soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus — ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-09-29",
+      "lastRun": "2026-09-30",
       "items": [
         {
           "id": "ebay-jpress-shaggydog-md",
@@ -569,6 +569,38 @@
           "matchNote": "Genuine 90s Polo Ralph Lauren Fair Isle in a classic Nordic blue/black/white colorway and tagged Medium -- squarely on-brand and in the target size range for this narrowed category.",
           "strongMatch": true,
           "foundAt": "2026-09-29",
+          "status": "seen"
+        },
+        {
+          "id": "poshmark-polo-flagsweater-navy-sm",
+          "brand": "Polo Ralph Lauren (vintage)",
+          "size": "Small",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Navy blue hand-knit wool crewneck, American flag motif",
+          "condition": "Vintage 80s/90s, condition not detailed in snippet -- verify with seller; listing includes free Poshmark authentication",
+          "price": "$500",
+          "priceVerified": true,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Polo-Ralph-Lauren-vintage-American-flag-sweater-63572b46a0aeb76f25d69cd4",
+          "matchNote": "Vintage Polo hand-knit American flag crewneck in navy, men's size Small -- iconic Americana Polo knitwear, not a logo tee/flashy piece, fits the Ivy/heritage brief well.",
+          "strongMatch": true,
+          "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "grailed-jpress-shaggydog-brown-md",
+          "brand": "J. Press",
+          "size": "Medium",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Brown brushed Shetland wool, classic fit Shaggy Dog crew",
+          "condition": "Pre-owned -- condition not specified in snippet; verify with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Grailed",
+          "link": "https://www.grailed.com/listings/67291037-j-press-j-press-shaggy-dog-sweater-brown-classic-fit",
+          "matchNote": "Classic-fit Shaggy Dog in brown, close to the tobacco/camel end of the target palette; adds a third Shaggy Dog colorway option to the list.",
+          "strongMatch": false,
+          "foundAt": "2026-09-30",
           "status": "new"
         }
       ]
