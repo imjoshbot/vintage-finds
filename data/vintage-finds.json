@@ -368,7 +368,7 @@
       "title": "Suits",
       "benchmark": "Timeless natural-shoulder suiting — Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
       "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S–38S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30–33in waist, 30–32in inseam, higher rise. Condition: good wearable vintage or better.",
-      "lastRun": "2026-09-30",
+      "lastRun": "2026-10-01",
       "items": [
         {
           "id": "ebay-jpress-38r-charcoal-pinstripe",
@@ -576,6 +576,38 @@
           "matchNote": "Natural-shoulder 3-button sack construction and subtle glen plaid fit the aesthetic well; runs a size large (measures 40L) and is a second Hickey Freeman piece already represented in the list, so kept as a non-strong add rather than a standout.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "ebay-137388808715",
+          "brand": "Anderson & Sheppard (Savile Row bespoke)",
+          "size": "40S",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Gray striped wool, bespoke",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/137388808715",
+          "matchNote": "Anderson & Sheppard is one of the defining Savile Row bespoke houses and a named maker in the brief; gray stripe is a direct hit on the chalk-stripe/grey-flannel benchmark. 40S runs above the preferred 36S-38S -- worth pursuing only if shoulder measurements clear the target range.",
+          "strongMatch": false,
+          "foundAt": "2026-10-01",
+          "status": "new"
+        },
+        {
+          "id": "ebayde-336276384779",
+          "brand": "Huntsman & Sons (Savile Row bespoke)",
+          "size": "38S (32W x 28L)",
+          "measurements": "32in waist x 28in inseam per listing title; jacket shoulder/chest not given",
+          "colorWeave": "Navy dotted stripe wool, bespoke",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
+          "price": "~GBP 380 (~EUR 432)",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/336276384779",
+          "matchNote": "A second Huntsman & Sons bespoke suit this run (distinct from the existing bird's-eye double-breasted piece) -- navy dotted stripe is a classic understated pattern and 38S lands dead-center the preferred jacket size range at a confirmed, reasonable price for bespoke Savile Row tailoring.",
+          "strongMatch": false,
+          "foundAt": "2026-10-01",
           "status": "new"
         }
       ]
