@@ -1083,7 +1083,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-09-30",
+      "lastRun": "2026-10-01",
       "items": [
         {
           "id": "ebay-285616582817",
@@ -1291,6 +1291,38 @@
           "matchNote": "Tobacco-brown calf tassel loafer, Ivy-appropriate silhouette from a well-regarded American maker already in the brand list. Nominal size is 9E rather than 9.5, but seller notes it wears true to 9.5E.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "ebay-335023915740",
+          "brand": "Edward Green",
+          "size": "UK 9 / US 9.5",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Black leather, cap toe derby, semi-brogue",
+          "condition": "Not confirmed via search -- check listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/335023915740",
+          "matchNote": "First Edward Green piece for this category -- one of the very top English makers named in the brief, in the correct US 9.5 size. Black is the more formal end of the palette, useful with suits/odd jackets.",
+          "strongMatch": true,
+          "foundAt": "2026-10-01",
+          "status": "new"
+        },
+        {
+          "id": "ebayde-156687759307",
+          "brand": "Crockett & Jones",
+          "size": "UK 8.5EE / US 9.5",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Brown leather, Aldwych cap toe Oxford",
+          "condition": "Not confirmed via search -- check listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/156687759307",
+          "matchNote": "A third Crockett & Jones this run, but the first in a cap-toe Oxford rather than a loafer -- fills out the dressier end of the shoe wardrobe alongside the existing Banbury and Lincoln loafers. EE (wide) width, so check foot fit.",
+          "strongMatch": false,
+          "foundAt": "2026-10-01",
           "status": "new"
         }
       ]
