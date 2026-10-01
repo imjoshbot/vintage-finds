@@ -1332,7 +1332,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
-      "lastRun": "2026-09-30",
+      "lastRun": "2026-10-01",
       "items": [
         {
           "id": "etsy-vintage60s-green-ancientmadder",
@@ -1620,6 +1620,38 @@
           "matchNote": "Distinct from the existing Drake's navy grenadine -- an untipped wool/cotton club stripe in forest green and burgundy, exactly the muted tweed-friendly combination the brief asks for, from a listed core brand.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "vestiaire-hermes-burgundy-56250295",
+          "brand": "Hermès",
+          "size": "One size",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Burgundy silk",
+          "condition": "Pre-owned, vintage (60s-70s era per listing)",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Vestiaire Collective",
+          "link": "https://us.vestiairecollective.com/men-accessories/ties/hermes/burgundy-silk-hermes-tie-56250295.shtml",
+          "matchNote": "First Hermès piece for this category -- a named top-tier French maker from the brief's list, solid burgundy in the core color family, sold through a preferred re-verifiable marketplace rather than eBay/Etsy.",
+          "strongMatch": true,
+          "foundAt": "2026-10-01",
+          "status": "new"
+        },
+        {
+          "id": "ebay-117306042014",
+          "brand": "Paul Stuart",
+          "size": "One size",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Silk, geometric pattern, green/blue/white ground",
+          "condition": "Not confirmed via search -- check listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/117306042014",
+          "matchNote": "First Paul Stuart piece for this category -- a named brand from the brief's list, handmade, with forest green as the dominant ground color against navy geometric detailing.",
+          "strongMatch": false,
+          "foundAt": "2026-10-01",
           "status": "new"
         }
       ]
