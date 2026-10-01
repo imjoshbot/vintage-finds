@@ -1661,7 +1661,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-09-30",
+      "lastRun": "2026-10-01",
       "items": [
         {
           "id": "ebay-barbour-ashby-38",
@@ -1917,6 +1917,22 @@
           "matchNote": "Cordings is an explicit target brand, and a reversible glen-plaid raglan coat in the exact 38/M size hits the 'raglan coats' criterion directly. NOTE: link is a search-results URL, not a direct listing -- a direct item URL didn't surface; click through to find the live listing (seller handle 'derosnopS').",
           "strongMatch": false,
           "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "grailed-162817",
+          "brand": "Brooks Brothers (Loro Piana camel hair)",
+          "size": "L",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Camel hair, polo coat silhouette",
+          "condition": "Not detailed in search snippet -- verify listing status, may have already sold",
+          "price": "$100 (listed at $300) per search snippet -- confirm current availability",
+          "priceVerified": false,
+          "source": "Grailed",
+          "link": "https://www.grailed.com/listings/162817-brooks-brothers-loropiana-camel-hair-polo-coat",
+          "matchNote": "Brooks Brothers polo coat in Loro Piana camel hair -- a literal hit on the category benchmark from a named heritage house. Tagged L runs larger than the 36S-38S jacket-shoulder logic, though outerwear is allowed to run a size up; the search snippet suggests this listing may already be sold, so treat as a lead to verify rather than a confirmed-live item.",
+          "strongMatch": false,
+          "foundAt": "2026-10-01",
           "status": "new"
         }
       ]
