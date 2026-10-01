@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-30T11:45:00Z",
+  "updatedAt": "2026-10-01T11:19:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
       "title": "Sport Coats & Blazers",
       "benchmark": "Major priority. Visual benchmark: the J. Press Light Olive Barleycorn Harris Tweed Sport Coat — muted, sophisticated, earthy brown/olive/taupe, traditional Ivy/English-country feel.",
       "criteria": "Major priority category. Harris Tweed, Donegal, Shetland and other high-quality English/Scottish wool. Prioritize herringbone, barleycorn, subtle nailhead, gun club and restrained checks. Colors: peat brown, brown-grey, taupe, lovat, olive-brown, tobacco, oatmeal, charcoal, moss, muted rust, and earthy color-blends that read as a sophisticated muted brown from a distance. Favor soft/natural shoulders, 3-roll-2 sack construction, traditional two/three-button jackets and classic proportions — a sport coat/blazer, not an overcoat. Strongly prefer jackets with brown leather (or leather-look) buttons over horn, corozo or plastic buttons — leather buttons are a strong positive signal here and should be called out explicitly in matchNote whenever visible in listing photos or description. Brands: J. Press, Brooks Brothers, Ralph Lauren / Polo Ralph Lauren / Purple Label, Dunn & Co., O'Connell's, The Andover Shop, Southwick, Norman Hilton, Chipp, Paul Stuart, quality Harris Tweed makers, Magee, DAKS, Austin Reed, Burberry/Burberrys, Aquascutum, and other excellent vintage British, Scottish, Irish or American tailoring. Avoid orange/rust-dominant tweeds and loud plaids. Condition: good wearable vintage or better — avoid significant moth damage, holes, permanent stains or structural damage. Price: prioritize under $300, ideally under $200; an exceptional piece can run higher.",
-      "lastRun": "2026-09-30",
+      "lastRun": "2026-10-01",
       "items": [
         {
           "id": "ebay-137745976467",
@@ -327,6 +327,38 @@
           "matchNote": "Confirmed Harris Tweed label with leather wrap buttons (explicit positive per style guide) and correct 38R size at a very low price. Colorway is gray/blue herringbone rather than the priority earthy brown/olive/taupe palette -- secondary color pick, but price/label/buttons make it worth a look.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
+          "status": "new"
+        },
+        {
+          "id": "carycollection-andovershop-oliveheather-38r",
+          "brand": "The Andover Shop",
+          "size": "38R",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Heather olive/gold Cheviot tweed",
+          "condition": "Vintage, condition not detailed -- verify with seller",
+          "price": "$650",
+          "priceVerified": true,
+          "source": "The Cary Collection (vintage dealer)",
+          "link": "https://thecarycollection.com/products/the-andover-shop-heather-olive-gold-cheviot-tweed-sport-coat-sz-38r",
+          "matchNote": "The Andover Shop is a defining Ivy/trad tailor (Charlie Davidson's Cambridge shop) and already a favored house here; heather olive/gold Cheviot is squarely on the earthy-palette brief and the size is dead-center 38R. Price is well above the usual $200-300 target, but this is the kind of exceptional named-maker piece the brief allows to run higher.",
+          "strongMatch": true,
+          "foundAt": "2026-10-01",
+          "status": "new"
+        },
+        {
+          "id": "etsy-1724458072",
+          "brand": "J. Press",
+          "size": "Not confirmed via search -- check listing",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Green herringbone Harris Tweed, sack cut",
+          "condition": "Vintage -- condition not detailed in snippet, verify with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Etsy",
+          "link": "https://www.etsy.com/listing/1724458072/vintage-j-press-green-herringbone-harris",
+          "matchNote": "Bullseye brand (J. Press) in genuine Harris Tweed with the correct 3/2 sack construction. Green leans a touch brighter than the core brown/olive/taupe palette -- worth a look if it reads more moss/forest than kelly green in person; verify size and button material from photos.",
+          "strongMatch": false,
+          "foundAt": "2026-10-01",
           "status": "new"
         }
       ]
