@@ -304,7 +304,7 @@
       "title": "Suits",
       "benchmark": "Timeless natural-shoulder suiting — Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
       "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S–38S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30–33in waist, 30–32in inseam, higher rise. Condition: good wearable vintage or better.",
-      "lastRun": "2026-10-01",
+      "lastRun": "2026-10-02",
       "items": [
         {
           "id": "ebay-jpress-38r-charcoal-pinstripe",
@@ -544,6 +544,22 @@
           "matchNote": "A second Huntsman & Sons bespoke suit this run (distinct from the existing bird's-eye double-breasted piece) -- navy dotted stripe is a classic understated pattern and 38S lands dead-center the preferred jacket size range at a confirmed, reasonable price for bespoke Savile Row tailoring.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
+          "status": "new"
+        },
+        {
+          "id": "poshmark-paulstuart-super120s-6988c0d2f59cc45fdc1fb51c",
+          "brand": "Paul Stuart",
+          "size": "Not confirmed via search -- check listing",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Super 120s lightweight wool (color not stated in snippet -- verify with seller)",
+          "condition": "Not confirmed via search -- check listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Paul-Stuart-Super-120s-Lightweight-Wool-Suit-6988c0d2f59cc45fdc1fb51c",
+          "matchNote": "Paul Stuart is a named heritage house known for soft, natural-shoulder construction; this is a first Paul Stuart suit for the category, but size and color weren't visible in the search snippet -- verify both before pursuing.",
+          "strongMatch": false,
+          "foundAt": "2026-10-02",
           "status": "new"
         }
       ]
