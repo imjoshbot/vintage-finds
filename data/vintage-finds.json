@@ -786,7 +786,7 @@
       "title": "Trousers",
       "benchmark": "Grey flannel trousers with a proper rise and a straight leg — the natural partner to a tweed jacket.",
       "criteria": "Grey flannels, cavalry twill, whipcord, cords, moleskin, chinos and higher-rise wool trousers. Colors: grey, charcoal, tan, khaki, stone, cream, olive, tobacco and brown. Favor a classic straight or gently tapered leg rather than skinny trousers; pleats welcome when the proportions are traditional. Sizing: 30–33in waist, 30–32in inseam.",
-      "lastRun": "2026-10-01",
+      "lastRun": "2026-10-02",
       "items": [
         {
           "id": "ebay-186842150920",
@@ -795,8 +795,8 @@
           "measurements": "Not listed — verify with seller",
           "colorWeave": "Olive green wool whipcord",
           "condition": "Vintage, pre-owned",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
+          "price": "$225.00",
+          "priceVerified": true,
           "source": "eBay",
           "link": "https://www.ebay.com/itm/186842150920",
           "matchNote": "Wool whipcord in olive is squarely on-brief (whipcord explicitly named in category criteria); Filson heritage American workwear pairs well with the tweed/country aesthetic. 28in inseam is short of the 30-32 target — would need a longer-inseam alternative or cuffs let out.",
@@ -1042,6 +1042,22 @@
           "matchNote": "Cavalry twill is explicitly named in the category criteria and beige/tan is a core color; waist (33in) is at the top of the 30-33in range and inseam (26in) runs well short of the 30-32in target -- only worth it if there's a cuff to let down or a taller original hem.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
+          "status": "new"
+        },
+        {
+          "id": "poshmark-vintage-wool-whipcord-green-6515e8f1932a8a31bb5d4d28",
+          "brand": "Unbranded/vintage maker (not specified in listing title)",
+          "size": "33 waist (top of the 30-33in target range)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Green wool whipcord, pleated, 100% wool",
+          "condition": "Vintage, condition not detailed in snippet",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Vintage-Mens-100-Wool-Whipcord-Pants-Size-33-6515e8f1932a8a31bb5d4d28",
+          "matchNote": "Pleated 100% wool whipcord in green -- whipcord is explicitly named in the category criteria and olive/green is a core color; waist (33in) sits at the very top of the target range.",
+          "strongMatch": false,
+          "foundAt": "2026-10-02",
           "status": "new"
         }
       ]
