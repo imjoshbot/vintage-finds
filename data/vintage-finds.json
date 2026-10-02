@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T11:19:00Z",
+  "updatedAt": "2026-10-02T11:19:07Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -1709,7 +1709,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-10-01",
+      "lastRun": "2026-10-02",
       "items": [
         {
           "id": "ebay-barbour-ashby-38",
@@ -1981,6 +1981,38 @@
           "matchNote": "Brooks Brothers polo coat in Loro Piana camel hair -- a literal hit on the category benchmark from a named heritage house. Tagged L runs larger than the 36S-38S jacket-shoulder logic, though outerwear is allowed to run a size up; the search snippet suggests this listing may already be sold, so treat as a lead to verify rather than a confirmed-live item.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
+          "status": "new"
+        },
+        {
+          "id": "poshmark-barbour-burghley-green-38m-6830d11fcc0a739b9f22ffe5",
+          "brand": "Barbour",
+          "size": "38 / Medium",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Green waxed cotton with corduroy collar (Burghley model)",
+          "condition": "Vintage, condition not detailed in snippet",
+          "price": "$250",
+          "priceVerified": true,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Vintage-Barbour-Burghley-Waxed-Jacket-38-Medium-6830d11fcc0a739b9f22ffe5",
+          "matchNote": "A distinct Barbour waxed-jacket model (Burghley, a longer coat-length style) from the Ashby/Moorland/Border/Bedale already in the list, in the core green colorway and exact target size 38M with a confirmed price.",
+          "strongMatch": false,
+          "foundAt": "2026-10-02",
+          "status": "new"
+        },
+        {
+          "id": "ebay-176518589658",
+          "brand": "Cordings",
+          "size": "38",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Herringbone Harris Tweed, car coat length (Conrad model)",
+          "condition": "Not confirmed via search -- check listing",
+          "price": "$699.99",
+          "priceVerified": true,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/176518589658",
+          "matchNote": "Cordings is a named brand in the brief, and a herringbone Harris Tweed car coat in the exact target size 38 is squarely the 'classic country outerwear' this category wants. A cleaner, directly-linked find than the existing Cordings reversible raglan (whose link is a search-results page rather than a listing). Price is high for the category but confirmed.",
+          "strongMatch": false,
+          "foundAt": "2026-10-02",
           "status": "new"
         }
       ]
