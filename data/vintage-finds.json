@@ -1364,7 +1364,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
-      "lastRun": "2026-10-01",
+      "lastRun": "2026-10-02",
       "items": [
         {
           "id": "etsy-vintage60s-green-ancientmadder",
@@ -1684,6 +1684,22 @@
           "matchNote": "First Paul Stuart piece for this category -- a named brand from the brief's list, handmade, with forest green as the dominant ground color against navy geometric detailing.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
+          "status": "new"
+        },
+        {
+          "id": "vestiaire-charvet-green-10121489",
+          "brand": "Charvet",
+          "size": "One size",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Green silk",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Vestiaire Collective",
+          "link": "https://us.vestiairecollective.com/men-accessories/ties/charvet/green-silk-charvet-tie-10121489.shtml",
+          "matchNote": "Charvet is a top-tier named maker from the brief's own list, green is a core priority color, and Vestiaire Collective is a preferred re-verifiable marketplace over eBay/Etsy. Kept short of strongMatch since the category already carries many strong flags -- verify the exact green shade (forest/bottle vs. brighter) before buying.",
+          "strongMatch": false,
+          "foundAt": "2026-10-02",
           "status": "new"
         }
       ]
