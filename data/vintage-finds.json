@@ -569,7 +569,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle — soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus — ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-10-01",
+      "lastRun": "2026-10-02",
       "items": [
         {
           "id": "ebay-jpress-shaggydog-md",
@@ -761,6 +761,22 @@
           "matchNote": "RRL cardigan (the brief explicitly calls out 'traditional cardigans') in exact Medium size; indigo/gray patchwork is a more rustic/workwear colorway than the core oatmeal/olive palette but still reads muted and on-brand for RRL's Americana aesthetic.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
+          "status": "new"
+        },
+        {
+          "id": "ebay-256907056934",
+          "brand": "Drake's",
+          "size": "Small",
+          "measurements": "Shoulder to shoulder 15.2in, chest 19.8in (same model spec as the existing olive colorway)",
+          "colorWeave": "Navy, 75% lambswool / 25% alpaca, ribbed integral collar",
+          "condition": "Not confirmed via search -- check listing",
+          "price": "Not confirmed via search -- check listing (the olive colorway of this same model is listed at $299.99)",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/256907056934",
+          "matchNote": "Same ribbed-collar lambswool/alpaca jumper model as the olive Drake's piece already in the list, this time in navy -- exact tagged Small and a core palette color.",
+          "strongMatch": false,
+          "foundAt": "2026-10-02",
           "status": "new"
         }
       ]
