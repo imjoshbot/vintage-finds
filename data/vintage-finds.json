@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T12:00:00Z",
+  "updatedAt": "2026-10-03T11:20:50Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -1789,7 +1789,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-10-02",
+      "lastRun": "2026-10-03",
       "items": [
         {
           "id": "ebay-barbour-ashby-38",
@@ -1803,7 +1803,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/176707025714",
           "matchNote": "Barbour Ashby is a core waxed-jacket silhouette named in the category brief; brown lifetime wax layers well over tweed or a heavy sweater for country outerwear. Size 38 sits right in the target range. It's NWT rather than vintage-patina'd, but authentic Barbour construction and a named heritage brand.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1819,7 +1819,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/126205756643",
           "matchNote": "Classic London-made Aquascutum trench with the more understated hidden-button front (vs. a belted Burberry-style trench). Aquascutum is a named heritage brand and size 38 is in range.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1835,7 +1835,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/147343316445",
           "matchNote": "Olive is one of the brief's priority colors, and a belted olive-drab Aquascutum with club-check lining is a distinctive alternative to the usual beige trench. Size 38 fits target range.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1851,7 +1851,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/206005735795",
           "matchNote": "J. Press is a named heritage Ivy brand, and the balmacaan is exactly the raglan-sleeve Ivy overcoat silhouette the brief calls for. Excellent value at this price. Confirm chest/shoulder against the sizing guide before buying.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1995,9 +1995,9 @@
           "source": "Poshmark",
           "link": "https://poshmark.com/listing/Mens-Barbour-Border-waxed-jacket-in-Sage-green-681e5758149377df66dc1721",
           "matchNote": "Classic Barbour Border in the preferred sage/olive colorway, tagged 38 (runs a size large per seller, consistent with outerwear fitting over a jacket) -- strong brand/silhouette/color alignment with the waxed-jacket benchmark.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-barbour-bedale-black-38",
@@ -2013,7 +2013,7 @@
           "matchNote": "Barbour Bedale -- a shorter, more fitted waxed-jacket silhouette than the existing Ashby -- in the exact target size 38. Black isn't the preferred sage/olive Barbour tone, so kept short of strongMatch.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-ralphlauren-camelhair-overcoat-38s",
@@ -2029,7 +2029,7 @@
           "matchNote": "Nails the category benchmark directly -- a genuine 100% camel hair overcoat from Ralph Lauren, in a precise 38 Short size match.",
           "strongMatch": true,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-jccording-reversible-raglan-38m",
@@ -2045,7 +2045,7 @@
           "matchNote": "Cordings is an explicit target brand, and a reversible glen-plaid raglan coat in the exact 38/M size hits the 'raglan coats' criterion directly. NOTE: link is a search-results URL, not a direct listing -- a direct item URL didn't surface; click through to find the live listing (seller handle 'derosnopS').",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "grailed-162817",
@@ -2061,7 +2061,7 @@
           "matchNote": "Brooks Brothers polo coat in Loro Piana camel hair -- a literal hit on the category benchmark from a named heritage house. Tagged L runs larger than the 36S-38S jacket-shoulder logic, though outerwear is allowed to run a size up; the search snippet suggests this listing may already be sold, so treat as a lead to verify rather than a confirmed-live item.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-barbour-burghley-green-38m-6830d11fcc0a739b9f22ffe5",
@@ -2077,7 +2077,7 @@
           "matchNote": "A distinct Barbour waxed-jacket model (Burghley, a longer coat-length style) from the Ashby/Moorland/Border/Bedale already in the list, in the core green colorway and exact target size 38M with a confirmed price.",
           "strongMatch": false,
           "foundAt": "2026-10-02",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-176518589658",
@@ -2093,6 +2093,22 @@
           "matchNote": "Cordings is a named brand in the brief, and a herringbone Harris Tweed car coat in the exact target size 38 is squarely the 'classic country outerwear' this category wants. A cleaner, directly-linked find than the existing Cordings reversible raglan (whose link is a search-results page rather than a listing). Price is high for the category but confirmed.",
           "strongMatch": false,
           "foundAt": "2026-10-02",
+          "status": "seen"
+        },
+        {
+          "id": "ebayde-146640136018",
+          "brand": "Private White V.C.",
+          "size": "38S",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Cream wool tweed, raglan Balmacaan coat, English tailored",
+          "condition": "Pre-owned, described as very good condition",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/146640136018",
+          "matchNote": "First Private White V.C. piece for this category -- a named English heritage maker from the brand list, in the explicitly favored raglan/Balmacaan silhouette at a bullseye 38S size. Cream reads close to the oatmeal/camel end of the palette.",
+          "strongMatch": true,
+          "foundAt": "2026-10-03",
           "status": "new"
         }
       ]
