@@ -1460,7 +1460,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
-      "lastRun": "2026-10-02",
+      "lastRun": "2026-10-03",
       "items": [
         {
           "id": "etsy-vintage60s-green-ancientmadder",
@@ -1490,7 +1490,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/387690827386",
           "matchNote": "Drake's is a top-tier named brand for this category; navy grenadine is a core wardrobe workhorse tie for tweed and odd jackets.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1506,7 +1506,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/137622326934",
           "matchNote": "Classic Ivy League knitted-silk square-end tie from J. Press in warm brown/gold/mustard tones — ideal texture and color for tweed and odd-jacket pairings.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1522,7 +1522,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/117375307559",
           "matchNote": "Neat foulard on navy ground from a core Ivy heritage maker — versatile with tweed and flannel suits alike.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1538,7 +1538,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/127984901426",
           "matchNote": "Burgundy paisley foulard, Made-in-USA Brooks Brothers — squarely in the wine/burgundy core-color brief and an old-Brooks heritage piece.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1554,7 +1554,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/117355663071",
           "matchNote": "Wool knit tie in burgundy — the knit-wool category is explicitly called for in the brief, and burgundy is a core color; Italian-made Brooks Brothers.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1570,7 +1570,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/397257383154",
           "matchNote": "Textbook traditional repp stripe in navy/burgundy from old Brooks Brothers — exactly the 'traditional repp stripes' the brief calls for.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1586,7 +1586,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/147124920808",
           "matchNote": "Cashmere repp-stripe tie from Polo Ralph Lauren — unusual, luxurious fabric choice for a tie and squarely Ivy/preppy in construction; confirm colorway matches brief before buying.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1602,7 +1602,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/297104477507",
           "matchNote": "Wool challis foulard in red — the exact fabric the brief names, from a core brand; USA-made older-era Polo stock, not current cheap production.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1618,7 +1618,7 @@
           "source": "Etsy",
           "link": "https://www.etsy.com/listing/1785185595/vintage-polo-ralph-lauren-green-wool",
           "matchNote": "Green wool challis Polo tie — direct hit on both the wool-challis fabric call-out and the forest/bottle-green core color.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1634,7 +1634,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/156634819990",
           "matchNote": "Green paisley from Turnbull & Asser, a listed Savile-Row-adjacent heritage maker — green ground works well against brown/olive tweed as the brief specifies.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1650,22 +1650,6 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/303944401579",
           "matchNote": "E. Marinella is explicitly named in the brief; chocolate-brown solid silk is a core color for tweed pairing and this is a commemorative anniversary edition.",
-          "strongMatch": true,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-hollidaybrown-vintage-england",
-          "brand": "Holliday & Brown",
-          "size": "One size",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Not specified in listing snippet — verify pattern/color with seller",
-          "condition": "New/vintage deadstock, Made in England",
-          "price": "EUR 89.90 (~US $104.45) + EUR 13.00 shipping",
-          "priceVerified": true,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/284276444304",
-          "matchNote": "Holliday & Brown is a specialist English grenadine/knit-tie maker named in the brief; described as rare/new-old-stock, but colorway wasn't visible in search results — confirm before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
@@ -1698,9 +1682,9 @@
           "source": "O'Connell's Clothing",
           "link": "https://oconnellsclothing.com/seaward-stearn-silk-ancient-madder-tie-neat-ochre-with-navy-light-olive-113431-7786-223.html",
           "matchNote": "Genuine gap-filler -- the only ancient madder currently in the list is an unbranded green one. This is an ochre neat madder from Seaward & Stearn, the venerable English tie maker O'Connell's uses as its premier house maker -- the exact 'ochre' colorway the brief calls out by name, with traditional dual lining construction.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "oconnells-washedmadder-rust-blue",
@@ -1716,7 +1700,7 @@
           "matchNote": "Rust ancient madder -- another explicitly-named brief color not yet represented in the list. House-brand (made in Canada) rather than a premier English maker, so a solid rather than exceptional addition.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-oxxford-grenadine-bottlegreen-garzafina",
@@ -1730,9 +1714,9 @@
           "source": "eBay auction",
           "link": "https://www.ebay.com/itm/318788579329",
           "matchNote": "Near-literal match to this category's own benchmark description ('a wine or bottle-green ancient madder or grenadine tie'), from Oxxford Clothes -- a top-tier American luxury maker. Flagged as an unverified live auction rather than a confirmed find -- condition, authenticity and final price all need a personal check.",
-          "strongMatch": false,
+          "strongMatch": true,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "fransboone-drakes-clubtie-forestgreen-burgundy",
@@ -1746,9 +1730,9 @@
           "source": "Frans Boone Store (Drake's specialist retailer)",
           "link": "https://www.fransboonestore.com/products/drakes-untipped-club-tie-forest-green-stripe-burgundy",
           "matchNote": "Distinct from the existing Drake's navy grenadine -- an untipped wool/cotton club stripe in forest green and burgundy, exactly the muted tweed-friendly combination the brief asks for, from a listed core brand.",
-          "strongMatch": false,
+          "strongMatch": true,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "vestiaire-hermes-burgundy-56250295",
@@ -1762,25 +1746,9 @@
           "source": "Vestiaire Collective",
           "link": "https://us.vestiairecollective.com/men-accessories/ties/hermes/burgundy-silk-hermes-tie-56250295.shtml",
           "matchNote": "First Hermès piece for this category -- a named top-tier French maker from the brief's list, solid burgundy in the core color family, sold through a preferred re-verifiable marketplace rather than eBay/Etsy.",
-          "strongMatch": true,
-          "foundAt": "2026-10-01",
-          "status": "new"
-        },
-        {
-          "id": "ebay-117306042014",
-          "brand": "Paul Stuart",
-          "size": "One size",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Silk, geometric pattern, green/blue/white ground",
-          "condition": "Not confirmed via search -- check listing",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/117306042014",
-          "matchNote": "First Paul Stuart piece for this category -- a named brand from the brief's list, handmade, with forest green as the dominant ground color against navy geometric detailing.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "vestiaire-charvet-green-10121489",
@@ -1796,6 +1764,22 @@
           "matchNote": "Charvet is a top-tier named maker from the brief's own list, green is a core priority color, and Vestiaire Collective is a preferred re-verifiable marketplace over eBay/Etsy. Kept short of strongMatch since the category already carries many strong flags -- verify the exact green shade (forest/bottle vs. brighter) before buying.",
           "strongMatch": false,
           "foundAt": "2026-10-02",
+          "status": "seen"
+        },
+        {
+          "id": "vestiaire-turnbullasser-green-54448545",
+          "brand": "Turnbull & Asser",
+          "size": "One size (standard tie length)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Green silk (solid or subtle pattern not specified in snippet -- verify with seller)",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Vestiaire Collective",
+          "link": "https://us.vestiairecollective.com/men-accessories/ties/turnbull-asser/green-silk-turnbull-asser-tie-54448545.shtml",
+          "matchNote": "A second Turnbull & Asser green silk tie this run, distinct from the existing paisley piece -- sourced via Vestiaire Collective, which the style guide prefers over generic eBay/Etsy listings for re-verifiability.",
+          "strongMatch": false,
+          "foundAt": "2026-10-03",
           "status": "new"
         }
       ]
