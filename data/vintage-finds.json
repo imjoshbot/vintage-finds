@@ -1131,7 +1131,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-10-02",
+      "lastRun": "2026-10-03",
       "items": [
         {
           "id": "ebay-285616582817",
@@ -1161,7 +1161,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/127895642727",
           "matchNote": "French heritage tassel loafer, burgundy on the softer 173 last — dressier alternative to Alden, exact tagged size for the target foot. J.M. Weston runs true-ish to size but check width/last shape before buying.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1177,7 +1177,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/205982831163",
           "matchNote": "Custom Grade Church's wingtip derby in brown suede — exactly the 'country Derbies/brogues' brief, vintage English bench-made construction, correct US size. Strong tweed-and-flannel companion piece.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1193,7 +1193,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/117328088667",
           "matchNote": "Black wingtip brogue, correct US size, vintage Church's England-made — the more formal end of the brief, useful for suits/odd jackets where black is called for without going flashy.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1209,7 +1209,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/117232376059",
           "matchNote": "Horsebit loafer in bourbon suede — heritage American maker, correct size though E width (check foot fit), warm brown tone sits right in the chocolate/snuff suede family the brief calls for and is easy day-to-day wear under odd trousers.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1225,7 +1225,7 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/147527025853",
           "matchNote": "Burford country boot — exactly the 'understated boot' the brief wants, correct US size and Fit 5 (Tricker's standard width), rugged commando sole suits English country/estate wear over flannels or cords.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
@@ -1289,9 +1289,9 @@
           "source": "Poshmark",
           "link": "https://poshmark.com/listing/Crockett-Jones-Banbury-Penny-Loafers-Chestnut-size-95-69d40978f8ede7f454047722",
           "matchNote": "Named heritage English maker (Crockett & Jones), exact tagged 9.5, chestnut penny loafer -- Hand Grade construction is a strong quality signal and chestnut sits right in the target brown family.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-09-29",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-crockettjones-lincoln-95e-6a28379504b36d4b13fbac81",
@@ -1323,7 +1323,7 @@
           "matchNote": "Edward Green Ventnor -- an unlined brown-suede penny loafer from one of the very top English makers, a tier above most of what's currently in the list. High price for secondhand, consistent with EG's market value; size needs verification.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-358351529558",
@@ -1339,7 +1339,7 @@
           "matchNote": "Tobacco-brown calf tassel loafer, Ivy-appropriate silhouette from a well-regarded American maker already in the brand list. Nominal size is 9E rather than 9.5, but seller notes it wears true to 9.5E.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-335023915740",
@@ -1353,9 +1353,9 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/335023915740",
           "matchNote": "First Edward Green piece for this category -- one of the very top English makers named in the brief, in the correct US 9.5 size. Black is the more formal end of the palette, useful with suits/odd jackets.",
-          "strongMatch": true,
+          "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebayde-156687759307",
@@ -1371,7 +1371,7 @@
           "matchNote": "A third Crockett & Jones this run, but the first in a cap-toe Oxford rather than a loafer -- fills out the dressier end of the shoe wardrobe alongside the existing Banbury and Lincoln loafers. EE (wide) width, so check foot fit.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-137615058756",
@@ -1387,7 +1387,7 @@
           "matchNote": "A fourth Crockett & Jones this run but a distinct model (Boston) from the Banbury, Lincoln and Aldwych already in the list -- Goodyear-welted brown calf penny loafer, correct US size, England-made.",
           "strongMatch": false,
           "foundAt": "2026-10-02",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-137763034425",
@@ -1401,9 +1401,9 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/137763034425",
           "matchNote": "Unlined dark-brown suede penny loafer on Alden's Van last -- close to a literal hit on the category benchmark ('chocolate-suede penny loafers or Alden tassels') at the exact tagged size, but kept short of strongMatch since several Aldens are already represented in the list.",
-          "strongMatch": false,
+          "strongMatch": true,
           "foundAt": "2026-10-02",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-rancourt-gilman-carolinabrown-95b",
@@ -1419,6 +1419,38 @@
           "matchNote": "First Rancourt piece for this category -- a named heritage Maine maker from the brand list, NWT, in brown. A camp moc rather than a loafer/brogue/boot, so a looser fit on silhouette than the rest of the list, and B width is narrow for the target foot -- verify fit before buying.",
           "strongMatch": false,
           "foundAt": "2026-10-02",
+          "status": "seen"
+        },
+        {
+          "id": "ebayde-376085009640",
+          "brand": "Edward Green",
+          "size": "9.5E",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Burgundy shell cordovan, unlined",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/376085009640",
+          "matchNote": "Edward Green Duke model penny loafer in burgundy shell cordovan -- a direct hit on both the named-brand list and the burgundy/Color 8 cordovan palette this category favors, at a bullseye 9.5E size. One of the three genuine standouts in this category.",
+          "strongMatch": true,
+          "foundAt": "2026-10-03",
+          "status": "new"
+        },
+        {
+          "id": "ebayde-256847576154",
+          "brand": "Alden",
+          "size": "9.5B",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Brown leather, tassel loafer (model 560)",
+          "condition": "Vintage, pre-owned",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/256847576154",
+          "matchNote": "Alden tassel loafer in brown leather at the exact 9.5 size -- leather rather than the preferred chocolate suede, but Alden is the category's own benchmark brand.",
+          "strongMatch": false,
+          "foundAt": "2026-10-03",
           "status": "new"
         }
       ]
