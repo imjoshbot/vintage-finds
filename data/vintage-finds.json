@@ -834,7 +834,7 @@
       "title": "Trousers",
       "benchmark": "Grey flannel trousers with a proper rise and a straight leg — the natural partner to a tweed jacket.",
       "criteria": "Grey flannels, cavalry twill, whipcord, cords, moleskin, chinos and higher-rise wool trousers. Colors: grey, charcoal, tan, khaki, stone, cream, olive, tobacco and brown. Favor a classic straight or gently tapered leg rather than skinny trousers; pleats welcome when the proportions are traditional. Sizing: 30–33in waist, 30–32in inseam.",
-      "lastRun": "2026-10-02",
+      "lastRun": "2026-10-03",
       "items": [
         {
           "id": "ebay-186842150920",
@@ -978,7 +978,7 @@
           "matchNote": "True 32x30 in the Preston (classic straight) fit -- dead-on target waist/inseam, gray cord pairs cleanly with tweed and flannel jackets, and the price is confirmed and reasonable.",
           "strongMatch": true,
           "foundAt": "2026-09-29",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-polo-moleskin-brown-3432-67d58d0b1df636fa6c77feae",
@@ -1010,7 +1010,7 @@
           "matchNote": "Purple Label cavalry twill in tan, straight-leg pleated silhouette -- very close to the exact benchmark (cavalry twill, correct color, correct maker), sold new/current at a heritage retailer with a confirmed sale price rather than as vintage.",
           "strongMatch": true,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-227292111322",
@@ -1026,7 +1026,7 @@
           "matchNote": "Orvis moleskin field trouser, brown, pleated front -- squarely in the fabric/color criteria (moleskin, brown) though inseam (27in) runs short of the 30-32in target.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-125123332675",
@@ -1042,7 +1042,7 @@
           "matchNote": "Heritage American Ivy brand, moleskin fabric, olive/green colorway, classic straight fit, size exactly in range (32x32).",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-4346745230",
@@ -1058,7 +1058,7 @@
           "matchNote": "Vintage Polo RL Preston corduroy trouser, exact 32x30 size match; color unconfirmed from snippet so not marked as a strong match despite being the right silhouette/brand.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-127013713311",
@@ -1074,7 +1074,7 @@
           "matchNote": "Grey flannel is the literal category benchmark fabric, and pleated/cuffed Polo Ralph Lauren is squarely on-brand; waist (30in) sits at the low end of the 30-33in target range.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-1700111005",
@@ -1090,7 +1090,7 @@
           "matchNote": "Cavalry twill is explicitly named in the category criteria and beige/tan is a core color; waist (33in) is at the top of the 30-33in range and inseam (26in) runs well short of the 30-32in target -- only worth it if there's a cuff to let down or a taller original hem.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-vintage-wool-whipcord-green-6515e8f1932a8a31bb5d4d28",
@@ -1106,6 +1106,22 @@
           "matchNote": "Pleated 100% wool whipcord in green -- whipcord is explicitly named in the category criteria and olive/green is a core color; waist (33in) sits at the very top of the target range.",
           "strongMatch": false,
           "foundAt": "2026-10-02",
+          "status": "seen"
+        },
+        {
+          "id": "poshmark-ralphlaurenpurplelabel-pleatedflannel-66d8703715ad547fa32caf16",
+          "brand": "Ralph Lauren Purple Label",
+          "size": "Not confirmed via search -- check listing",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Grey wool flannel, pleated",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Pleated-wool-flannel-trousers-66d8703715ad547fa32caf16",
+          "matchNote": "Purple Label is the top-priority Ralph Lauren line, and pleated grey wool flannel is a direct hit on this category's exact benchmark. Size wasn't visible in the search snippet -- verify waist/inseam before buying.",
+          "strongMatch": false,
+          "foundAt": "2026-10-03",
           "status": "new"
         }
       ]
