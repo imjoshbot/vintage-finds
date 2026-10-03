@@ -601,7 +601,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle — soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus — ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-10-02",
+      "lastRun": "2026-10-03",
       "items": [
         {
           "id": "ebay-jpress-shaggydog-md",
@@ -665,7 +665,7 @@
           "matchNote": "Second J. Press Shaggy Dog this run -- seller explicitly notes it runs small, so a tagged Medium should land right in the S/M target. Orange is a bolder color than the oatmeal/tobacco palette but still within the brief's Shetland-crewneck spirit.",
           "strongMatch": false,
           "foundAt": "2026-09-29",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-polo-fairisle-nordic-md-68007e79e948984115bd60f2",
@@ -697,7 +697,7 @@
           "matchNote": "Vintage Polo hand-knit American flag crewneck in navy, men's size Small -- iconic Americana Polo knitwear, not a logo tee/flashy piece, fits the Ivy/heritage brief well.",
           "strongMatch": true,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "grailed-jpress-shaggydog-brown-md",
@@ -713,7 +713,7 @@
           "matchNote": "Classic-fit Shaggy Dog in brown, close to the tobacco/camel end of the target palette; adds a third Shaggy Dog colorway option to the list.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-256914699990",
@@ -729,7 +729,7 @@
           "matchNote": "The first Drake's knitwear piece surfaced for this narrowed category -- exact tagged Small, exact olive colorway from the brief's core palette, and full measurements given. NWT Italian-made lambswool/alpaca ribbed jumper is squarely in the soft-country-knit lane the benchmark calls for.",
           "strongMatch": true,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-257087597943",
@@ -745,7 +745,7 @@
           "matchNote": "A second Drake's piece this run -- vintage cashmere turtleneck in the exact Medium target size. Color wasn't visible in the search snippet, so verify it falls within the muted palette before buying.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-176927900849",
@@ -761,7 +761,7 @@
           "matchNote": "A fourth J. Press Shaggy Dog colorway option (gray, close to the charcoal end of the palette) with a confirmed price and exact Medium size -- solid but not a standout given how many Shaggy Dogs are already represented here.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-137782924250",
@@ -777,7 +777,7 @@
           "matchNote": "J. Press Shaggy Dog in sweater-vest form rather than a crewneck -- navy is a core palette color and a vest layers well under a tweed sport coat; a nice silhouette variant on the Shaggy Dogs already in the list.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-rrl-indigograypatchwork-cardigan-md-67eb48b1bdcb04f92c802cb6",
@@ -793,7 +793,7 @@
           "matchNote": "RRL cardigan (the brief explicitly calls out 'traditional cardigans') in exact Medium size; indigo/gray patchwork is a more rustic/workwear colorway than the core oatmeal/olive palette but still reads muted and on-brand for RRL's Americana aesthetic.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-256907056934",
@@ -809,6 +809,22 @@
           "matchNote": "Same ribbed-collar lambswool/alpaca jumper model as the olive Drake's piece already in the list, this time in navy -- exact tagged Small and a core palette color.",
           "strongMatch": false,
           "foundAt": "2026-10-02",
+          "status": "seen"
+        },
+        {
+          "id": "grailed-6666019",
+          "brand": "Drake's",
+          "size": "Medium",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Lambswool knit (color not stated in snippet -- verify with seller)",
+          "condition": "Pre-owned, sold previously at $140 per comparable listing data",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Grailed",
+          "link": "https://www.grailed.com/listings/6666019-drakes-drake-s-london-lambswool-knit",
+          "matchNote": "A third Drake's knitwear piece this run -- lambswool knit in the exact Medium target size, rounding out the olive jumper and cashmere turtleneck already in the list with another confirmed-brand option.",
+          "strongMatch": false,
+          "foundAt": "2026-10-03",
           "status": "new"
         }
       ]
