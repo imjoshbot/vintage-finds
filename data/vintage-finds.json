@@ -304,7 +304,7 @@
       "title": "Suits",
       "benchmark": "Timeless natural-shoulder suiting — Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
       "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S–38S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30–33in waist, 30–32in inseam, higher rise. Condition: good wearable vintage or better.",
-      "lastRun": "2026-10-02",
+      "lastRun": "2026-10-03",
       "items": [
         {
           "id": "ebay-jpress-38r-charcoal-pinstripe",
@@ -464,7 +464,7 @@
           "matchNote": "This is the exact benchmark the category calls for -- vintage Savile Row bespoke, hand-made in England, double-breasted bird's-eye wool. Shoulders (18in) and pit-to-pit (19.5in) land right at the top of the ideal jacket range, a rare case where full measurements are given and they nail it.",
           "strongMatch": true,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-andovershop-southwick-38s-navystripe",
@@ -480,7 +480,7 @@
           "matchNote": "The Andover Shop is one of the defining Ivy/trad tailors (Charlie Davidson's Cambridge shop), made by Southwick -- both already-favored houses here. Navy stripe reads close to chalk stripe, and 38S is dead-center the preferred jacket size.",
           "strongMatch": true,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-southwick-41l-brownpow-flannel",
@@ -496,7 +496,7 @@
           "matchNote": "Fabric and pattern are a direct hit for the category (brown PoW check in flannel, Southwick house), but the 41L jacket and 34in trouser waist run above the preferred sizing range -- would need real tailoring to work at 5'7\".",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-hickeyfreeman-40l-greyglenplaid-sack",
@@ -512,7 +512,7 @@
           "matchNote": "Natural-shoulder 3-button sack construction and subtle glen plaid fit the aesthetic well; runs a size large (measures 40L) and is a second Hickey Freeman piece already represented in the list, so kept as a non-strong add rather than a standout.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-137388808715",
@@ -528,7 +528,7 @@
           "matchNote": "Anderson & Sheppard is one of the defining Savile Row bespoke houses and a named maker in the brief; gray stripe is a direct hit on the chalk-stripe/grey-flannel benchmark. 40S runs above the preferred 36S-38S -- worth pursuing only if shoulder measurements clear the target range.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebayde-336276384779",
@@ -544,7 +544,7 @@
           "matchNote": "A second Huntsman & Sons bespoke suit this run (distinct from the existing bird's-eye double-breasted piece) -- navy dotted stripe is a classic understated pattern and 38S lands dead-center the preferred jacket size range at a confirmed, reasonable price for bespoke Savile Row tailoring.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-paulstuart-super120s-6988c0d2f59cc45fdc1fb51c",
@@ -560,6 +560,38 @@
           "matchNote": "Paul Stuart is a named heritage house known for soft, natural-shoulder construction; this is a first Paul Stuart suit for the category, but size and color weren't visible in the search snippet -- verify both before pursuing.",
           "strongMatch": false,
           "foundAt": "2026-10-02",
+          "status": "seen"
+        },
+        {
+          "id": "grailed-7189816",
+          "brand": "Brooks Brothers Golden Fleece",
+          "size": "38R",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Loro Piana Super 130s wool (color not stated in snippet -- verify with seller)",
+          "condition": "Pre-owned, hand tailored",
+          "price": "$450",
+          "priceVerified": true,
+          "source": "Grailed",
+          "link": "https://www.grailed.com/listings/7189816-brooks-brothers-golden-fleece-hand-tailored-loro-piana-130-suit-38r",
+          "matchNote": "Golden Fleece is the exact touchstone line named in the benchmark, hand tailored with premium Loro Piana Super 130s cloth, and a bullseye 38R size -- one of the strongest suit finds this run.",
+          "strongMatch": true,
+          "foundAt": "2026-10-03",
+          "status": "new"
+        },
+        {
+          "id": "ebay-226368667372",
+          "brand": "Henry Poole (Savile Row bespoke)",
+          "size": "Not confirmed via search -- check listing",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Charcoal gray wool, bespoke",
+          "condition": "Pre-owned, described as looking new",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/226368667372",
+          "matchNote": "Henry Poole is one of the oldest and most storied Savile Row bespoke houses, explicitly named in the brief; charcoal gray is a direct hit on the benchmark palette. Size wasn't visible in the search snippet -- verify before buying.",
+          "strongMatch": false,
+          "foundAt": "2026-10-03",
           "status": "new"
         }
       ]
