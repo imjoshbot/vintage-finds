@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-02T11:19:07Z",
+  "updatedAt": "2026-10-03T12:00:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
       "title": "Sport Coats & Blazers",
       "benchmark": "Major priority. Visual benchmark: the J. Press Light Olive Barleycorn Harris Tweed Sport Coat — muted, sophisticated, earthy brown/olive/taupe, traditional Ivy/English-country feel.",
       "criteria": "Major priority category. Harris Tweed, Donegal, Shetland and other high-quality English/Scottish wool. Prioritize herringbone, barleycorn, subtle nailhead, gun club and restrained checks. Colors: peat brown, brown-grey, taupe, lovat, olive-brown, tobacco, oatmeal, charcoal, moss, muted rust, and earthy color-blends that read as a sophisticated muted brown from a distance. Favor soft/natural shoulders, 3-roll-2 sack construction, traditional two/three-button jackets and classic proportions — a sport coat/blazer, not an overcoat. Strongly prefer jackets with brown leather (or leather-look) buttons over horn, corozo or plastic buttons — leather buttons are a strong positive signal here and should be called out explicitly in matchNote whenever visible in listing photos or description. Brands: J. Press, Brooks Brothers, Ralph Lauren / Polo Ralph Lauren / Purple Label, Dunn & Co., O'Connell's, The Andover Shop, Southwick, Norman Hilton, Chipp, Paul Stuart, quality Harris Tweed makers, Magee, DAKS, Austin Reed, Burberry/Burberrys, Aquascutum, and other excellent vintage British, Scottish, Irish or American tailoring. Avoid orange/rust-dominant tweeds and loud plaids. Condition: good wearable vintage or better — avoid significant moth damage, holes, permanent stains or structural damage. Price: prioritize under $300, ideally under $200; an exceptional piece can run higher.",
-      "lastRun": "2026-10-02",
+      "lastRun": "2026-10-03",
       "items": [
         {
           "id": "ebay-137745976467",
@@ -160,13 +160,13 @@
           "measurements": "Not listed — verify with seller",
           "colorWeave": "Beige barleycorn wool tweed",
           "condition": "Vintage, dated to the late 1960s/early 1970s by the dealer via union label; dealer describes it as excellent pre-owned condition with no rips, tears, or stains",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
+          "price": "$147.00 (marked down from $598.00)",
+          "priceVerified": true,
           "source": "Hendleys Emporium (vintage dealer)",
           "link": "https://hendleysemporium.com/products/polo-ralph-lauren-tweed-sports-coat-38-r-beige-barleyco",
           "matchNote": "Priority brand (Polo Ralph Lauren), bullseye size (38R), and barleycorn weave in beige — reads close to the oatmeal-brown end of the target palette. One of the earliest RL tweed pieces per the dealer's union-label dating, and condition is confirmed clean (no rips/tears/stains).",
           "strongMatch": true,
-          "foundAt": "2026-09-27",
+          "foundAt": "2026-10-03",
           "status": "seen"
         },
         {
@@ -215,23 +215,7 @@
           "matchNote": "Vintage Gant (classic American Ivy brand) 3-button single-breasted notch lapel, made in USA, 1970s. Beige Donegal tweed reads as an earthy oatmeal/tan tone consistent with the palette. Leather buttons not confirmed -- verify in listing photos before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
-        },
-        {
-          "id": "etsy-1682998949",
-          "brand": "Unbranded (tagged \"Tweed\"; Harris Tweed origin not confirmed)",
-          "size": "38 (Men's Small)",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Brown herringbone tweed",
-          "condition": "Vintage, 1980s -- condition not detailed in snippet, verify with seller",
-          "price": "$99.00, free shipping",
-          "priceVerified": true,
-          "source": "Etsy",
-          "link": "https://www.etsy.com/listing/1682998949/1980s-tweed-sport-coat-with-leather-knot",
-          "matchNote": "Listing title explicitly calls out leather knot buttons -- a strong positive signal per the style guide. Brown herringbone colorway is correctly earthy/Ivy. Title says only \"Tweed,\" not confirmed \"Harris Tweed\" -- verify label/origin before buying.",
-          "strongMatch": false,
-          "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-1594746850",
@@ -247,7 +231,7 @@
           "matchNote": "Confirmed Harris Tweed label with leather wrap buttons (explicit positive per style guide) and correct 38R size at a very low price. Colorway is gray/blue herringbone rather than the priority earthy brown/olive/taupe palette -- secondary color pick, but price/label/buttons make it worth a look.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "carycollection-andovershop-oliveheather-38r",
@@ -263,7 +247,7 @@
           "matchNote": "The Andover Shop is a defining Ivy/trad tailor (Charlie Davidson's Cambridge shop) and already a favored house here; heather olive/gold Cheviot is squarely on the earthy-palette brief and the size is dead-center 38R. Price is well above the usual $200-300 target, but this is the kind of exceptional named-maker piece the brief allows to run higher.",
           "strongMatch": true,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "etsy-1724458072",
@@ -279,7 +263,7 @@
           "matchNote": "Bullseye brand (J. Press) in genuine Harris Tweed with the correct 3/2 sack construction. Green leans a touch brighter than the core brown/olive/taupe palette -- worth a look if it reads more moss/forest than kelly green in person; verify size and button material from photos.",
           "strongMatch": false,
           "foundAt": "2026-10-01",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "poshmark-oconnells-rustherringbone-brownoverpane-6407b753c9a228ccda833fbe",
@@ -295,6 +279,22 @@
           "matchNote": "O'Connell's is a named heritage house in the brand list, non-darted 3-button sack with natural shoulders and full canvas construction -- correct Ivy silhouette. Rust is called out as a color to avoid when rust-dominant; this reads as rust herringbone with a brown overpane rather than solid rust, but still a caution flag -- check photos to confirm it leans earthy-brown rather than orange before buying. Size not confirmed via search.",
           "strongMatch": false,
           "foundAt": "2026-10-02",
+          "status": "seen"
+        },
+        {
+          "id": "grailed-4000050",
+          "brand": "Polo Ralph Lauren",
+          "size": "38R (tagged Medium)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Cotton tweed herringbone (not wool)",
+          "condition": "Pre-owned, sold previously at $161-168 per comparable listings; verify current condition with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Grailed",
+          "link": "https://www.grailed.com/listings/4000050-polo-ralph-lauren-polo-by-ralph-lauren-cotton-tweed-herringnone-sport-coat-blazer-jacket-size-m",
+          "matchNote": "Polo Ralph Lauren herringbone sport coat in the exact 38R target size. Cotton tweed rather than wool Harris/Donegal, so it is a secondary pick versus the wool pieces already in the list -- still a clean Ivy herringbone silhouette at a modest price point.",
+          "strongMatch": false,
+          "foundAt": "2026-10-03",
           "status": "new"
         }
       ]
