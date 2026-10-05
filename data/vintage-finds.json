@@ -1195,7 +1195,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-10-04",
+      "lastRun": "2026-10-05",
       "items": [
         {
           "id": "grailed-53884855",
@@ -1211,7 +1211,7 @@
           "matchNote": "George Cleverley is a top-tier English maker named directly in the brief and new to this category; The Colony loafer in brown grain calf suede at the exact tagged 9.5 size, new with box and dust bags, well below retail -- a genuine standout nailing brand, size, color and silhouette together.",
           "strongMatch": true,
           "foundAt": "2026-10-04",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebayde-376085009640",
@@ -1374,20 +1374,20 @@
           "status": "seen"
         },
         {
-          "id": "ebay-387821003093",
-          "brand": "Brooks Brothers (likely Alden-made)",
-          "size": "9.5B",
+          "id": "grailed-5513825",
+          "brand": "Alden",
+          "size": "9.5 C/E",
           "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Burgundy 'cordovan' leather penny loafer",
-          "condition": "Not confirmed via search -- check listing",
+          "colorWeave": "Shell cordovan, full strap loafer",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
           "price": "Not confirmed via search -- check listing",
           "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/387821003093",
-          "matchNote": "Listing says 'cordovan leather' rather than 'shell cordovan' -- likely cordovan-colored calf, not genuine Horween shell, so verify with the seller before treating as a shell-cordovan piece. B width is narrow; still a burgundy penny loafer in the right size and on-brand for Brooks Brothers/Ivy sourcing.",
+          "source": "Grailed",
+          "link": "https://www.grailed.com/listings/5513825-alden-alden-shell-cordovan-full-strap-loafer-9-5-c-e",
+          "matchNote": "Genuine shell cordovan (not cordovan-colored calf) full-strap loafer from the category's own benchmark brand, at the exact 9.5 size. Replaces the Brooks Brothers lead, whose 'cordovan leather' wording likely meant calf rather than true shell and whose B width ran narrow.",
           "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
+          "foundAt": "2026-10-05",
+          "status": "new"
         },
         {
           "id": "poshmark-crockettjones-banbury-chestnut-95-69d40978f8ede7f454047722",
@@ -1454,20 +1454,20 @@
           "status": "seen"
         },
         {
-          "id": "ebayde-156687759307",
+          "id": "poshmark-crockettjones-lincoln-tan-95e-6a28379504b36d4b13fbac81",
           "brand": "Crockett & Jones",
-          "size": "UK 8.5EE / US 9.5",
+          "size": "UK 8.5E / US 9.5E",
           "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Brown leather, Aldwych cap toe Oxford",
-          "condition": "Not confirmed via search -- check listing",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay.de",
-          "link": "https://www.ebay.de/itm/156687759307",
-          "matchNote": "A cap-toe Oxford rather than a loafer -- fills out the dressier end of the shoe wardrobe alongside the Banbury and Boston loafers also in this list. EE (wide) width, so check foot fit.",
+          "colorWeave": "Brown leather, Lincoln penny loafer",
+          "condition": "Fair condition per listing",
+          "price": "$125",
+          "priceVerified": true,
+          "source": "Poshmark",
+          "link": "https://poshmark.com/listing/Crockett-Jones-Lincoln-Leather-Penny-Loafers-Mens-Size-UK-85E-US-95E-6a28379504b36d4b13fbac81",
+          "matchNote": "A fourth, distinct Crockett & Jones model (Lincoln) alongside the Banbury/Boston/Aldwych already in the list -- a penny loafer rather than an Oxford, correct US 9.5E size, and a confirmed low price. Replaces the Aldwych Oxford, which had an unconfirmed price and a wide EE width.",
           "strongMatch": false,
-          "foundAt": "2026-10-01",
-          "status": "seen"
+          "foundAt": "2026-10-05",
+          "status": "new"
         },
         {
           "id": "ebay-137615058756",
