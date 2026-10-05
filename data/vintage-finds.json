@@ -1524,7 +1524,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
-      "lastRun": "2026-10-04",
+      "lastRun": "2026-10-05",
       "items": [
         {
           "id": "drakes-grenadine-bottlegreen",
@@ -1540,7 +1540,7 @@
           "matchNote": "A near-literal match to this category's own benchmark text ('a wine or bottle-green ancient madder or grenadine tie') -- sold directly by Drake's itself with a confirmed price, hand-rolled large-knot grenadine in bottle green. Stronger than the existing unverified eBay auction in the same colorway/fabric since it's a confirmed, currently-buyable heritage-retailer listing.",
           "strongMatch": true,
           "foundAt": "2026-10-04",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "fransboone-drakes-clubtie-forestgreen-burgundy",
@@ -1575,20 +1575,20 @@
           "status": "seen"
         },
         {
-          "id": "etsy-vintage60s-green-ancientmadder",
-          "brand": "Not specified (vintage, unbranded/maker unclear)",
+          "id": "ebay-126720304952",
+          "brand": "Drake's",
           "size": "One size",
           "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Ancient-madder-style silk, green paisley",
-          "condition": "Vintage, condition not specified in snippet",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "Etsy",
-          "link": "https://www.etsy.com/ca/listing/1804563063/vintage-60s-green-ancient-madder-style",
-          "matchNote": "A green ancient-madder-style paisley tie matching the benchmark's fabric/color. Downgraded from strongMatch now that two confirmed-price, named-maker bottle-green grenadine/club pieces (Drake's direct, Frans Boone) and the Oxxford garza fina grenadine outrank it -- this one remains unbranded and unverified on price/condition.",
+          "colorWeave": "Red ancient madder silk with blue accents, soft self-tipped construction",
+          "condition": "Pre-owned",
+          "price": "$40.80 (reduced from $48.00)",
+          "priceVerified": true,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/126720304952",
+          "matchNote": "A named top-tier brand (Drake's) in genuine ancient madder at a confirmed, low price -- replaces the unbranded green ancient-madder lead, which never got a confirmed price or condition. Red is brighter than the core wine/bottle-green palette, so held as a secondary rather than strong pick.",
           "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
+          "foundAt": "2026-10-05",
+          "status": "new"
         },
         {
           "id": "ebay-drakes-grenadine-navy",
@@ -1677,30 +1677,30 @@
           "measurements": "Not listed — verify with seller",
           "colorWeave": "Silk repp stripe, navy & burgundy, classic pattern",
           "condition": "Vintage",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
+          "price": "$27.99",
+          "priceVerified": true,
           "source": "eBay",
           "link": "https://www.ebay.com/itm/397257383154",
-          "matchNote": "Textbook traditional repp stripe in navy/burgundy from old Brooks Brothers — exactly the 'traditional repp stripes' the brief calls for.",
+          "matchNote": "Textbook traditional repp stripe in navy/burgundy from old Brooks Brothers — exactly the 'traditional repp stripes' the brief calls for. Price now confirmed at $27.99.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
         },
         {
-          "id": "ebay-polo-cashmere-repp-stripe",
-          "brand": "Polo Ralph Lauren",
+          "id": "ebay-386864072071",
+          "brand": "Franco Bassi",
           "size": "One size",
           "measurements": "Not listed — verify with seller",
-          "colorWeave": "100% cashmere, striped repp (exact colorway not specified in snippet — verify)",
-          "condition": "Vintage, gently used",
+          "colorWeave": "Silk, fine pattern, blue, handmade in Italy",
+          "condition": "Excellent used condition per listing",
           "price": "Not confirmed via search — check listing",
           "priceVerified": false,
           "source": "eBay",
-          "link": "https://www.ebay.com/itm/147124920808",
-          "matchNote": "Cashmere repp-stripe tie from Polo Ralph Lauren — unusual, luxurious fabric choice for a tie and squarely Ivy/preppy in construction; confirm colorway matches brief before buying.",
+          "link": "https://www.ebay.com/itm/386864072071",
+          "matchNote": "Franco Bassi is explicitly named in the brief's brand list and had zero existing representation in this category; blue reads close to the navy core-color family. Replaces the Polo cashmere repp lead, whose colorway was never specified.",
           "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
+          "foundAt": "2026-10-05",
+          "status": "new"
         },
         {
           "id": "ebay-polo-wool-challis-red-foulard",
