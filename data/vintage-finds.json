@@ -320,7 +320,7 @@
       "title": "Suits",
       "benchmark": "Timeless natural-shoulder suiting — Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
       "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S–38S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30–33in waist, 30–32in inseam, higher rise. Condition: good wearable vintage or better.",
-      "lastRun": "2026-10-04",
+      "lastRun": "2026-10-05",
       "items": [
         {
           "id": "grailed-7189816",
@@ -384,7 +384,7 @@
           "matchNote": "Ralph Lauren Purple Label is explicitly named in the style guide brand list and has zero existing representation in this category; tagged size 38 and listed measurements land right in the target range. However, cobalt blue is bolder/brighter than the understated navy/charcoal/grey/brown palette the brief calls for -- a strong size/brand match but an off-palette color.",
           "strongMatch": false,
           "foundAt": "2026-10-04",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "styleforum-538078",
@@ -400,7 +400,7 @@
           "matchNote": "Southwick is an already-favored house here, navy wool three-piece hits the benchmark palette directly, and 38S is dead-center the preferred jacket size -- but this is a forum for-sale thread rather than an active marketplace listing, so confirm availability before pursuing.",
           "strongMatch": false,
           "foundAt": "2026-10-04",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-226368667372",
@@ -531,20 +531,20 @@
           "status": "seen"
         },
         {
-          "id": "grailed-ringjacket-suit-184ah",
-          "brand": "Ring Jacket",
-          "size": "Model No. 184AH, size code S-172H (Japanese sizing -- verify against US chest/shoulder equivalent)",
+          "id": "ebay-146768004426",
+          "brand": "Cooling, Lawrence & Wells (Savile Row bespoke)",
+          "size": "38S",
           "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Not specified in search snippet -- verify fabric/color with listing",
-          "condition": "Not confirmed -- check listing",
-          "price": "$1,100",
-          "priceVerified": true,
-          "source": "Grailed",
-          "link": "https://www.grailed.com/listings/7959982-ring-jacket-ring-jacket-suit-model-no-184ah-s-172h",
-          "matchNote": "Ring Jacket is explicitly named in the brand list for excellent traditional tailoring; Japanese size code needs converting to confirm it lands near 36S-38S before pursuing given the price point.",
+          "colorWeave": "Tweed windowpane, fully bespoke",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/146768004426",
+          "matchNote": "A fully bespoke Savile Row suit from a named London house, hand-tailored, in a dead-center 38S size -- a direct hit on the benchmark's vintage Savile Row touchstone, in tweed windowpane rather than flannel/stripe. Replaces the Ring Jacket lead, whose Japanese size code never resolved to a confirmed US fit at a $1,100 price point.",
           "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
+          "foundAt": "2026-10-05",
+          "status": "new"
         },
         {
           "id": "ebay-bb-goldenfleece-40r-pinstripe-bespoke",
@@ -627,20 +627,20 @@
           "status": "seen"
         },
         {
-          "id": "poshmark-paulstuart-super120s-6988c0d2f59cc45fdc1fb51c",
-          "brand": "Paul Stuart",
-          "size": "Not confirmed via search -- check listing",
+          "id": "ebay-196465053165",
+          "brand": "Kilgour (Savile Row)",
+          "size": "38R",
           "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Super 120s lightweight wool (color not stated in snippet -- verify with seller)",
-          "condition": "Not confirmed via search -- check listing",
+          "colorWeave": "Grey sharkskin weave, two-piece, one-button",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
           "price": "Not confirmed via search -- check listing",
           "priceVerified": false,
-          "source": "Poshmark",
-          "link": "https://poshmark.com/listing/Paul-Stuart-Super-120s-Lightweight-Wool-Suit-6988c0d2f59cc45fdc1fb51c",
-          "matchNote": "Paul Stuart is a named heritage house known for soft, natural-shoulder construction; this is the only Paul Stuart suit for the category, but size and color weren't visible in the search snippet -- verify both before pursuing.",
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/196465053165",
+          "matchNote": "Kilgour is one of the named Savile Row houses in the brief, grey sharkskin is a classic subtle weave, and 38R is a bullseye size. Replaces the Paul Stuart lead, which had no size, color or price information at all.",
           "strongMatch": false,
-          "foundAt": "2026-10-02",
-          "status": "seen"
+          "foundAt": "2026-10-05",
+          "status": "new"
         }
       ]
     },
