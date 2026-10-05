@@ -866,7 +866,7 @@
       "title": "Trousers",
       "benchmark": "Grey flannel trousers with a proper rise and a straight leg — the natural partner to a tweed jacket.",
       "criteria": "Grey flannels, cavalry twill, whipcord, cords, moleskin, chinos and higher-rise wool trousers. Colors: grey, charcoal, tan, khaki, stone, cream, olive, tobacco and brown. Favor a classic straight or gently tapered leg rather than skinny trousers; pleats welcome when the proportions are traditional. Sizing: 30–33in waist, 30–32in inseam.",
-      "lastRun": "2026-10-04",
+      "lastRun": "2026-10-05",
       "items": [
         {
           "id": "poshmark-polo-preston-graycord-32x30-691904058d9977557200ae3c",
@@ -930,7 +930,7 @@
           "matchNote": "Whipcord is explicitly named in this category's fabric criteria and 32x32 is a dead-on waist/inseam match for the sizing brief; a lesser-known maker and a noted repair keep it out of strong-match territory, but worth a look at this price.",
           "strongMatch": false,
           "foundAt": "2026-10-04",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-186842150920",
@@ -1171,6 +1171,22 @@
           "strongMatch": false,
           "foundAt": "2026-10-03",
           "status": "seen"
+        },
+        {
+          "id": "oconnells-moleskin-tan-m57119289",
+          "brand": "O'Connell's (house label)",
+          "size": "Made to order by waist -- verify sizing with retailer",
+          "measurements": "Not listed -- verify with retailer",
+          "colorWeave": "Cotton moleskin, tan, plain front",
+          "condition": "New (current stock)",
+          "price": "$295.00",
+          "priceVerified": true,
+          "source": "O'Connell's Clothing",
+          "link": "https://oconnellsclothing.com/oconnells-plain-front-trouser-cotton-moleskin-tan-m57119289-254-m1b-313.html",
+          "matchNote": "Tan moleskin plain-front trouser is a direct hit on both the fabric and color criteria from a heritage retailer rather than an unverifiable secondhand listing -- confirmed price, though this is new stock rather than vintage and sizing needs confirming with the retailer.",
+          "strongMatch": false,
+          "foundAt": "2026-10-05",
+          "status": "new"
         }
       ]
     },
