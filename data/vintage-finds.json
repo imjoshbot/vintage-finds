@@ -649,7 +649,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle — soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus — ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-10-04",
+      "lastRun": "2026-10-05",
       "items": [
         {
           "id": "ebayde-rrl-fairisle-sm",
@@ -713,7 +713,7 @@
           "matchNote": "A green-stripe Shaggy Dog (J. Press x Highsnobiety colorway) lands in the moss/olive end of the target palette and is a fresh colorway not seen in prior runs; tagged Medium.",
           "strongMatch": false,
           "foundAt": "2026-10-04",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "therealreal-rrl-cableknit-cardigan",
@@ -729,7 +729,7 @@
           "matchNote": "RRL wool cable-knit cardigan on The RealReal -- 'traditional cardigans' are called out explicitly in the category brief, and authenticated consignment gives this higher confidence than a typical eBay/Etsy lead, though size and color weren't visible in the snippet.",
           "strongMatch": false,
           "foundAt": "2026-10-04",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-polo-cricket-vest-sm",
@@ -842,6 +842,22 @@
           "strongMatch": false,
           "foundAt": "2026-10-03",
           "status": "seen"
+        },
+        {
+          "id": "ebay-17042537122",
+          "brand": "Drake's",
+          "size": "Medium",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Cotton sleeveless cardigan, cream",
+          "condition": "Not confirmed via search -- check listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/p/17042537122",
+          "matchNote": "A sleeveless cardigan silhouette from Drake's -- distinct from the full-sleeve cardigans and crewnecks already in this list -- in cream, a core palette color, at the exact target Medium size. 'Traditional cardigans' are explicitly called out in the category brief.",
+          "strongMatch": false,
+          "foundAt": "2026-10-05",
+          "status": "new"
         }
       ]
     },
