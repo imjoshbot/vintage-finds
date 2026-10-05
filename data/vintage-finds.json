@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T11:18:32Z",
+  "updatedAt": "2026-10-05T11:22:41Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -1853,7 +1853,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-10-04",
+      "lastRun": "2026-10-05",
       "items": [
         {
           "id": "ebay-brooksbrothers-camelhair-polocoat",
@@ -1901,7 +1901,7 @@
           "matchNote": "A second Polo Ralph Lauren camel hair coat lead, directly on a preferred platform (Poshmark). Benchmark-aligned fabric and brand, but size/price weren't visible in the search snippet so it isn't confirmed as a fit yet -- worth a direct look alongside the already-confirmed 38S camel hair overcoat above.",
           "strongMatch": false,
           "foundAt": "2026-10-04",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-barbour-ashby-38",
@@ -2142,6 +2142,38 @@
           "strongMatch": false,
           "foundAt": "2026-10-03",
           "status": "seen"
+        },
+        {
+          "id": "ebay-265985185702",
+          "brand": "Barbour",
+          "size": "M (38-40)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Olive waxed cotton, Ashby model, with liner",
+          "condition": "Pre-owned, starting bid listing",
+          "price": "Not confirmed via search -- check listing (auction starting bid $77.00)",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/265985185702",
+          "matchNote": "A second Barbour Ashby, distinct from the brown Lifetime Wax Ashby already in the list, in the core olive colorway named in the brief, with a liner included, and sized M (38-40) right in the target range.",
+          "strongMatch": false,
+          "foundAt": "2026-10-05",
+          "status": "new"
+        },
+        {
+          "id": "ebay-128090301527",
+          "brand": "Brooks Brothers",
+          "size": "38S",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Charcoal wool/lambswool overcoat",
+          "condition": "Vintage, Made in USA",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/128090301527",
+          "matchNote": "Brooks Brothers is a named heritage house and charcoal is a priority color; dead-center 38S size. A plain overcoat rather than tweed topcoat or polo coat, so a solid rather than benchmark-nailing pick.",
+          "strongMatch": false,
+          "foundAt": "2026-10-05",
+          "status": "new"
         }
       ]
     }
