@@ -1556,7 +1556,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
-      "lastRun": "2026-10-05",
+      "lastRun": "2026-10-06",
       "items": [
         {
           "id": "drakes-grenadine-bottlegreen",
@@ -1751,22 +1751,6 @@
           "status": "seen"
         },
         {
-          "id": "etsy-polo-green-wool-challis",
-          "brand": "Polo Ralph Lauren",
-          "size": "One size",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Wool challis, green",
-          "condition": "Vintage",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
-          "source": "Etsy",
-          "link": "https://www.etsy.com/listing/1785185595/vintage-polo-ralph-lauren-green-wool",
-          "matchNote": "Green wool challis Polo tie — direct hit on both the wool-challis fabric call-out and the forest/bottle-green core color.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
           "id": "ebay-marinella-brown-anniversary",
           "brand": "E. Marinella",
           "size": "One size",
@@ -1877,6 +1861,22 @@
           "strongMatch": false,
           "foundAt": "2026-10-03",
           "status": "seen"
+        },
+        {
+          "id": "ebayde-136517603753",
+          "brand": "Ben Silver",
+          "size": "One size (3.25in x 59in)",
+          "measurements": "3.25in width x 59in length",
+          "colorWeave": "Silk repp stripe, Charleston SC Regimental stripe, wine/maroon and blue",
+          "condition": "Vintage, good condition per listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/136517603753",
+          "matchNote": "Ben Silver is explicitly named in the brief's brand list and had zero prior representation in this category; a vintage Charleston SC Regimental repp stripe in wine/maroon and blue is a textbook traditional repp stripe in the core burgundy palette. Replaces the green wool challis Polo tie, a near-duplicate of the red wool challis Polo tie already in the list.",
+          "strongMatch": false,
+          "foundAt": "2026-10-06",
+          "status": "new"
         }
       ]
     },
