@@ -1885,7 +1885,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-10-05",
+      "lastRun": "2026-10-06",
       "items": [
         {
           "id": "ebay-brooksbrothers-camelhair-polocoat",
@@ -2128,22 +2128,6 @@
           "status": "seen"
         },
         {
-          "id": "grailed-162817",
-          "brand": "Brooks Brothers (Loro Piana camel hair)",
-          "size": "L",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Camel hair, polo coat silhouette",
-          "condition": "Not detailed in search snippet",
-          "price": "$100 (listed at $300) per search snippet",
-          "priceVerified": false,
-          "source": "Grailed",
-          "link": "https://www.grailed.com/listings/162817-brooks-brothers-loropiana-camel-hair-polo-coat",
-          "matchNote": "Brooks Brothers polo coat in Loro Piana camel hair -- a literal hit on the category benchmark from a named heritage house. Fresh search today explicitly states this listing has sold, so treat as a reference/inspiration piece rather than something to pursue -- kept in the list only because similar relisted or sold-comp pieces sometimes resurface from the same seller.",
-          "strongMatch": false,
-          "foundAt": "2026-10-01",
-          "status": "seen"
-        },
-        {
           "id": "ebay-176518589658",
           "brand": "Cordings",
           "size": "38",
@@ -2205,6 +2189,22 @@
           "matchNote": "Brooks Brothers is a named heritage house and charcoal is a priority color; dead-center 38S size. A plain overcoat rather than tweed topcoat or polo coat, so a solid rather than benchmark-nailing pick.",
           "strongMatch": false,
           "foundAt": "2026-10-05",
+          "status": "new"
+        },
+        {
+          "id": "ebayde-227015485933",
+          "brand": "Mackintosh",
+          "size": "Not confirmed via search -- check listing",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Classic raincoat fabric, Balmacaan (raglan) silhouette (color not stated in snippet -- verify with seller)",
+          "condition": "Used, per listing",
+          "price": "$152.00",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/227015485933",
+          "matchNote": "Mackintosh is explicitly named in the category's brand list and had zero prior representation in this category; a UK-made Balmacaan raglan raincoat is exactly the silhouette already favored here (alongside the two J. Press balmacaans), at a confirmed price. Replaces the Brooks Brothers Loro Piana polo coat lead, which a prior search found sold and a fresh search today still couldn't re-locate.",
+          "strongMatch": false,
+          "foundAt": "2026-10-06",
           "status": "new"
         }
       ]
