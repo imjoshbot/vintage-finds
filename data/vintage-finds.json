@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-06T11:19:00Z",
+  "updatedAt": "2026-10-07T11:25:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
       "title": "Sport Coats & Blazers",
       "benchmark": "Major priority. Visual benchmark: the J. Press Light Olive Barleycorn Harris Tweed Sport Coat — muted, sophisticated, earthy brown/olive/taupe, traditional Ivy/English-country feel.",
       "criteria": "Major priority category. Harris Tweed, Donegal, Shetland and other high-quality English/Scottish wool. Prioritize herringbone, barleycorn, subtle nailhead, gun club and restrained checks. Colors: peat brown, brown-grey, taupe, lovat, olive-brown, tobacco, oatmeal, charcoal, moss, muted rust, and earthy color-blends that read as a sophisticated muted brown from a distance. Favor soft/natural shoulders, 3-roll-2 sack construction, traditional two/three-button jackets and classic proportions — a sport coat/blazer, not an overcoat. Strongly prefer jackets with brown leather (or leather-look) buttons over horn, corozo or plastic buttons — leather buttons are a strong positive signal here and should be called out explicitly in matchNote whenever visible in listing photos or description. Brands: J. Press, Brooks Brothers, Ralph Lauren / Polo Ralph Lauren / Purple Label, Dunn & Co., O'Connell's, The Andover Shop, Southwick, Norman Hilton, Chipp, Paul Stuart, quality Harris Tweed makers, Magee, DAKS, Austin Reed, Burberry/Burberrys, Aquascutum, and other excellent vintage British, Scottish, Irish or American tailoring. Avoid orange/rust-dominant tweeds and loud plaids. Condition: good wearable vintage or better — avoid significant moth damage, holes, permanent stains or structural damage. Price: prioritize under $300, ideally under $200; an exceptional piece can run higher.",
-      "lastRun": "2026-10-06",
+      "lastRun": "2026-10-07",
       "items": [
         {
           "id": "poshmark-southwick-692e0d4b64f5a233ad45587a",
@@ -90,22 +90,6 @@
           "status": "seen"
         },
         {
-          "id": "ebay-117285898135",
-          "brand": "Harris Tweed (unbranded maker)",
-          "size": "38R",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Brown multi Harris Tweed",
-          "condition": "Described as \"Tailored USA\" — appears well made, check photos for wear",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/117285898135",
-          "matchNote": "Genuine Harris Tweed in a brown multi colorway and a bullseye size (38R). No named maker beyond Harris Tweed itself, but color and size are dead-on. Button material not visible in search snippet — check photos for leather buttons.",
-          "strongMatch": false,
-          "foundAt": "2026-09-27",
-          "status": "seen"
-        },
-        {
           "id": "ebay-175632853621",
           "brand": "Magee",
           "size": "40R/41R",
@@ -117,22 +101,6 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/175632853621",
           "matchNote": "Priority brand (Magee) in genuine Donegal — an explicitly accepted alternate fabric — with a muted gray-speckle tone the brief allows (brown-grey/taupe family). Size sits at the edge of the \"40S or others if tailorable\" allowance rather than bullseye 36–38. Check photos for leather buttons.",
-          "strongMatch": false,
-          "foundAt": "2026-09-27",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-124509917657",
-          "brand": "Austin Reed",
-          "size": "40L",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Brown, hand-tailored",
-          "condition": "Not listed — check listing photos",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/124509917657",
-          "matchNote": "Priority brand (Austin Reed) in the preferred brown palette, hand-tailored. 40L is a length variant near the brief's \"40S or others if tailorable\" allowance rather than bullseye 36–38. Suede (not leather) elbow patches noted — button material itself isn't confirmed, check photos for leather buttons.",
           "strongMatch": false,
           "foundAt": "2026-09-27",
           "status": "seen"
@@ -165,22 +133,6 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/115698105833",
           "matchNote": "Leather buttons explicitly in the listing title (again). Brown speckled herringbone in 38R is squarely on the benchmark color/pattern and size — one of the stronger finds this pass.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-195263486050",
-          "brand": "Chipp",
-          "size": "39R (close to ideal, minor tailoring likely at waist)",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Grey herringbone tweed, fox-head yellow lining",
-          "condition": "Not confirmed via search — check listing",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/195263486050",
-          "matchNote": "Chipp is an explicitly favored Ivy heritage maker. Grey herringbone in a near-ideal 39R with a whimsical fox-head lining — classic old-school Ivy detail. Verify button material and shoulder measurements.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
@@ -311,7 +263,7 @@
           "matchNote": "Genuine Harris Tweed label with leather buttons explicitly called out in the listing (Lederknöpfe) -- a strong positive signal per the brief -- in a brown/cream/grey colorway that reads as the earthy brown-grey/oatmeal family, at a confirmed low price and bullseye 38 Regular size. Replaces the gray/blue Etsy Harris Tweed, which read cooler and more off-palette by comparison.",
           "strongMatch": false,
           "foundAt": "2026-10-06",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebayde-406333361204",
@@ -327,6 +279,54 @@
           "matchNote": "Priority brand (Polo Ralph Lauren) in beige wool herringbone at a bullseye 38R size and confirmed price -- a clean secondary pick alongside the existing barleycorn PRL piece, in a slightly different fleck/weave.",
           "strongMatch": false,
           "foundAt": "2026-10-06",
+          "status": "seen"
+        },
+        {
+          "id": "carycollection-oconnells-brown-heather-herringbone-42l",
+          "brand": "O'Connell's (Harris Tweed, via The Cary Collection)",
+          "size": "42L (tagged) -- NWT",
+          "measurements": "Shoulder 18in, pit-to-pit 21in, sleeve 25.5in, back length 32.75in",
+          "colorWeave": "Brown heather herringbone mixed mainly with olive tones, subtle color flecks -- very close to the J. Press olive-barleycorn benchmark aesthetic",
+          "condition": "New with tags (deadstock, size sold out at O'Connell's itself, 1 unit at The Cary Collection)",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "The Cary Collection (O'Connell's dealer/reseller)",
+          "link": "https://thecarycollection.com/products/oconnells-sport-coat-harris-tweed-brown-heather-herringbone-sz-42l-nwt",
+          "matchNote": "O'Connell's natural-shoulder, non-darted 3-button, full-canvas Harris Tweed sack-style coat -- exactly the Ivy silhouette the brief wants. Shoulder (18in) and pit-to-pit (21in) sit right at the top edge of the ideal window despite the 42L tag. Back length (32.75in) runs longer than the 28-29.5in ideal and is not easily altered -- the main caveat. Button material not confirmed -- verify via listing photos.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "revivalvintage-brown-flecked-herringbone-38",
+          "brand": "Unbranded (genuine Harris Tweed, UK specialist vintage dealer)",
+          "size": "Chest 38in (exact measured size, not just a tag)",
+          "measurements": "Chest 38in, length 30in, shoulders 17in, sleeve 24in (dealer-measured)",
+          "colorWeave": "Brown flecked herringbone with green/red/yellow/blue flecks -- earthy, muted, reads as sophisticated brown from a distance",
+          "condition": "Good vintage; small mendable hole on left sleeve noted by dealer",
+          "price": "£74.99 (~$95-100 USD)",
+          "priceVerified": true,
+          "source": "Revival Vintage (revivalvintage.co.uk) -- specialist UK vintage dealer",
+          "link": "https://revivalvintage.co.uk/products/harris-tweed-vintage-brown-flecked-herringbone-jacket",
+          "matchNote": "Exact 38in chest measurement (not a loose tag size) with shoulders at 17in -- dead center of the ideal 17-18in shoulder window. Classic tan football buttons are a leather-look positive signal, explicitly called out here. Unbranded, but from a genuine specialist dealer with real measurements and a confirmed price -- replaces the unbranded brown-multi eBay Harris Tweed, which had neither. Minor flaw (small sleeve hole) noted transparently by the dealer.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "ebayde-dunn-co-brown-herringbone-m",
+          "brand": "Dunn & Co.",
+          "size": "M (tagged) -- verify chest measurement with seller",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Brown herringbone, 100% pure Harris Tweed wool",
+          "condition": "Excellent vintage condition, minimal signs of wear (per seller)",
+          "price": "$139.88",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/286912198670",
+          "matchNote": "Dunn & Co. is one of the named heritage English makers in the brief, and this is a two-button brown herringbone Harris Tweed with a confirmed price. Size M could plausibly land in the 38-40R range but is unconfirmed -- message the seller for a chest/shoulder measurement before buying. Button material not stated -- check photos for leather vs. horn.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
           "status": "new"
         }
       ]
@@ -2064,22 +2064,6 @@
           "status": "seen"
         },
         {
-          "id": "ebay-aquascutum-hiddenbutton-trench-38",
-          "brand": "Aquascutum",
-          "size": "38 (listed as 38/12US)",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Khaki cotton gabardine, single-breasted hidden-button trench",
-          "condition": "Vintage -- condition detail not shown in snippet",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/126205756643",
-          "matchNote": "Classic London-made Aquascutum trench with the more understated hidden-button front (vs. a belted Burberry-style trench). Aquascutum is a named heritage brand and size 38 is in range.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
           "id": "ebay-aquascutum-aqua5-olive-38",
           "brand": "Aquascutum (Aqua 5 line)",
           "size": "38",
@@ -2107,22 +2091,6 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/206005735795",
           "matchNote": "J. Press is a named heritage Ivy brand, and the balmacaan is exactly the raglan-sleeve Ivy overcoat silhouette the brief calls for. Excellent value at this price. Confirm chest/shoulder against the sizing guide before buying.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-jpress-balmacaan-blue-m",
-          "brand": "J. Press",
-          "size": "M",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Blue wool, balmacaan silhouette",
-          "condition": "Pre-owned, vintage",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/326826792542",
-          "matchNote": "Second J. Press balmacaan in navy/blue -- same Ivy raglan-coat silhouette as the gray one above, useful if a second color is wanted. Size M, verify measurements before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
