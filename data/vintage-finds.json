@@ -681,7 +681,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle — soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus — ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-10-06",
+      "lastRun": "2026-10-07",
       "items": [
         {
           "id": "ebayde-rrl-fairisle-sm",
@@ -905,6 +905,54 @@
           "matchNote": "Drake's cashmere saddle-shoulder jumper in grey (charcoal-adjacent core palette) at the exact target Medium size -- a distinct silhouette from the lambswool/alpaca jumper, cashmere turtleneck and lambswool knit already in the list, rounding out the Drake's knitwear representation.",
           "strongMatch": false,
           "foundAt": "2026-10-06",
+          "status": "seen"
+        },
+        {
+          "id": "rrl-brown-alpaca-fairisle-crewneck-m",
+          "brand": "RRL (Double RL)",
+          "size": "Medium",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Brown/tobacco alpaca-wool blend, hand-knit Fair Isle yoke pattern, crewneck",
+          "condition": "New without tags",
+          "price": "$599.00",
+          "priceVerified": false,
+          "source": "eBay (ebay.de listing, US-based)",
+          "link": "https://www.ebay.de/itm/205558361044",
+          "matchNote": "Classic RRL hand-knit Fair Isle crewneck in a warm brown/tobacco alpaca-wool blend -- exactly the 'soft, textured, unmistakably Ivy/country' benchmark look, and a distinct colorway/size from the existing Small Fair Isle RRL piece already on the list.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "vintage-rl-handknit-alpaca-fairisle-cable-m",
+          "brand": "Vintage Ralph Lauren (Polo Ralph Lauren era)",
+          "size": "Medium",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Cream/multi hand-knit wool-alpaca blend, combined Fair Isle yoke and cable-knit body",
+          "condition": "Used, good vintage condition",
+          "price": "$125.00",
+          "priceVerified": false,
+          "source": "eBay (ebay.de listing)",
+          "link": "https://www.ebay.de/itm/146109303463",
+          "matchNote": "Genuine vintage hand-knit RL piece mixing cable and Fair Isle techniques -- rustic, textured, lived-in country-house character at an accessible price point; distinct from the Nordic Fair Isle piece already on the list.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "polo-rl-charcoal-shawl-collar-cardigan-m",
+          "brand": "Polo Ralph Lauren",
+          "size": "Medium",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Charcoal/anthracite grey, cotton knit, shawl collar with patch pockets",
+          "condition": "New with tags",
+          "price": "$99.50",
+          "priceVerified": false,
+          "source": "eBay (ebay.de listing)",
+          "link": "https://www.ebay.de/itm/126869628041",
+          "matchNote": "Shawl-collar cardigan in charcoal -- a style not yet represented among the Polo RL entries (existing ones are a vest, a Fair Isle pullover, and a flag crewneck), and shawl cardigans are a core Ivy/country-house staple.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
           "status": "new"
         }
       ]
@@ -914,7 +962,7 @@
       "title": "Trousers",
       "benchmark": "Grey flannel trousers with a proper rise and a straight leg — the natural partner to a tweed jacket.",
       "criteria": "Grey flannels, cavalry twill, whipcord, cords, moleskin, chinos and higher-rise wool trousers. Colors: grey, charcoal, tan, khaki, stone, cream, olive, tobacco and brown. Favor a classic straight or gently tapered leg rather than skinny trousers; pleats welcome when the proportions are traditional. Sizing: 30–33in waist, 30–32in inseam.",
-      "lastRun": "2026-10-06",
+      "lastRun": "2026-10-07",
       "items": [
         {
           "id": "poshmark-polo-preston-graycord-32x30-691904058d9977557200ae3c",
@@ -965,22 +1013,6 @@
           "status": "seen"
         },
         {
-          "id": "ebay-128012873549",
-          "brand": "Allen Mfg (unbranded/lesser-known vintage maker)",
-          "size": "32x32",
-          "measurements": "32in waist x 32in inseam per listing title",
-          "colorWeave": "Worsted wool whipcord (color not stated in snippet -- verify with seller)",
-          "condition": "True vintage 1950s; listing notes a repair",
-          "price": "$125.99",
-          "priceVerified": true,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/128012873549",
-          "matchNote": "Whipcord is explicitly named in this category's fabric criteria and 32x32 is a dead-on waist/inseam match for the sizing brief; a lesser-known maker and a noted repair keep it out of strong-match territory, but worth a look at this price.",
-          "strongMatch": false,
-          "foundAt": "2026-10-04",
-          "status": "seen"
-        },
-        {
           "id": "ebay-186842150920",
           "brand": "Filson",
           "size": "Tagged 32 waist x 28 inseam",
@@ -1024,22 +1056,6 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/117344423945",
           "matchNote": "Pleated beige cord in the Andrew (relaxed/classic) fit at true 32x32 -- pleats are traditional-proportioned per RL's classic cut. Good alternate corduroy option, but with price unconfirmed and several other strong corduroy candidates already in the list, held at a non-strong match.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-306439034533",
-          "brand": "Unbranded/vintage maker (not specified in listing title)",
-          "size": "Tagged 32 waist",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Cordovan & grey wool flannel-weight, pleated",
-          "condition": "Pre-owned, described as good condition",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/306439034533",
-          "matchNote": "Pleated, cuffed grey wool trouser in the exact 32in waist range -- the benchmark silhouette (proper rise pleated flannel) if the cordovan is a subtle windowpane/overcheck rather than solid cordovan color; verify fabric and rise before buying.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
@@ -1235,6 +1251,54 @@
           "strongMatch": false,
           "foundAt": "2026-10-05",
           "status": "seen"
+        },
+        {
+          "id": "kitblake-grant-light-grey-flannel",
+          "brand": "Kit Blake (Savile Row Trousers)",
+          "size": "32 waist",
+          "measurements": "Waist 86cm (UK/US 32, Italian 48); medium-weight 270g 100% wool flannel; high-waisted double forward pleat, side adjusters, sold unhemmed",
+          "colorWeave": "Light grey wool flannel",
+          "condition": "New",
+          "price": "€177 (on sale, reduced from €295)",
+          "priceVerified": true,
+          "source": "Kit Blake (specialist heritage retailer)",
+          "link": "https://kitblake.com/en-eu/products/grant-light-grey-wool-flannel-trousers",
+          "matchNote": "This is essentially the category benchmark itself -- high-rise, double-pleated, straight-leg grey wool flannel from an English-cloth trouser specialist, at a discounted confirmed price and exact waist.",
+          "strongMatch": true,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "kitblake-duke-taupe-cavalry-twill",
+          "brand": "Kit Blake (Savile Row Trousers)",
+          "size": "32 waist",
+          "measurements": "Waist 86cm (UK/US 32); front rise incl. waistband ~30cm; heavyweight 600g pure wool cavalry twill woven in the UK by W. Bill",
+          "colorWeave": "Taupe/stone wool cavalry twill",
+          "condition": "New",
+          "price": "£495",
+          "priceVerified": true,
+          "source": "Kit Blake (specialist heritage retailer)",
+          "link": "https://kitblake.com/products/duke-taupe-cavalry-twill-trousers",
+          "matchNote": "Named W. Bill English mill cloth, proper cavalry twill in a stone/taupe shade the list is currently thin on -- pricier than the resale pieces already in the list but a genuine step up in provenance and quality.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "kitblake-grant-light-brown-whipcord",
+          "brand": "Kit Blake (Savile Row Trousers)",
+          "size": "32 waist",
+          "measurements": "Waist 86cm (UK/US 32); mid-weight 380g pure wool whipcord woven in the UK by W. Bill",
+          "colorWeave": "Light brown/tan wool whipcord",
+          "condition": "New",
+          "price": "£495",
+          "priceVerified": true,
+          "source": "Kit Blake (specialist heritage retailer)",
+          "link": "https://kitblake.com/products/grant-light-brown-whipcord-trousers",
+          "matchNote": "A named-maker, English-woven whipcord in a lighter tan shade not yet represented, with a confirmed exact size and price -- a genuine quality step up over the remaining unbranded whipcord entries.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
+          "status": "new"
         }
       ]
     },
