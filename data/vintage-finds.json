@@ -336,7 +336,7 @@
       "title": "Suits",
       "benchmark": "Timeless natural-shoulder suiting — Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
       "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S–38S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30–33in waist, 30–32in inseam, higher rise. Condition: good wearable vintage or better.",
-      "lastRun": "2026-10-06",
+      "lastRun": "2026-10-07",
       "items": [
         {
           "id": "grailed-7189816",
@@ -640,22 +640,38 @@
           "matchNote": "Core Ivy heritage brand (J. Press), hand-tailored gray plaid flannel two-button suit at a bullseye 38R with a confirmed price -- replaces the previous J. Press plaid-flannel lead, which never got a confirmed price or tailoring detail.",
           "strongMatch": false,
           "foundAt": "2026-10-06",
+          "status": "seen"
+        },
+        {
+          "id": "rl-purple-label-chalkstripe-39-1stdibs",
+          "brand": "Ralph Lauren Purple Label (Made in UK -- English-tailored line, likely Anderson & Sheppard construction)",
+          "size": "Marked 39 (jacket); trousers 31in waist / 28in inseam",
+          "measurements": "Jacket -- shoulder 17in, chest 39in, length 30in. Pants -- waist 31in, inseam 28in. Sleeves have been professionally altered, slightly uneven length.",
+          "colorWeave": "Grey and white chalk stripe wool, full lining, notch lapel, pleated trousers",
+          "condition": "Very good pre-owned condition",
+          "price": "$833",
+          "priceVerified": true,
+          "source": "1stDibs (consignment dealer, San Francisco, CA)",
+          "link": "https://www.1stdibs.com/fashion/clothing/suits-outfits-ensembles/ralph-lauren-size-39-grey-chalkstripe-wool-notch-lapel-pleated-suit/id-v_26515812",
+          "matchNote": "Exactly the 'subtle chalk stripe' fabric called for in the brief, and the 17in shoulder sits right at the top of the ideal 17-18in range. English-made Purple Label construction with confirmed measurements -- replaces the unworn $3,295 new-retail RLPL chalk stripe, offering the same brand/pattern as authentic secondhand English tailoring at a quarter of the price, better fitting the style guide's preference for vintage/heritage over new approximations.",
+          "strongMatch": true,
+          "foundAt": "2026-10-07",
           "status": "new"
         },
         {
-          "id": "sopicks-rlpl-kent-chalkstripe-38r",
-          "brand": "Ralph Lauren Purple Label",
-          "size": "38R",
-          "measurements": "Not listed -- verify with retailer",
-          "colorWeave": "Navy/cream chalk stripe wool flannel, 'Kent' hand-tailored model",
-          "condition": "New (current retail stock)",
-          "price": "$3,295.00",
+          "id": "paulstuart-japan-herringbone-tweed-38s",
+          "brand": "Paul Stuart (Japan-made line)",
+          "size": "38S",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Grey herringbone tweed, 2-button wool suit",
+          "condition": "Like new / gently used, no stated stains or tears",
+          "price": "$295",
           "priceVerified": true,
-          "source": "SoPicks (Ralph Lauren Purple Label retailer)",
-          "link": "https://www.sopicks.com/product/ralph-lauren-purple-label-kent-hand-tailored-chalk-stripe-wool/apkl6cj",
-          "matchNote": "Ralph Lauren Purple Label -- the top-priority brand for this category -- in a hand-tailored chalk stripe wool flannel, the exact pattern/fabric named in the criteria, at a bullseye 38R and confirmed retail price. New stock rather than vintage secondhand, and the only full-price lead in the category, but it hits brand, pattern and size simultaneously.",
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/157280736021",
+          "matchNote": "Paul Stuart is an explicitly approved brand; herringbone tweed suiting fits the country-house natural-shoulder brief well and 38S is dead-center in the preferred jacket size range.",
           "strongMatch": false,
-          "foundAt": "2026-10-06",
+          "foundAt": "2026-10-07",
           "status": "new"
         }
       ]
