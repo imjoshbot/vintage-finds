@@ -1997,7 +1997,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-10-06",
+      "lastRun": "2026-10-07",
       "items": [
         {
           "id": "ebay-brooksbrothers-camelhair-polocoat",
@@ -2272,22 +2272,6 @@
           "status": "seen"
         },
         {
-          "id": "ebay-265985185702",
-          "brand": "Barbour",
-          "size": "M (38-40)",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Olive waxed cotton, Ashby model, with liner",
-          "condition": "Pre-owned, starting bid listing",
-          "price": "Not confirmed via search -- check listing (auction starting bid $77.00)",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/265985185702",
-          "matchNote": "A second Barbour Ashby, distinct from the brown Lifetime Wax Ashby already in the list, in the core olive colorway named in the brief, with a liner included, and sized M (38-40) right in the target range.",
-          "strongMatch": false,
-          "foundAt": "2026-10-05",
-          "status": "seen"
-        },
-        {
           "id": "ebay-128090301527",
           "brand": "Brooks Brothers",
           "size": "38S",
@@ -2317,6 +2301,54 @@
           "matchNote": "Mackintosh is explicitly named in the category's brand list and had zero prior representation in this category; a UK-made Balmacaan raglan raincoat is exactly the silhouette already favored here (alongside the two J. Press balmacaans), at a confirmed price. Replaces the Brooks Brothers Loro Piana polo coat lead, which a prior search found sold and a fresh search today still couldn't re-locate.",
           "strongMatch": false,
           "foundAt": "2026-10-06",
+          "status": "seen"
+        },
+        {
+          "id": "harris-tweed-green-herringbone-topcoat-38r",
+          "brand": "Harris Tweed (hand-woven, Scotland)",
+          "size": "38R",
+          "measurements": "Not confirmed via search -- check listing (labeled 38R)",
+          "colorWeave": "Green herringbone tweed",
+          "condition": "Vintage, good preowned condition per listing photos",
+          "price": "~£100 / approx $127",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/336227686051",
+          "matchNote": "The single best fill for the category's own benchmark phrase -- 'an olive tweed topcoat' -- and the list previously had zero tweed topcoats in olive/green despite that being the headline example. Genuine herringbone Harris Tweed, full topcoat length, not a sport coat.",
+          "strongMatch": true,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "mackintosh-navy-wool-coat-38",
+          "brand": "Mackintosh",
+          "size": "38 UK/US",
+          "measurements": "Shoulder 40cm, length 99cm, sleeves 59cm",
+          "colorWeave": "Navy, solid wool",
+          "condition": "Very good condition",
+          "price": "$438",
+          "priceVerified": true,
+          "source": "Vestiaire Collective",
+          "link": "https://us.vestiairecollective.com/men-clothing/coats/mackintosh/navy-wool-mackintosh-coat-68871017.shtml",
+          "matchNote": "A second Mackintosh, distinct from the existing balmacaan -- a navy full-length wool coat, exactly the 'traditional raincoats' category criterion, on a preferred-source platform (Vestiaire) with verified measurements.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "polo-rl-olive-corduroy-field-jacket-m",
+          "brand": "Polo Ralph Lauren (vintage)",
+          "size": "Medium (runs like ~38-40 field jacket cut)",
+          "measurements": "Not confirmed via search -- check listing",
+          "colorWeave": "Olive green corduroy-trim, buffalo plaid lining",
+          "condition": "Excellent vintage condition per listing, no rips/stains noted",
+          "price": "$399",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/146572988807",
+          "matchNote": "Fills the 'field jacket' gap -- none previously in the list -- with the right olive colorway and vintage PRL hunting-jacket detailing (recoil pad, field pocket, throat tab) matching the country-house brief closely.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
           "status": "new"
         }
       ]
