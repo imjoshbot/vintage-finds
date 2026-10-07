@@ -1307,7 +1307,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-10-06",
+      "lastRun": "2026-10-07",
       "items": [
         {
           "id": "grailed-53884855",
@@ -1470,22 +1470,6 @@
           "status": "seen"
         },
         {
-          "id": "ebay-128040809071",
-          "brand": "Allen Edmonds",
-          "size": "9.5D",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Black leather penny loafer (Westchester, Style 1607)",
-          "condition": "Not confirmed via search -- check listing",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/128040809071",
-          "matchNote": "Classic American penny loafer, correct tagged size, made-in-USA Allen Edmonds -- solid everyday black loafer per the brief's 'easy enough for every day' line, though black is the least distinctive colorway on offer here versus the browns/cordovans above.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
           "id": "grailed-5513825",
           "brand": "Alden",
           "size": "9.5 C/E",
@@ -1627,6 +1611,38 @@
           "matchNote": "Edward Green Belgravia tassel loafer in dark oak -- a confirmed, exact-size (9.5D) alternative to the existing Ventnor lead, whose UK9 size needed guesswork to convert and whose price ran closer to $1,000. Dark oak sits right in the chocolate/snuff suede family the brief calls for.",
           "strongMatch": false,
           "foundAt": "2026-10-06",
+          "status": "seen"
+        },
+        {
+          "id": "bb-alden-penny-cordovan-color8",
+          "brand": "Brooks Brothers x Alden",
+          "size": "9.5 D",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Shell cordovan, Color 8 burgundy",
+          "condition": "Pre-owned, good condition per seller photos",
+          "price": "$199.99",
+          "priceVerified": true,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/156939585799",
+          "matchNote": "Exactly the Brooks Brothers/Alden collaboration named in the brief -- penny loafer model 06603 in shell cordovan Color 8, the quintessential Ivy dress-casual loafer color. Not currently represented in the list at all, and a strong price for shell cordovan.",
+          "strongMatch": true,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "rl-purple-label-meegan-snuff-suede",
+          "brand": "Ralph Lauren Purple Label",
+          "size": "9.5",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Snuff/brown suede, calfskin lining",
+          "condition": "New with box",
+          "price": "$499 (marked down from $895 retail)",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/372923030973",
+          "matchNote": "Meegan penny loafer in snuff suede -- Ralph Lauren Purple Label is named explicitly in the brief's brand list but had zero items currently in this category. New with box, well documented, and a near-literal match to the 'chocolate-suede penny loafer' benchmark.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
           "status": "new"
         }
       ]
@@ -1636,7 +1652,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
-      "lastRun": "2026-10-06",
+      "lastRun": "2026-10-07",
       "items": [
         {
           "id": "drakes-grenadine-bottlegreen",
@@ -1847,22 +1863,6 @@
           "status": "seen"
         },
         {
-          "id": "ebay-grenadine-burgundy-garzafina",
-          "brand": "Not specified (unbranded, Made in Italy)",
-          "size": "One size",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Silk grenadine (Garza Fina weave), burgundy, handmade in Italy",
-          "condition": "Not specified in snippet",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/176151593773",
-          "matchNote": "Unbranded but genuine Garza Fina grenadine weave in burgundy/wine — exactly the fabric+color combo from the category benchmark, and a good example of an undervalued unbranded piece worth surfacing per the shopping brief.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
           "id": "oconnells-seawardstearn-madder-ochre-navy-olive",
           "brand": "Seaward & Stearn (sold via O'Connell's)",
           "size": "One size (standard necktie)",
@@ -1956,6 +1956,38 @@
           "matchNote": "Ben Silver is explicitly named in the brief's brand list and had zero prior representation in this category; a vintage Charleston SC Regimental repp stripe in wine/maroon and blue is a textbook traditional repp stripe in the core burgundy palette. Replaces the green wool challis Polo tie, a near-duplicate of the red wool challis Polo tie already in the list.",
           "strongMatch": false,
           "foundAt": "2026-10-06",
+          "status": "seen"
+        },
+        {
+          "id": "kiton-burgundy-lime-floral-silk-tie",
+          "brand": "Kiton",
+          "size": "Standard (5-fold)",
+          "measurements": "Not confirmed via search -- check listing",
+          "colorWeave": "Burgundy ground silk with vibrant lime-green floral jacquard motif; traditional Neapolitan 5-fold hand-rolled construction",
+          "condition": "Pre-owned, good/excellent (specialist dealer stock) -- verify exact grade on listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "sartorialistamsterdam.com (specialist vintage/pre-owned designer tie dealer)",
+          "link": "https://sartorialistamsterdam.com/products/kiton-burgundy-lime-green-silk-floral-tie",
+          "matchNote": "Kiton 5-fold in a burgundy ground is exactly the kind of rich, textured, unflashy color the brief wants under tweed; lime floral keeps it lively without going costume-y. Kiton not yet represented in the list.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
+          "status": "new"
+        },
+        {
+          "id": "rubinacci-green-silk-tie-vestiaire",
+          "brand": "Rubinacci",
+          "size": "Standard",
+          "measurements": "Not confirmed via search -- check listing",
+          "colorWeave": "Green silk, woven/jacquard construction (Napoli maker)",
+          "condition": "Very good (pre-owned, per listing)",
+          "price": "$162",
+          "priceVerified": true,
+          "source": "Vestiaire Collective",
+          "link": "https://us.vestiairecollective.com/men-accessories/ties/rubinacci/green-silk-rubinacci-tie-63772299.shtml",
+          "matchNote": "Rubinacci is on the named-brand list and not yet represented; a green silk tie from a top Neapolitan house slots in well with the olive/tweed-friendly palette, with verified price and condition via listing.",
+          "strongMatch": false,
+          "foundAt": "2026-10-07",
           "status": "new"
         }
       ]
