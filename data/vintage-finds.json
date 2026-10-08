@@ -1307,7 +1307,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels \u2014 dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-10-07",
+      "lastRun": "2026-10-08",
       "items": [
         {
           "id": "grailed-53884855",
@@ -1627,7 +1627,7 @@
           "matchNote": "Exactly the Brooks Brothers/Alden collaboration named in the brief -- penny loafer model 06603 in shell cordovan Color 8, the quintessential Ivy dress-casual loafer color. Not currently represented in the list at all, and a strong price for shell cordovan.",
           "strongMatch": true,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "rl-purple-label-meegan-snuff-suede",
@@ -1643,7 +1643,7 @@
           "matchNote": "Meegan penny loafer in snuff suede -- Ralph Lauren Purple Label is named explicitly in the brief's brand list but had zero items currently in this category. New with box, well documented, and a near-literal match to the 'chocolate-suede penny loafer' benchmark.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         }
       ]
     },
