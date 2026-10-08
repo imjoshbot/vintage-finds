@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T11:25:00Z",
+  "updatedAt": "2026-10-08T11:40:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -1997,7 +1997,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat \u2014 outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S\u201338S preferred) \u2014 outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-10-07",
+      "lastRun": "2026-10-08",
       "items": [
         {
           "id": "ebay-brooksbrothers-camelhair-polocoat",
@@ -2029,38 +2029,6 @@
           "matchNote": "Nails the category benchmark directly -- a genuine 100% camel hair overcoat from Ralph Lauren, in a precise 38 Short size match.",
           "strongMatch": true,
           "foundAt": "2026-09-30",
-          "status": "seen"
-        },
-        {
-          "id": "poshmark-ralphlauren-camelhaircoat-635437828d7a3c6f06997ed5",
-          "brand": "Ralph Lauren (POLO line)",
-          "size": "Not listed in snippet -- verify with seller",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Camel hair, camel",
-          "condition": "Not confirmed via search -- check listing",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "Poshmark",
-          "link": "https://poshmark.com/listing/Ralph-Lauren-POLO-Camel-Hair-Coat-635437828d7a3c6f06997ed5",
-          "matchNote": "A second Polo Ralph Lauren camel hair coat lead, directly on a preferred platform (Poshmark). Benchmark-aligned fabric and brand, but size/price weren't visible in the search snippet so it isn't confirmed as a fit yet -- worth a direct look alongside the already-confirmed 38S camel hair overcoat above.",
-          "strongMatch": false,
-          "foundAt": "2026-10-04",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-barbour-ashby-38",
-          "brand": "Barbour",
-          "size": "US/UK 38",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Waxed cotton, brown (Lifetime Wax finish)",
-          "condition": "New with tags",
-          "price": "$449.95",
-          "priceVerified": true,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/176707025714",
-          "matchNote": "Barbour Ashby is a core waxed-jacket silhouette named in the category brief; brown lifetime wax layers well over tweed or a heavy sweater for country outerwear. Size 38 sits right in the target range. It's NWT rather than vintage-patina'd, but authentic Barbour construction and a named heritage brand. Kept as one of the top 3 Barbour entries in this list (alongside Border and Burghley) to avoid redundant waxed-jacket padding.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
           "status": "seen"
         },
         {
@@ -2285,7 +2253,7 @@
           "matchNote": "The single best fill for the category's own benchmark phrase -- 'an olive tweed topcoat' -- and the list previously had zero tweed topcoats in olive/green despite that being the headline example. Genuine herringbone Harris Tweed, full topcoat length, not a sport coat.",
           "strongMatch": true,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "mackintosh-navy-wool-coat-38",
@@ -2301,7 +2269,7 @@
           "matchNote": "A second Mackintosh, distinct from the existing balmacaan -- a navy full-length wool coat, exactly the 'traditional raincoats' category criterion, on a preferred-source platform (Vestiaire) with verified measurements.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "polo-rl-olive-corduroy-field-jacket-m",
@@ -2317,6 +2285,38 @@
           "matchNote": "Fills the 'field jacket' gap -- none previously in the list -- with the right olive colorway and vintage PRL hunting-jacket detailing (recoil pad, field pocket, throat tab) matching the country-house brief closely.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
+          "status": "seen"
+        },
+        {
+          "id": "vestiaire-barbour-bedale-olive-68700399",
+          "brand": "Barbour",
+          "size": "38 (UK/US)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Olive green waxed cotton, Bedale style A100 (two-crest)",
+          "condition": "Very good condition, per listing -- original 1985 two-crest Bedale",
+          "price": "$352 + duties",
+          "priceVerified": true,
+          "source": "Vestiaire Collective",
+          "link": "https://us.vestiairecollective.com/men-clothing/jackets/barbour/green-cotton-barbour-jacket-68700399.shtml",
+          "matchNote": "A genuine 1985 two-crest Barbour Bedale -- the archetypal English waxed field jacket -- in the correct olive and a bullseye size 38, on a preferred authenticated platform (Vestiaire) rather than eBay. Replaces the Ashby model previously in the list with an older, more collectible crest version at a comparable price.",
+          "strongMatch": false,
+          "foundAt": "2026-10-08",
+          "status": "new"
+        },
+        {
+          "id": "ebayde-166976676868",
+          "brand": "Burberry (Burberrys-era)",
+          "size": "38",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Tan, lightweight gabardine trench coat",
+          "condition": "Used, good condition per listing",
+          "price": "$120 + $13 shipping",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/166976676868",
+          "matchNote": "A classic tan Burberry's-era trench, distinct from the green Nova-check piece already in the list, at a bullseye size 38 and a confirmed, low price -- exactly the 'traditional raincoats' criterion in a more wearable neutral tan than the Nova check.",
+          "strongMatch": false,
+          "foundAt": "2026-10-08",
           "status": "new"
         }
       ]
