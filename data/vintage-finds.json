@@ -962,7 +962,7 @@
       "title": "Trousers",
       "benchmark": "Grey flannel trousers with a proper rise and a straight leg \u2014 the natural partner to a tweed jacket.",
       "criteria": "Grey flannels, cavalry twill, whipcord, cords, moleskin, chinos and higher-rise wool trousers. Colors: grey, charcoal, tan, khaki, stone, cream, olive, tobacco and brown. Favor a classic straight or gently tapered leg rather than skinny trousers; pleats welcome when the proportions are traditional. Sizing: 30\u201333in waist, 30\u201332in inseam.",
-      "lastRun": "2026-10-07",
+      "lastRun": "2026-10-08",
       "items": [
         {
           "id": "poshmark-polo-preston-graycord-32x30-691904058d9977557200ae3c",
@@ -1205,22 +1205,6 @@
           "status": "seen"
         },
         {
-          "id": "poshmark-vintage-wool-whipcord-green-6515e8f1932a8a31bb5d4d28",
-          "brand": "Unbranded/vintage maker (not specified in listing title)",
-          "size": "33 waist (top of the 30-33in target range)",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Green wool whipcord, pleated, 100% wool",
-          "condition": "Vintage, condition not detailed in snippet",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "Poshmark",
-          "link": "https://poshmark.com/listing/Vintage-Mens-100-Wool-Whipcord-Pants-Size-33-6515e8f1932a8a31bb5d4d28",
-          "matchNote": "Pleated 100% wool whipcord in green -- whipcord is explicitly named in the category criteria and olive/green is a core color; waist (33in) sits at the very top of the target range.",
-          "strongMatch": false,
-          "foundAt": "2026-10-02",
-          "status": "seen"
-        },
-        {
           "id": "poshmark-ralphlaurenpurplelabel-pleatedflannel-66d8703715ad547fa32caf16",
           "brand": "Ralph Lauren Purple Label",
           "size": "Not confirmed via search -- check listing",
@@ -1266,7 +1250,7 @@
           "matchNote": "This is essentially the category benchmark itself -- high-rise, double-pleated, straight-leg grey wool flannel from an English-cloth trouser specialist, at a discounted confirmed price and exact waist.",
           "strongMatch": true,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "kitblake-duke-taupe-cavalry-twill",
@@ -1282,7 +1266,7 @@
           "matchNote": "Named W. Bill English mill cloth, proper cavalry twill in a stone/taupe shade the list is currently thin on -- pricier than the resale pieces already in the list but a genuine step up in provenance and quality.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "kitblake-grant-light-brown-whipcord",
@@ -1298,6 +1282,22 @@
           "matchNote": "A named-maker, English-woven whipcord in a lighter tan shade not yet represented, with a confirmed exact size and price -- a genuine quality step up over the remaining unbranded whipcord entries.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
+          "status": "seen"
+        },
+        {
+          "id": "ebay-156918959356",
+          "brand": "Brooks Brothers",
+          "size": "33in waist x 33.5in inseam (tall/long)",
+          "measurements": "Waist 33in per listing specifics",
+          "colorWeave": "Brown-green wool whipcord, pleated front",
+          "condition": "Vintage, USA made -- condition not detailed in snippet, verify with seller",
+          "price": "$29.99",
+          "priceVerified": true,
+          "source": "eBay",
+          "link": "https://www.ebay.com/itm/156918959356",
+          "matchNote": "Named heritage brand (Brooks Brothers) in genuine wool whipcord -- directly on the category's named fabric list -- at a bullseye 33in waist and an exceptionally low confirmed price. Inseam runs long/tall; check actual leg length before buying since hemming a whipcord cuff is easy but a too-short inseam isn't.",
+          "strongMatch": false,
+          "foundAt": "2026-10-08",
           "status": "new"
         }
       ]
