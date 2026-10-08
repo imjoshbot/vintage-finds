@@ -681,7 +681,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle \u2014 soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus \u2014 ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-10-07",
+      "lastRun": "2026-10-08",
       "items": [
         {
           "id": "ebayde-rrl-fairisle-sm",
@@ -921,7 +921,7 @@
           "matchNote": "Classic RRL hand-knit Fair Isle crewneck in a warm brown/tobacco alpaca-wool blend -- exactly the 'soft, textured, unmistakably Ivy/country' benchmark look, and a distinct colorway/size from the existing Small Fair Isle RRL piece already on the list.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "vintage-rl-handknit-alpaca-fairisle-cable-m",
@@ -937,7 +937,7 @@
           "matchNote": "Genuine vintage hand-knit RL piece mixing cable and Fair Isle techniques -- rustic, textured, lived-in country-house character at an accessible price point; distinct from the Nordic Fair Isle piece already on the list.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "polo-rl-charcoal-shawl-collar-cardigan-m",
@@ -953,7 +953,7 @@
           "matchNote": "Shawl-collar cardigan in charcoal -- a style not yet represented among the Polo RL entries (existing ones are a vest, a Fair Isle pullover, and a flag crewneck), and shawl cardigans are a core Ivy/country-house staple.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         }
       ]
     },
