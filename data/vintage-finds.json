@@ -1652,7 +1652,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie \u2014 the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Herm\u00e8s, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought \u2014 they can represent exceptional value.",
-      "lastRun": "2026-10-07",
+      "lastRun": "2026-10-08",
       "items": [
         {
           "id": "drakes-grenadine-bottlegreen",
@@ -1716,22 +1716,6 @@
           "matchNote": "A named top-tier brand (Drake's) in genuine ancient madder at a confirmed, low price -- replaces the unbranded green ancient-madder lead, which never got a confirmed price or condition. Red is brighter than the core wine/bottle-green palette, so held as a secondary rather than strong pick.",
           "strongMatch": false,
           "foundAt": "2026-10-05",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-drakes-grenadine-navy",
-          "brand": "Drake's",
-          "size": "One size",
-          "measurements": "Not listed \u2014 verify with seller",
-          "colorWeave": "Fine woven grenadine silk, hand-rolled, navy",
-          "condition": "Not specified in snippet",
-          "price": "Not confirmed via search \u2014 check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/387690827386",
-          "matchNote": "Drake's is a top-tier named brand for this category; navy grenadine is a core wardrobe workhorse tie for tweed and odd jackets.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
           "status": "seen"
         },
         {
@@ -1972,7 +1956,7 @@
           "matchNote": "Kiton 5-fold in a burgundy ground is exactly the kind of rich, textured, unflashy color the brief wants under tweed; lime floral keeps it lively without going costume-y. Kiton not yet represented in the list.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "rubinacci-green-silk-tie-vestiaire",
@@ -1988,6 +1972,22 @@
           "matchNote": "Rubinacci is on the named-brand list and not yet represented; a green silk tie from a top Neapolitan house slots in well with the olive/tweed-friendly palette, with verified price and condition via listing.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
+          "status": "seen"
+        },
+        {
+          "id": "ebayde-116738996822",
+          "brand": "Brooks Brothers",
+          "size": "Standard (one size)",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Burgundy striped Irish poplin, 50% silk / 50% wool",
+          "condition": "Vintage -- condition not detailed in snippet, verify with seller",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/116738996822",
+          "matchNote": "Named heritage brand (Brooks Brothers) in a burgundy stripe -- core palette color -- and an Irish poplin silk/wool blend, a less common vintage fabric close in spirit to the wool challis/madder the brief favors.",
+          "strongMatch": false,
+          "foundAt": "2026-10-08",
           "status": "new"
         }
       ]
