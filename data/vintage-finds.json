@@ -336,7 +336,7 @@
       "title": "Suits",
       "benchmark": "Timeless natural-shoulder suiting \u2014 Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
       "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S\u201338S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30\u201333in waist, 30\u201332in inseam, higher rise. Condition: good wearable vintage or better.",
-      "lastRun": "2026-10-07",
+      "lastRun": "2026-10-08",
       "items": [
         {
           "id": "grailed-7189816",
@@ -398,22 +398,6 @@
           "source": "Grailed",
           "link": "https://www.grailed.com/listings/74485815-ralph-lauren-purple-label-ralph-lauren-purple-cobalt-blue-anthony-suit-size-38",
           "matchNote": "Ralph Lauren Purple Label is explicitly named in the style guide brand list and has zero existing representation in this category; tagged size 38 and listed measurements land right in the target range. However, cobalt blue is bolder/brighter than the understated navy/charcoal/grey/brown palette the brief calls for -- a strong size/brand match but an off-palette color.",
-          "strongMatch": false,
-          "foundAt": "2026-10-04",
-          "status": "seen"
-        },
-        {
-          "id": "styleforum-538078",
-          "brand": "Southwick x The Claymore Shop",
-          "size": "38S",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Navy wool, three-piece",
-          "condition": "Not confirmed via search -- check listing; forum classifieds posting, may already be sold",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "StyleForum classifieds",
-          "link": "https://www.styleforum.net/threads/southwick-x-claymore-shop-3-piece-wool-navy-suit-38s.538078/",
-          "matchNote": "Southwick is an already-favored house here, navy wool three-piece hits the benchmark palette directly, and 38S is dead-center the preferred jacket size -- but this is a forum for-sale thread rather than an active marketplace listing, so confirm availability before pursuing.",
           "strongMatch": false,
           "foundAt": "2026-10-04",
           "status": "seen"
@@ -531,22 +515,6 @@
           "status": "seen"
         },
         {
-          "id": "ebay-146768004426",
-          "brand": "Cooling, Lawrence & Wells (Savile Row bespoke)",
-          "size": "38S",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Tweed windowpane, fully bespoke",
-          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/146768004426",
-          "matchNote": "A fully bespoke Savile Row suit from a named London house, hand-tailored, in a dead-center 38S size -- a direct hit on the benchmark's vintage Savile Row touchstone, in tweed windowpane rather than flannel/stripe. Replaces the Ring Jacket lead, whose Japanese size code never resolved to a confirmed US fit at a $1,100 price point.",
-          "strongMatch": false,
-          "foundAt": "2026-10-05",
-          "status": "seen"
-        },
-        {
           "id": "ebay-bb-goldenfleece-40r-pinstripe-bespoke",
           "brand": "Brooks Brothers Golden Fleece",
           "size": "40R (jacket); trousers 31W x 28L",
@@ -656,7 +624,7 @@
           "matchNote": "Exactly the 'subtle chalk stripe' fabric called for in the brief, and the 17in shoulder sits right at the top of the ideal 17-18in range. English-made Purple Label construction with confirmed measurements -- replaces the unworn $3,295 new-retail RLPL chalk stripe, offering the same brand/pattern as authentic secondhand English tailoring at a quarter of the price, better fitting the style guide's preference for vintage/heritage over new approximations.",
           "strongMatch": true,
           "foundAt": "2026-10-07",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "paulstuart-japan-herringbone-tweed-38s",
@@ -672,6 +640,38 @@
           "matchNote": "Paul Stuart is an explicitly approved brand; herringbone tweed suiting fits the country-house natural-shoulder brief well and 38S is dead-center in the preferred jacket size range.",
           "strongMatch": false,
           "foundAt": "2026-10-07",
+          "status": "seen"
+        },
+        {
+          "id": "ebayde-406154554028",
+          "brand": "Gieves & Hawkes (Savile Row bespoke)",
+          "size": "38R",
+          "measurements": "33in waist x 29in inseam per listing title; jacket shoulder/chest not given",
+          "colorWeave": "Worsted wool, bespoke, 1970s",
+          "condition": "Vintage bespoke, pre-owned -- condition not detailed in snippet, verify with seller",
+          "price": "$299.00",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/406154554028",
+          "matchNote": "Gieves & Hawkes is a storied Savile Row bespoke house in the same class as the brief's named makers (Huntsman, Henry Poole, Anderson & Sheppard); dead-center 38R size with a confirmed, exceptionally low price for genuine 1970s bespoke Savile Row tailoring -- one of the best value finds in this category to date.",
+          "strongMatch": false,
+          "foundAt": "2026-10-08",
+          "status": "new"
+        },
+        {
+          "id": "ebayde-376622008974",
+          "brand": "Canali",
+          "size": "38R",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Navy blue Shadow Glen plaid check wool, two-piece",
+          "condition": "Used, excellent condition per listing",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/376622008974",
+          "matchNote": "Canali is a named brand in the brief; navy Shadow Glen plaid reads close to the understated Prince of Wales/glen check the category favors, and 38R is dead-center the preferred size. Not vintage heritage tailoring like the bespoke pieces already in the list, so kept as a secondary pick.",
+          "strongMatch": false,
+          "foundAt": "2026-10-08",
           "status": "new"
         }
       ]
