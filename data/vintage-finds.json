@@ -1275,7 +1275,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-10-09",
+      "lastRun": "2026-10-10",
       "items": [
         {
           "id": "grailed-53884855",
@@ -1582,20 +1582,20 @@
           "status": "seen"
         },
         {
-          "id": "poshmark-rancourt-gilman-carolinabrown-95b",
-          "brand": "Rancourt & Co.",
-          "size": "9.5B (narrow -- verify foot fit before buying)",
+          "id": "ebayde-356987188103",
+          "brand": "Brooks Brothers x Alden",
+          "size": "9.5D",
           "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Carolina brown leather, Gilman camp moc",
-          "condition": "New with tags",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "Poshmark",
-          "link": "https://poshmark.com/listing/NWT-Rancourt-Gilman-Campmoc-Carolina-Brown-95B-6111ee9a2b9489409d94d7d2",
-          "matchNote": "A named heritage Maine maker from the brand list, NWT, in brown. A camp moc rather than a loafer/brogue/boot, so a looser fit on silhouette than the rest of the list, and B width is narrow for the target foot -- verify fit before buying.",
+          "colorWeave": "Black shell cordovan, plain-toe derby",
+          "condition": "Pre-owned, located in Boston",
+          "price": "$275.00",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/356987188103",
+          "matchNote": "A second Brooks Brothers x Alden collaboration distinct from the existing Color 8 penny loafer -- a black shell cordovan plain-toe derby, the dressier end of the brief, at the exact 9.5D target size. Replaces the Rancourt camp moc, which was a looser silhouette fit (not a loafer/brogue/boot) in a narrow B width.",
           "strongMatch": false,
-          "foundAt": "2026-10-02",
-          "status": "seen"
+          "foundAt": "2026-10-10",
+          "status": "new"
         }
       ]
     },
