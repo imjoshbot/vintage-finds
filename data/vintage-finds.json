@@ -946,7 +946,7 @@
       "title": "Trousers",
       "benchmark": "Grey flannel trousers with a proper rise and a straight leg — the natural partner to a tweed jacket.",
       "criteria": "Grey flannels, cavalry twill, whipcord, cords, moleskin, chinos and higher-rise wool trousers. Colors: grey, charcoal, tan, khaki, stone, cream, olive, tobacco and brown. Favor a classic straight or gently tapered leg rather than skinny trousers; pleats welcome when the proportions are traditional. Sizing: 30–33in waist, 30–32in inseam.",
-      "lastRun": "2026-10-09",
+      "lastRun": "2026-10-10",
       "items": [
         {
           "id": "poshmark-polo-preston-graycord-32x30-691904058d9977557200ae3c",
@@ -1045,20 +1045,20 @@
           "status": "seen"
         },
         {
-          "id": "grailed-77880701",
-          "brand": "Ralph Lauren (Polo)",
-          "size": "Not confirmed via search -- check listing",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Wool flannel, pleated (color not confirmed -- likely grey per listing title convention)",
-          "condition": "Not confirmed via search -- check listing",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "Grailed",
-          "link": "https://www.grailed.com/listings/77880701-polo-ralph-lauren-x-ralph-lauren-ralph-lauren-pleated-wool-flannel-trousers",
-          "matchNote": "Directly named 'pleated wool flannel trousers' from Ralph Lauren -- exactly the benchmark item if size and color check out; size wasn't visible in search snippet so must be verified before buying.",
+          "id": "peterchristian-lovat-cavalrytwill-32",
+          "brand": "Peter Christian (English country-clothing specialist)",
+          "size": "32 waist",
+          "measurements": "Not listed -- verify inseam/rise with retailer",
+          "colorWeave": "Lovat (heathery green-grey) pure new wool cavalry twill, expanding waistband",
+          "condition": "New (current stock)",
+          "price": "€160",
+          "priceVerified": true,
+          "source": "Peter Christian (specialist English country-clothing retailer)",
+          "link": "https://www.peterchristian.eu/product/lovat-cavalry-twill-trousers/",
+          "matchNote": "Cavalry twill is explicitly named in the category criteria, and lovat is the classic English country color this wardrobe favors elsewhere -- a confirmed-price, bullseye 32in-waist new-stock pair from a heritage specialist. Replaces the Grailed pleated-flannel lead, which never resolved size, color or price.",
           "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
+          "foundAt": "2026-10-10",
+          "status": "new"
         },
         {
           "id": "ebay-376521809540",
@@ -1136,22 +1136,6 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/125123332675",
           "matchNote": "Heritage American Ivy brand, moleskin fabric, olive/green colorway, classic straight fit, size exactly in range (32x32).",
-          "strongMatch": false,
-          "foundAt": "2026-09-30",
-          "status": "seen"
-        },
-        {
-          "id": "etsy-4346745230",
-          "brand": "Polo Ralph Lauren (\"Preston\" model)",
-          "size": "32x30",
-          "measurements": "32in waist x 30in inseam (per listing title)",
-          "colorWeave": "Corduroy (color not stated in snippet -- verify with seller)",
-          "condition": "Pre-owned, good condition",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "Etsy",
-          "link": "https://www.etsy.com/listing/4346745230/vintage-polo-ralph-lauren-cord-corduroy",
-          "matchNote": "Vintage Polo RL Preston corduroy trouser, exact 32x30 size match; color unconfirmed from snippet so not marked as a strong match despite being the right silhouette/brand. Re-confirmed live in today's search.",
           "strongMatch": false,
           "foundAt": "2026-09-30",
           "status": "seen"
