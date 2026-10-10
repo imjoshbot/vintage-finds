@@ -336,7 +336,7 @@
       "title": "Suits",
       "benchmark": "Timeless natural-shoulder suiting — Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
       "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S–38S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30–33in waist, 30–32in inseam, higher rise. Condition: good wearable vintage or better.",
-      "lastRun": "2026-10-09",
+      "lastRun": "2026-10-10",
       "items": [
         {
           "id": "grailed-7189816",
@@ -435,20 +435,20 @@
           "status": "seen"
         },
         {
-          "id": "grailed-bb-vintage-pow-check",
-          "brand": "Brooks Brothers (vintage)",
-          "size": "Not listed -- verify with seller (page could not be fetched)",
+          "id": "ebayde-147004944415",
+          "brand": "Oxxford Clothes (Onwentsia line)",
+          "size": "38R",
           "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Prince of Wales check wool, single-breasted 3-button",
-          "condition": "Not confirmed -- check listing",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "Grailed",
-          "link": "https://www.grailed.com/listings/68717185-brooks-brothers-x-vintage-vintage-prince-of-wales-check-3-button-wool-suit",
-          "matchNote": "Prince of Wales check is explicitly named in the category brief; vintage Brooks Brothers 3-button cut is exactly the natural-shoulder silhouette wanted. Size and price remain entirely unverified -- demoted from strong match pending confirmation.",
+          "colorWeave": "Navy chalk stripe wool, 2-piece, 2-button",
+          "condition": "Excellent pre-owned condition per listing",
+          "price": "$165.00",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/147004944415",
+          "matchNote": "Oxxford Clothes is top-tier American luxury tailoring (already a favored maker in the Ties category) in a direct-hit navy chalk stripe at a bullseye 38R size and a strong confirmed price for the quality tier. Replaces the Brooks Brothers vintage Prince of Wales lead, which never resolved any size, price or condition detail.",
           "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
+          "foundAt": "2026-10-10",
+          "status": "new"
         },
         {
           "id": "grailed-drakes-pow-check",
@@ -462,22 +462,6 @@
           "source": "Grailed",
           "link": "https://www.grailed.com/listings/21989196-drakes-drake-s-grey-prince-of-wales-checked-virgin-wool-suit",
           "matchNote": "Drake's is a named heritage English brand in the style guide, and a 3-roll-2 Prince of Wales check suit is a direct hit on this category's pattern and softness criteria. Size and price remain unconfirmed -- demoted from strong match pending verification.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-southwick-paulstuart-40r-windowpane",
-          "brand": "Southwick for Paul Stuart",
-          "size": "40R",
-          "measurements": "Not fully listed -- search summary notes natural shoulders and half-canvas construction; verify chest/shoulder before buying",
-          "colorWeave": "Grey windowpane plaid wool",
-          "condition": "Vintage, USA made -- condition not fully detailed, verify with seller",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/117339326568",
-          "matchNote": "Southwick and Paul Stuart are both named heritage tailoring houses; grey windowpane is a subtle, non-flashy pattern in the spirit of the brief. 40R is above the preferred 36S-38S -- worth pursuing only if shoulder measures close to 17-18in, since waist/sleeve are easy alterations but shoulder width is not.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
