@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T11:30:21Z",
+  "updatedAt": "2026-10-10T12:00:00Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -1933,7 +1933,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-10-09",
+      "lastRun": "2026-10-10",
       "items": [
         {
           "id": "ebay-brooksbrothers-camelhair-polocoat",
@@ -2032,20 +2032,20 @@
           "status": "new"
         },
         {
-          "id": "ebay-aquascutum-aqua5-olive-38",
-          "brand": "Aquascutum (Aqua 5 line)",
-          "size": "38",
+          "id": "ebayde-146970292880",
+          "brand": "Cordings of Piccadilly",
+          "size": "38R",
           "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Olive drab cotton shell, club-check lining, belted",
-          "condition": "Vintage, 1980s",
-          "price": "Not confirmed via search -- check listing (only shipping cost ~$77 was visible)",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/147343316445",
-          "matchNote": "Olive is one of the brief's priority colors, and a belted olive-drab Aquascutum with club-check lining is a distinctive alternative to the usual beige trench. Size 38 fits target range.",
+          "colorWeave": "Fawn whipcord tweed, covert hacking cloth",
+          "condition": "Pre-owned -- condition not detailed in snippet, verify with seller",
+          "price": "£125.00",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/146970292880",
+          "matchNote": "A third, distinct Cordings piece alongside the existing reversible raglan and Harris Tweed car coat -- covert cloth is explicitly named in this category's criteria, fawn whipcord is a classic country-outerwear fabric, and 38R is a bullseye size at a confirmed price. Replaces the Aquascutum Aqua 5 lead, which never surfaced a price at all. Note the 'hacking' cut runs a touch shorter than a full topcoat -- confirm length against the jacket-shoulder sizing logic before buying.",
           "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
+          "foundAt": "2026-10-10",
+          "status": "new"
         },
         {
           "id": "ebay-jpress-balmacaan-gray-m",
