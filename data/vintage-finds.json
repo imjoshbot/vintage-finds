@@ -665,7 +665,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle — soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus — ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-10-10",
+      "lastRun": "2026-10-11",
       "items": [
         {
           "id": "ebayde-rrl-fairisle-sm",
@@ -938,6 +938,22 @@
           "strongMatch": false,
           "foundAt": "2026-10-07",
           "status": "seen"
+        },
+        {
+          "id": "careofcarl-drakes-brushedshetlandcrew-grey-m",
+          "brand": "Drake's",
+          "size": "Medium",
+          "measurements": "Not listed -- verify with retailer",
+          "colorWeave": "Grey brushed Shetland wool crewneck",
+          "condition": "New (current stock)",
+          "price": "€255",
+          "priceVerified": true,
+          "source": "Care of Carl (Drake's specialist retailer)",
+          "link": "https://www.careofcarl.com/en/drakes-brushed-shetland-crew-grey",
+          "matchNote": "Drake's own brushed Shetland crewneck -- the archetypal Shaggy Dog-adjacent texture named in the benchmark -- in grey (charcoal-adjacent core palette) at a confirmed price and bullseye Medium size from a specialist heritage retailer rather than an unverifiable resale listing.",
+          "strongMatch": false,
+          "foundAt": "2026-10-11",
+          "status": "new"
         }
       ]
     },
