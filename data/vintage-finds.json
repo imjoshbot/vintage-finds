@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:00:00Z",
+  "updatedAt": "2026-10-11T11:13:33Z",
   "searches": [
     {
       "slug": "sport-coats-blazers",
@@ -1965,7 +1965,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-10-10",
+      "lastRun": "2026-10-11",
       "items": [
         {
           "id": "ebay-brooksbrothers-camelhair-polocoat",
@@ -2192,20 +2192,20 @@
           "status": "seen"
         },
         {
-          "id": "ebay-jccording-reversible-raglan-38m",
-          "brand": "JC Cording & Co. (Cordings)",
-          "size": "38 / M",
+          "id": "ebayde-177444430507",
+          "brand": "Burberrys (vintage)",
+          "size": "38R",
           "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Glen plaid wool, reverses to black",
-          "condition": "Pre-owned",
-          "price": "$325.00 ($308.75 with eBay coupon) or Best Offer, plus $21.21 shipping",
+          "colorWeave": "Beige gabardine, double-breasted belted trench",
+          "condition": "Pre-owned, Made in USA -- listing/comparable data notes belt and removable wool liner may be missing, verify before buying",
+          "price": "~$200.99",
           "priceVerified": true,
-          "source": "eBay",
-          "link": "https://www.ebay.com/sch/i.html?_nkw=JC+Cording+reversible+raglan+coat+38",
-          "matchNote": "Cordings is an explicit target brand, and a reversible glen-plaid raglan coat in the exact 38/M size hits the 'raglan coats' criterion directly. Re-confirmed active via fresh search today (same price, 17 watchers noted) but a direct item URL still didn't surface -- link remains a search-results page; click through to find the live listing (seller handle 'derosnopS').",
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/177444430507",
+          "matchNote": "Classic beige Burberrys double-breasted trench at the exact bullseye 38R size -- a distinct model/colorway from the existing green Nova-check Burberrys piece. Confirm the belt and liner are included before buying. Replaces the JC Cording reversible raglan, whose link never resolved to a direct listing page.",
           "strongMatch": false,
-          "foundAt": "2026-09-30",
-          "status": "seen"
+          "foundAt": "2026-10-11",
+          "status": "new"
         },
         {
           "id": "ebay-176518589658",
