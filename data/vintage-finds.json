@@ -1636,7 +1636,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
-      "lastRun": "2026-10-10",
+      "lastRun": "2026-10-11",
       "items": [
         {
           "id": "drakes-grenadine-bottlegreen",
@@ -1719,20 +1719,20 @@
           "status": "seen"
         },
         {
-          "id": "ebay-jpress-foulard-navy-redyellow",
-          "brand": "J. Press",
-          "size": "One size",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Silk foulard, neat pattern, navy/red/yellow",
-          "condition": "Vintage",
-          "price": "Not confirmed via search — check listing",
+          "id": "baltzar-drakes-wine-grenadine",
+          "brand": "Drake's",
+          "size": "One size (8cm width, standard length)",
+          "measurements": "8cm width",
+          "colorWeave": "Wine silk grenadine, hand-rolled, large knot",
+          "condition": "New (current stock)",
+          "price": "Not confirmed via search -- check listing",
           "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/117375307559",
-          "matchNote": "Neat foulard on navy ground from a core Ivy heritage maker — versatile with tweed and flannel suits alike.",
+          "source": "Baltzar (Drake's specialist retailer)",
+          "link": "https://baltzar.com/collections/drakes/products/wine-handrolled-large-knot-grenadine-silk-tie",
+          "matchNote": "A near-literal hit on this category's own benchmark wording ('a wine or bottle-green...grenadine tie') -- wine is a colorway not yet represented among the existing bottle-green grenadine and forest-green/burgundy club tie from the same house. Held short of strongMatch since Drake's grenadine/club pieces are already well-represented at that tier. Replaces the J. Press navy foulard, whose price was never confirmed.",
           "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
+          "foundAt": "2026-10-11",
+          "status": "new"
         },
         {
           "id": "ebayde-326854354417",
