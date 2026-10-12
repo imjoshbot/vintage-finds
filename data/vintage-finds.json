@@ -336,7 +336,7 @@
       "title": "Suits",
       "benchmark": "Timeless natural-shoulder suiting — Brooks Brothers Golden Fleece or vintage Savile Row flannel as the touchstone, not a corporate business suit.",
       "criteria": "Timeless suits rather than corporate business suits: charcoal flannel, medium grey flannel, subtle chalk stripe, navy, brown, olive and understated Prince of Wales checks. Favor natural shoulders, higher-rise trousers, classic lapels and traditional proportions; two-piece and three-piece both welcome. Brands: Ralph Lauren Purple Label, Polo Ralph Lauren, Brooks Brothers Golden Fleece, J. Press, Paul Stuart, O'Connell's, Hickey Freeman, Southwick, vintage Savile Row (Anderson & Sheppard, Huntsman, Kilgour, Henry Poole, Chester Barrie), Canali, Corneliani, Caruso, Ring Jacket and other excellent traditional tailoring. Sizing: jacket 36S–38S preferred (also 36R/38R/40S or untagged vintage if measurements suggest tailoring potential); trousers 30–33in waist, 30–32in inseam, higher rise. Condition: good wearable vintage or better.",
-      "lastRun": "2026-10-11",
+      "lastRun": "2026-10-12",
       "items": [
         {
           "id": "grailed-7189816",
@@ -416,7 +416,7 @@
           "matchNote": "Henry Poole is one of the oldest and most storied Savile Row bespoke houses, explicitly named in the brief, at a bullseye 38S with a confirmed price -- replaces the earlier Henry Poole lead, which never resolved size or price. Silk/linen tic pattern is lighter-weight than the core flannel benchmark, so kept as a secondary pick despite the strong brand/size match.",
           "strongMatch": false,
           "foundAt": "2026-10-11",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-jpress-38r-charcoal-pinstripe",
@@ -448,7 +448,7 @@
           "matchNote": "Oxxford Clothes is top-tier American luxury tailoring (already a favored maker in the Ties category) in a direct-hit navy chalk stripe at a bullseye 38R size and a strong confirmed price for the quality tier. Replaces the Brooks Brothers vintage Prince of Wales lead, which never resolved any size, price or condition detail.",
           "strongMatch": false,
           "foundAt": "2026-10-10",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "grailed-drakes-pow-check",
@@ -640,7 +640,7 @@
           "matchNote": "Gieves & Hawkes is a storied Savile Row bespoke house in the same class as the brief's named makers (Huntsman, Henry Poole, Anderson & Sheppard); dead-center 38R size with a confirmed, exceptionally low price for genuine 1970s bespoke Savile Row tailoring -- one of the best value finds in this category to date.",
           "strongMatch": false,
           "foundAt": "2026-10-08",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebayde-376622008974",
@@ -656,7 +656,7 @@
           "matchNote": "Canali is a named brand in the brief; navy Shadow Glen plaid reads close to the understated Prince of Wales/glen check the category favors, and 38R is dead-center the preferred size. Not vintage heritage tailoring like the bespoke pieces already in the list, so kept as a secondary pick.",
           "strongMatch": false,
           "foundAt": "2026-10-08",
-          "status": "new"
+          "status": "seen"
         }
       ]
     },
