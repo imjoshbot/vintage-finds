@@ -1323,7 +1323,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-10-11",
+      "lastRun": "2026-10-12",
       "items": [
         {
           "id": "grailed-53884855",
@@ -1403,7 +1403,7 @@
           "matchNote": "Named brand (Church's, especially favored vintage) in a classic wingtip brogue, dead-center US 9.5 sizing. Custom Grade line is Church's better tier, a step up from the standard listings already in this category.",
           "strongMatch": false,
           "foundAt": "2026-10-09",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebayde-127549478983",
@@ -1419,7 +1419,7 @@
           "matchNote": "Priority brand (Edward Green) in snuff suede tassels -- almost exactly the category benchmark wording -- at a remarkably low price for the brand. Condition is only 'acceptable' per the seller, so this is a value lead to inspect carefully rather than a pristine pair.",
           "strongMatch": false,
           "foundAt": "2026-10-09",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-285616582817",
@@ -1523,15 +1523,15 @@
           "size": "US 9.5D (184 last)",
           "measurements": "Not listed -- verify with seller",
           "colorWeave": "Dark oak brown calf, Belgravia tassel penny loafer",
-          "condition": "Not confirmed via search -- check listing",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
+          "condition": "Excellent pre-owned condition per listing",
+          "price": "$450.00",
+          "priceVerified": true,
           "source": "eBay.de",
           "link": "https://www.ebay.de/itm/157079781438",
-          "matchNote": "A third, distinct Edward Green model (Belgravia tassel, 184 last) alongside the existing Duke loafer and cap-toe derby -- dark oak is a rich brown right on the benchmark palette, at a bullseye 9.5D. Replaces the Paraboot x Arpenteur derby/boot, which wasn't a loafer/brogue silhouette and ran small per the seller.",
+          "matchNote": "A third, distinct Edward Green model (Belgravia tassel, 184 last) alongside the existing Duke loafer and cap-toe derby -- dark oak is a rich brown right on the benchmark palette, at a bullseye 9.5D. Replaces the Paraboot x Arpenteur derby/boot, which wasn't a loafer/brogue silhouette and ran small per the seller. Price now confirmed at $450 via reconfirmed search today (2026-10-12).",
           "strongMatch": false,
           "foundAt": "2026-10-11",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "grailed-5513825",
@@ -1643,7 +1643,7 @@
           "matchNote": "A second Brooks Brothers x Alden collaboration distinct from the existing Color 8 penny loafer -- a black shell cordovan plain-toe derby, the dressier end of the brief, at the exact 9.5D target size. Replaces the Rancourt camp moc, which was a looser silhouette fit (not a loafer/brogue/boot) in a narrow B width.",
           "strongMatch": false,
           "foundAt": "2026-10-10",
-          "status": "new"
+          "status": "seen"
         }
       ]
     },
