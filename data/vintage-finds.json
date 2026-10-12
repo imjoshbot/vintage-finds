@@ -6,7 +6,7 @@
       "title": "Sport Coats & Blazers",
       "benchmark": "Major priority. Visual benchmark: the J. Press Light Olive Barleycorn Harris Tweed Sport Coat — muted, sophisticated, earthy brown/olive/taupe, traditional Ivy/English-country feel.",
       "criteria": "Major priority category. Harris Tweed, Donegal, Shetland and other high-quality English/Scottish wool. Prioritize herringbone, barleycorn, subtle nailhead, gun club and restrained checks. Colors: peat brown, brown-grey, taupe, lovat, olive-brown, tobacco, oatmeal, charcoal, moss, muted rust, and earthy color-blends that read as a sophisticated muted brown from a distance. Favor soft/natural shoulders, 3-roll-2 sack construction, traditional two/three-button jackets and classic proportions — a sport coat/blazer, not an overcoat. Strongly prefer jackets with brown leather (or leather-look) buttons over horn, corozo or plastic buttons — leather buttons are a strong positive signal here and should be called out explicitly in matchNote whenever visible in listing photos or description. Brands: J. Press, Brooks Brothers, Ralph Lauren / Polo Ralph Lauren / Purple Label, Dunn & Co., O'Connell's, The Andover Shop, Southwick, Norman Hilton, Chipp, Paul Stuart, quality Harris Tweed makers, Magee, DAKS, Austin Reed, Burberry/Burberrys, Aquascutum, and other excellent vintage British, Scottish, Irish or American tailoring. Avoid orange/rust-dominant tweeds and loud plaids. Condition: good wearable vintage or better — avoid significant moth damage, holes, permanent stains or structural damage. Price: prioritize under $300, ideally under $200; an exceptional piece can run higher.",
-      "lastRun": "2026-10-11",
+      "lastRun": "2026-10-12",
       "items": [
         {
           "id": "poshmark-southwick-692e0d4b64f5a233ad45587a",
@@ -71,7 +71,7 @@
           "matchNote": "Priority brand (Ralph Lauren/Polo) in camel hair -- a luxurious natural fiber the brief's earthy-palette spirit welcomes -- with full dealer-measured specs (16.5in shoulder, 39in chest) landing close to the ideal jacket window. Grey leans cooler than the core brown/olive/taupe target, so kept as a secondary pick rather than a strong match; price is above the usual range but camel hair justifies it.",
           "strongMatch": false,
           "foundAt": "2026-10-09",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-156638789806",
@@ -87,7 +87,7 @@
           "matchNote": "Priority brand (Polo Ralph Lauren) at a bullseye 38S size in a restrained charcoal glen plaid -- exactly the subtle-check pattern family the brief favors, though charcoal leans cooler than the core brown/olive/taupe palette so this is a secondary pick pending price/condition confirmation. Replaces the grey/blue Blue Label glen plaid, which never resolved a price.",
           "strongMatch": false,
           "foundAt": "2026-10-11",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebay-137745976467",
@@ -101,22 +101,6 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/137745976467",
           "matchNote": "Bullseye brand (J. Press) and target size (38), beige color reads close to the oatmeal-brown end of the palette. Rolled lapel, hook vent, 3-button single-breasted — classic Ivy sack styling. Leather elbow patches called out in the listing (a good quality signal), but button material itself isn't confirmed — check photos for leather buttons specifically.",
-          "strongMatch": false,
-          "foundAt": "2026-09-27",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-175632853621",
-          "brand": "Magee",
-          "size": "40R/41R",
-          "measurements": "Not listed — verify with seller",
-          "colorWeave": "Gray speckle Donegal wool",
-          "condition": "Not listed — check listing photos",
-          "price": "Not confirmed via search — check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/175632853621",
-          "matchNote": "Priority brand (Magee) in genuine Donegal — an explicitly accepted alternate fabric — with a muted gray-speckle tone the brief allows (brown-grey/taupe family). Size sits at the edge of the \"40S or others if tailorable\" allowance rather than bullseye 36–38. Check photos for leather buttons.",
           "strongMatch": false,
           "foundAt": "2026-09-27",
           "status": "seen"
@@ -263,7 +247,7 @@
           "matchNote": "Priority brand (Polo Ralph Lauren) in a brown herringbone silk-blend tweed at a bullseye 38 Regular size -- color reads correctly in the earthy brown family the brief favors. Button material and condition aren't confirmed, so verify photos before buying. Replaces the cotton-tweed Grailed herringbone, which was a lighter-weight fabric than the wool pieces already in the list.",
           "strongMatch": false,
           "foundAt": "2026-10-11",
-          "status": "new"
+          "status": "seen"
         },
         {
           "id": "ebayde-316890719208",
@@ -328,6 +312,22 @@
           "strongMatch": false,
           "foundAt": "2026-10-07",
           "status": "seen"
+        },
+        {
+          "id": "ebayde-357929069404",
+          "brand": "Unbranded (vintage, labeled Donegal tweed)",
+          "size": "38R",
+          "measurements": "Not listed -- verify with seller",
+          "colorWeave": "Donegal tweed, speckled weave",
+          "condition": "Excellent used condition per listing",
+          "price": "$39.97",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/357929069404",
+          "matchNote": "Vintage 1970s Donegal tweed blazer explicitly titled \"Ivy League Academia / Old Money\" -- squarely on the brief's aesthetic language -- at a bullseye 38R and an exceptionally low confirmed price. Unbranded, so kept as a budget secondary pick rather than a strong match; this brings the unbranded/no-maker tweed count in this category to three, at the cap the brief sets for generic padding.",
+          "strongMatch": false,
+          "foundAt": "2026-10-12",
+          "status": "new"
         }
       ]
     },
