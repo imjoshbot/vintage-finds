@@ -665,7 +665,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle — soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus — ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-10-11",
+      "lastRun": "2026-10-12",
       "items": [
         {
           "id": "ebayde-rrl-fairisle-sm",
@@ -953,6 +953,22 @@
           "matchNote": "Drake's own brushed Shetland crewneck -- the archetypal Shaggy Dog-adjacent texture named in the benchmark -- in grey (charcoal-adjacent core palette) at a confirmed price and bullseye Medium size from a specialist heritage retailer rather than an unverifiable resale listing.",
           "strongMatch": false,
           "foundAt": "2026-10-11",
+          "status": "seen"
+        },
+        {
+          "id": "careofcarl-drakes-donegal-crewneck-brown-m",
+          "brand": "Drake's",
+          "size": "Medium",
+          "measurements": "Not listed -- verify with retailer",
+          "colorWeave": "Brown Donegal wool crewneck",
+          "condition": "New (current stock)",
+          "price": "€450",
+          "priceVerified": true,
+          "source": "Care of Carl (Drake's specialist retailer)",
+          "link": "https://www.careofcarl.com/en/drakes-donegal-crewneck-brown",
+          "matchNote": "A second Drake's crewneck from the same specialist retailer as the grey brushed Shetland already in the list, this time in brown Donegal wool -- dead-center the brief's tobacco/oatmeal palette -- at a confirmed price and bullseye Medium size, in stock from a heritage retailer rather than an unverifiable resale listing.",
+          "strongMatch": false,
+          "foundAt": "2026-10-12",
           "status": "new"
         }
       ]
