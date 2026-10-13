@@ -1652,7 +1652,7 @@
       "title": "Ties",
       "benchmark": "A wine or bottle-green ancient madder or grenadine tie — the kind of piece that quietly makes a tweed jacket work.",
       "criteria": "Ancient madder, grenadine, knitted silk, wool, challis, shantung/raw silk, foulards, club ties and traditional repp stripes. Prioritize burgundy, wine, forest green, bottle green, navy, chocolate, rust, ochre and muted combinations that complement brown/olive tweed. Brands: Drake's, Ralph Lauren Purple Label, Polo Ralph Lauren, J. Press, Brooks Brothers, Paul Stuart, O'Connell's, Ben Silver, Hermès, Charvet, Turnbull & Asser, Holliday & Brown, E. Marinella, Kiton, Brioni, Rubinacci, Franco Bassi and Petronius. Vintage ties from excellent makers should be actively sought — they can represent exceptional value.",
-      "lastRun": "2026-10-12",
+      "lastRun": "2026-10-13",
       "items": [
         {
           "id": "drakes-grenadine-bottlegreen",
@@ -1741,11 +1741,11 @@
           "measurements": "8cm width",
           "colorWeave": "Wine silk grenadine, hand-rolled, large knot",
           "condition": "New (current stock)",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
+          "price": "$220.00",
+          "priceVerified": true,
           "source": "Baltzar (Drake's specialist retailer)",
           "link": "https://baltzar.com/collections/drakes/products/wine-handrolled-large-knot-grenadine-silk-tie",
-          "matchNote": "A near-literal hit on this category's own benchmark wording ('a wine or bottle-green...grenadine tie') -- wine is a colorway not yet represented among the existing bottle-green grenadine and forest-green/burgundy club tie from the same house. Held short of strongMatch since Drake's grenadine/club pieces are already well-represented at that tier. Replaces the J. Press navy foulard, whose price was never confirmed.",
+          "matchNote": "A near-literal hit on this category's own benchmark wording ('a wine or bottle-green...grenadine tie') -- wine is a colorway not yet represented among the existing bottle-green grenadine and forest-green/burgundy club tie from the same house. Price now confirmed at $220. Held short of strongMatch since Drake's grenadine/club pieces are already well-represented at that tier.",
           "strongMatch": false,
           "foundAt": "2026-10-11",
           "status": "seen"
