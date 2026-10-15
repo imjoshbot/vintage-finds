@@ -1131,7 +1131,7 @@
       "title": "Loafers & Shoes",
       "benchmark": "A well-worn pair of chocolate-suede penny loafers or Alden tassels — dressy enough for tweed, easy enough for every day.",
       "criteria": "Penny loafers, tassel loafers, full-strap loafers, suede loafers, brogues/wingtips, country Derbies and understated boots. Favor dark brown, chocolate suede, snuff suede, burgundy/Color 8, cordovan and black where appropriate. Brands: Alden, Crockett & Jones, Edward Green, George Cleverley, Church's (especially vintage), Tricker's, J.M. Weston, Rancourt, Grant Stone, Ralph Lauren/Purple Label, Brooks Brothers/Alden collaborations, vintage Allen Edmonds and Paraboot. Sizing: US 9.5.",
-      "lastRun": "2026-10-14",
+      "lastRun": "2026-10-15",
       "items": [
         {
           "id": "grailed-53884855",
@@ -1246,38 +1246,6 @@
           "status": "seen"
         },
         {
-          "id": "ebay-127895642727",
-          "brand": "J.M. Weston",
-          "size": "9.5D (173 last)",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Burgundy calf leather",
-          "condition": "Not confirmed via search -- check listing",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/127895642727",
-          "matchNote": "French heritage tassel loafer, burgundy on the softer 173 last -- dressier alternative to Alden, exact tagged size for the target foot. J.M. Weston runs true-ish to size but check width/last shape before buying.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-205982831163",
-          "brand": "Church's",
-          "size": "US 9.5 (UK 8.5, EU 42.5)",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Brown suede",
-          "condition": "Custom Grade line -- condition not confirmed via search",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/205982831163",
-          "matchNote": "Custom Grade Church's wingtip derby in brown suede -- exactly the 'country Derbies/brogues' brief, vintage English bench-made construction, correct US size. Strong tweed-and-flannel companion piece.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
           "id": "ebay-117328088667",
           "brand": "Church's",
           "size": "US 9.5 (UK 8.5)",
@@ -1289,22 +1257,6 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/117328088667",
           "matchNote": "Black wingtip brogue, correct US size, vintage Church's England-made -- the more formal end of the brief, useful for suits/odd jackets where black is called for without going flashy.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-117232376059",
-          "brand": "Grant Stone",
-          "size": "9.5E (wide)",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Bourbon suede",
-          "condition": "Not confirmed via search -- check listing",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/117232376059",
-          "matchNote": "Horsebit loafer in bourbon suede -- heritage American maker, correct size though E width (check foot fit), warm brown tone sits right in the chocolate/snuff suede family the brief calls for and is easy day-to-day wear under odd trousers.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
@@ -1452,6 +1404,38 @@
           "strongMatch": false,
           "foundAt": "2026-10-10",
           "status": "seen"
+        },
+        {
+          "id": "sartorialistamsterdam-edward-green-dark-brown-mink-suede-piccadilly-penny-loafer",
+          "brand": "Edward Green",
+          "size": "UK 8.5 / US 9.5",
+          "measurements": "Not confirmed via search -- check listing",
+          "colorWeave": "Dark brown mink suede, Piccadilly penny loafer on the 184 last (unlined)",
+          "condition": "New (specialist retailer stock, not resale)",
+          "price": "~EUR 498 (price confirmed for the Army Green variant on the same site; dark brown mink variant price not independently confirmed)",
+          "priceVerified": false,
+          "source": "Sartorialist Amsterdam (specialist Edward Green dealer)",
+          "link": "https://sartorialistamsterdam.com/products/edward-green-dark-brown-mink-suede-piccadilly-penny-loafer",
+          "matchNote": "Bullseye for the benchmark 'chocolate-suede penny loafer' -- Edward Green's dedicated 184 loafer last, dark brown/mink suede, brand new from a specialist Edward Green dealer rather than a general marketplace.",
+          "strongMatch": true,
+          "foundAt": "2026-10-15",
+          "status": "new"
+        },
+        {
+          "id": "ebayde-385000147260",
+          "brand": "Allen Edmonds",
+          "size": "US 9.5",
+          "measurements": "Not confirmed via search -- check listing",
+          "colorWeave": "Brown leather Dalton tassel loafer",
+          "condition": "Used, per listing title",
+          "price": "$65.00 + shipping",
+          "priceVerified": true,
+          "source": "eBay.de",
+          "link": "https://www.ebay.de/itm/385000147260",
+          "matchNote": "Vintage Allen Edmonds is explicitly listed as an acceptable brand; brown tassel loafer in the right size at a low budget price point for an everyday pair.",
+          "strongMatch": false,
+          "foundAt": "2026-10-15",
+          "status": "new"
         }
       ]
     },
