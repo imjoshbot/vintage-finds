@@ -1725,7 +1725,7 @@
       "title": "Outerwear",
       "benchmark": "A camelhair polo coat or an olive tweed topcoat — outerwear with real weight and history, not a modern shell.",
       "criteria": "Tweed topcoats, covert coats, polo coats, camelhair coats, raglan coats, waxed jackets, field jackets, traditional raincoats and classic country outerwear. Brands: Ralph Lauren / Polo Ralph Lauren / Purple Label, Burberry/Burberrys, Aquascutum, Barbour, Grenfell, Private White V.C., Mackintosh, Cordings, Chrysalis, Lodenfrey, Schneiders, Brooks Brothers, J. Press and vintage British makers. Prioritize camel, olive, lovat, brown, tobacco, navy, charcoal and traditional tweeds. Sizing: same jacket-shoulder logic as sport coats (36S–38S preferred) — outerwear can run a size larger to fit over a jacket.",
-      "lastRun": "2026-10-14",
+      "lastRun": "2026-10-15",
       "items": [
         {
           "id": "ebay-brooksbrothers-camelhair-polocoat",
@@ -1808,22 +1808,6 @@
           "status": "seen"
         },
         {
-          "id": "vestiaire-barbour-beaufort-olive-67357695",
-          "brand": "Barbour",
-          "size": "38 UK/US",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Olive/green waxed Sylkoil cotton, Beaufort model",
-          "condition": "Good condition per listing",
-          "price": "$192",
-          "priceVerified": true,
-          "source": "Vestiaire Collective",
-          "link": "https://us.vestiairecollective.com/men-clothing/jackets/barbour/green-cotton-barbour-jacket-67357695.shtml",
-          "matchNote": "Named brand (Barbour) in the classic waxed-cotton Beaufort model and core olive/green colorway, dead-center 38 sizing, on an authenticated consignment platform the style guide prefers over generic eBay auctions. A distinct listing from the Bedale already in the list (different model, different seller).",
-          "strongMatch": false,
-          "foundAt": "2026-10-09",
-          "status": "seen"
-        },
-        {
           "id": "ebayde-146970292880",
           "brand": "Cordings of Piccadilly",
           "size": "38R",
@@ -1872,22 +1856,6 @@
           "status": "seen"
         },
         {
-          "id": "ebay-burberrys-green-nova-40r",
-          "brand": "Burberry (Burberrys-era)",
-          "size": "40R",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Green Nova check exterior with wool liner",
-          "condition": "Vintage, pre-owned",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/267663047289",
-          "matchNote": "Green reads more country than the ubiquitous tan Burberry trench. 40R runs one size over the jacket-shoulder target, but the brief explicitly allows outerwear to run larger to layer over a jacket -- confirm shoulder measurement before buying.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
           "id": "ebay-grenfell-rainjacket-36",
           "brand": "Grenfell",
           "size": "36 (runs small for the 36S-38S target -- verify shoulder/chest before buying)",
@@ -1899,22 +1867,6 @@
           "source": "eBay",
           "link": "https://www.ebay.com/itm/147404927607",
           "matchNote": "Genuine vintage Grenfell mountain-label rain jacket in the brand's own cloth -- squarely the 'field jacket / traditional raincoat' territory the brief calls for, and Grenfell is named explicitly. Tagged 36 is below preferred range so shoulder width matters most here. Kept as one of the 2 best Grenfell entries in this list (with the navy Begg-lined trench) to avoid redundant padding.",
-          "strongMatch": false,
-          "foundAt": "2026-09-28",
-          "status": "seen"
-        },
-        {
-          "id": "ebay-grenfell-navy-trench-m-begg",
-          "brand": "Grenfell",
-          "size": "M",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Navy, Vulcanize London construction with Begg liner",
-          "condition": "Vintage, used",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "eBay",
-          "link": "https://www.ebay.com/itm/316999661603",
-          "matchNote": "Navy Grenfell trench with a Begg (Scottish heritage textile house) liner -- good pedigree layering of two English/Scottish heritage names. Size M should suit the Small/Medium target; verify shoulders.",
           "strongMatch": false,
           "foundAt": "2026-09-28",
           "status": "seen"
@@ -2046,6 +1998,54 @@
           "strongMatch": false,
           "foundAt": "2026-10-07",
           "status": "seen"
+        },
+        {
+          "id": "ebayde-326897288732",
+          "brand": "Chrysalis x Johnstons of Elgin",
+          "size": "M (marked 38/40, 48/50)",
+          "measurements": "Not confirmed via search -- check listing",
+          "colorWeave": "Tweed raglan field coat (Johnstons of Elgin tweed)",
+          "condition": "Used, seller-described excellent",
+          "price": "£295",
+          "priceVerified": true,
+          "source": "eBay.de (UK seller, ships to US)",
+          "link": "https://www.ebay.de/itm/326897288732",
+          "matchNote": "Raglan tweed field coat -- hits the raglan-coat criterion directly and brings a Chrysalis piece into the category (brand named in brief, not yet represented). Correct size range, decent price for the quality of cloth.",
+          "strongMatch": false,
+          "foundAt": "2026-10-15",
+          "status": "new"
+        },
+        {
+          "id": "vestiaire-burberry-camelwool-coat-65371301",
+          "brand": "Burberry",
+          "size": "38 UK-US",
+          "measurements": "Length ~40.2in, sleeve ~22.4in (per listing)",
+          "colorWeave": "Camel, 100% wool",
+          "condition": "Not confirmed via search -- check listing (vintage, seller in Spain)",
+          "price": "Not confirmed via search -- check listing",
+          "priceVerified": false,
+          "source": "Vestiaire Collective",
+          "link": "https://us.vestiairecollective.com/men-clothing/coats/burberry/camel-wool-burberry-coat-65371301.shtml",
+          "matchNote": "A genuine camel wool overcoat (the actual visual benchmark), not another trench -- diversifies the existing Burberry entries, which are otherwise all gabardine/Nova trenches.",
+          "strongMatch": false,
+          "foundAt": "2026-10-15",
+          "status": "new"
+        },
+        {
+          "id": "ebayde-286879472766",
+          "brand": "Peller & Mure",
+          "size": "M",
+          "measurements": "Not confirmed via search -- check listing",
+          "colorWeave": "Beige, 100% camel hair",
+          "condition": "Used-good, per listing",
+          "price": "$120",
+          "priceVerified": true,
+          "source": "eBay.de (ships from New York)",
+          "link": "https://www.ebay.de/itm/286879472766",
+          "matchNote": "Vintage American camel hair overcoat, size M plausible for the 38S/38R range -- better fit odds than the many 42-44R camel coats turned up elsewhere this search, at a good entry price.",
+          "strongMatch": false,
+          "foundAt": "2026-10-15",
+          "status": "new"
         }
       ]
     }
