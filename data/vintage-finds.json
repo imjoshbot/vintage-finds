@@ -585,7 +585,7 @@
       "title": "Sweaters & Knitwear",
       "benchmark": "A J. Press Shaggy Dog or an RRL Fair Isle — soft, textured, unmistakably Ivy/country, from one of four houses.",
       "criteria": "Narrowed brand focus — ONLY these four: vintage Ralph Lauren / Polo Ralph Lauren, RRL (Double RL), Drake's, and J. Press. Do not surface other brands, however good, outside these four. Shetland crewnecks, Fair Isle, cable-knit, cricket sweaters, lambswool, cashmere, Aran knits, traditional cardigans in any of these four labels. Colors: oatmeal, cream, camel, tobacco, olive, moss, forest green, burgundy, navy, charcoal, muted Fair Isle mixtures. Sizing: Small or Medium.",
-      "lastRun": "2026-10-14",
+      "lastRun": "2026-10-15",
       "items": [
         {
           "id": "ebayde-rrl-fairisle-sm",
@@ -764,22 +764,6 @@
           "status": "seen"
         },
         {
-          "id": "grailed-6666019",
-          "brand": "Drake's",
-          "size": "Medium",
-          "measurements": "Not listed -- verify with seller",
-          "colorWeave": "Lambswool knit (color not stated in snippet -- verify with seller)",
-          "condition": "Pre-owned, sold previously at $140 per comparable listing data",
-          "price": "Not confirmed via search -- check listing",
-          "priceVerified": false,
-          "source": "Grailed",
-          "link": "https://www.grailed.com/listings/6666019-drakes-drake-s-london-lambswool-knit",
-          "matchNote": "Drake's lambswool knit in the exact Medium target size, rounding out the olive jumper and cashmere turtleneck already in the list with another confirmed-brand option.",
-          "strongMatch": false,
-          "foundAt": "2026-10-03",
-          "status": "seen"
-        },
-        {
           "id": "ebay-17042537122",
           "brand": "Drake's",
           "size": "Medium",
@@ -890,6 +874,22 @@
           "strongMatch": false,
           "foundAt": "2026-10-12",
           "status": "seen"
+        },
+        {
+          "id": "flaneurs-jpress-shaggydog-cardigan-navy",
+          "brand": "J. Press",
+          "size": "Not confirmed via search -- check listing (product page notes only XL nearly sold out, implying S/M were in stock at time of indexing)",
+          "measurements": "Not confirmed via search -- check listing",
+          "colorWeave": "Navy brushed Shetland wool, 5-button cardigan, two patch pockets, 5-gauge knit; Made-in-Japan reissue of the classic Shaggy Dog",
+          "condition": "New (current retail stock)",
+          "price": "EUR 245",
+          "priceVerified": true,
+          "source": "Flaneurs.net (specialist heritage/Ivy menswear dealer)",
+          "link": "https://flaneurs.net/en/vest-cardigan/9187-j-press-shaggy-dog-sweater-cardigan-navy.html",
+          "matchNote": "Shaggy Dog cardigan in navy -- fills a real gap since existing J. Press entries are all pullovers/a vest, none a cardigan. Benchmark-perfect material/brand match; only hedge is size availability wasn't confirmable via search snippet.",
+          "strongMatch": false,
+          "foundAt": "2026-10-15",
+          "status": "new"
         }
       ]
     },
